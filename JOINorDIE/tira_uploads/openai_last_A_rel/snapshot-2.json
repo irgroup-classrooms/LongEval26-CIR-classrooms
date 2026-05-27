@@ -1,0 +1,843 @@
+{
+  "meta": {
+    "team_name": "JOINorDIE",
+    "description": "LLM-based next query prediction using OpenAI GPT-4o-mini.",
+    "run_name": "openai_last_A_rel",
+    "query_mode": "last",
+    "prompt": "A",
+    "doc_variant": "rel"
+  },
+  "115": [
+    "impact of authoritative parenting on adolescent self-concept",
+    "relationship between permissive parenting and teenage decision-making",
+    "effects of authoritarian parenting on adolescent social relationships",
+    "case studies on neglectful parenting and identity development in teens",
+    "theoretical frameworks for understanding parenting styles and adolescent identity"
+  ],
+  "0": [
+    "impact of climatic conditions on rice yield",
+    "soil quality parameters affecting rice production",
+    "pest management strategies in rice cultivation",
+    "economic factors influencing rice market prices",
+    "agricultural practices that enhance rice quality"
+  ],
+  "1": [
+    "readership perception of online newspapers 2018 2024",
+    "credibility of hardcopy vs online newspapers studies",
+    "reader engagement levels in online and hardcopy newspapers",
+    "satisfaction metrics for online versus traditional newspapers",
+    "comparative analysis of news consumption preferences 2018 2024"
+  ],
+  "4": [
+    "Global Aero Terminal 5320 design specifications",
+    "applications of Global Aero Terminal 5320 in aerospace industry",
+    "technical manuals for Global Aero Terminal 5320",
+    "theses on Global Aero Terminal 5320 functionality",
+    "research papers on technologies related to Global Aero Terminal 5320"
+  ],
+  "5": [
+    "biodata templates for job applications",
+    "best practices for presenting biodata",
+    "examples of biodata for academic purposes",
+    "key information to include in biodata",
+    "biodata formats for personal introductions"
+  ],
+  "8": [
+    "best practices for teaching Middle English literature online",
+    "impact of asynchronous learning on literature comprehension",
+    "case studies of Middle English integration in online courses",
+    "pedagogical strategies for asynchronous Middle English education",
+    "historical context of Middle English in modern educational technology"
+  ],
+  "12": [
+    "cetirizine mechanism of action",
+    "side effects of cetirizine in adults",
+    "clinical studies on cetirizine efficacy for allergic rhinitis",
+    "therapeutic uses of cetirizine in pediatric patients",
+    "comparison of cetirizine with other antihistamines"
+  ],
+  "38": [
+    "code-switching in educational settings",
+    "psychological effects of code-switching on bilingual speakers",
+    "social factors influencing code-switching behavior",
+    "theoretical frameworks for understanding code-switching",
+    "real-world examples of code-switching in media"
+  ],
+  "91": [
+    "5-(2-Benzoic acid) synthesis methods",
+    "5-(2-Benzoic acid) applications in pharmaceuticals",
+    "recent studies on 5-(2-Benzoic acid) properties",
+    "5-(2-Benzoic acid) in materials science",
+    "patents related to 5-(2-Benzoic acid)"
+  ],
+  "116": [
+    "types of brazing techniques",
+    "materials used in brazing processes",
+    "applications of brazed joints in automotive industry",
+    "advantages of brazed joints over welding",
+    "disadvantages and challenges of brazing"
+  ],
+  "117": [
+    "specific applications of AI robots in home automation",
+    "impact of AI robots on healthcare outcomes",
+    "ethical considerations of AI robots in education",
+    "public perception of AI robots in transportation",
+    "quantitative data on job displacement due to AI robots"
+  ],
+  "118": [
+    "market entry strategies in international business",
+    "impact of cross-cultural management on global teams",
+    "challenges in global supply chain management",
+    "case studies on successful international market expansion",
+    "latest trends in international business practices 2023"
+  ],
+  "2": [
+    "principles of acid passivation in corrosion resistance",
+    "comparison of acid passivation methods and their effectiveness",
+    "materials commonly used in acid passivation processes",
+    "case studies on acid passivation applications in different environments",
+    "advantages and limitations of acid passivation versus other techniques"
+  ],
+  "3": [
+    "impact of multitasking on stress levels in biology students",
+    "cognitive effects of multitasking in biological research settings",
+    "physiological responses to multitasking during biological experiments",
+    "relationship between multitasking and biological motion perception",
+    "stress management strategies for multitasking in biology professions"
+  ],
+  "6": [
+    "age-related differences in vocabulary learning techniques",
+    "cognitive processes in vocabulary acquisition by age group",
+    "effective vocabulary acquisition strategies for children",
+    "adult vocabulary learning methods compared to children",
+    "impact of age on retention of new vocabulary"
+  ],
+  "7": [
+    "Advantages of 17-4PH stainless steel in metal injection molding for aerospace",
+    "Specific aerospace applications of metal injection molding using 17-4 stainless steel",
+    "Technical processes involved in metal injection molding for aerospace components",
+    "Case studies of Pratt & Whitney using metal injection molding techniques",
+    "Industry standards for metal injection molding materials in aerospace applications"
+  ],
+  "9": [
+    "case studies of companies implementing a four day work week",
+    "effects of a four day work week on employee productivity",
+    "advantages and disadvantages of a four day work week",
+    "statistics on work-life balance in four day work week models",
+    "research findings on company performance with a four day work week"
+  ],
+  "10": [
+    "historical analysis of Japanese nationalist movements",
+    "impact of nationalism on Japanese contemporary society",
+    "case studies of specific nationalist movements in Japan",
+    "Japanese national identity in the context of globalization",
+    "implications of Japanese nationalism for international relations"
+  ],
+  "11": [
+    "gender-specific factors influencing cosmetic purchases in India",
+    "cultural influences on cosmetic buying behavior among Indian consumers",
+    "marketing strategies targeting male vs female cosmetic buyers in India",
+    "personal preferences in cosmetic product selection by gender in India",
+    "academic theses on consumer behavior in the Indian cosmetics market"
+  ],
+  "13": [
+    "case studies illustrating chaos in psychoanalysis",
+    "theoretical frameworks in psychoanalysis by Andr\u00e9 Green",
+    "impact of chaos on therapeutic outcomes in psychoanalysis",
+    "educational slides on psychoanalysis case studies",
+    "theses on the aims of psychoanalysis from Cornell University"
+  ],
+  "14": [
+    "digital marketing strategies in Hungary",
+    "Hungarian consumer behavior in online marketing",
+    "effectiveness of digital marketing channels in Hungary",
+    "academic theses on digital marketing in Hungarian language",
+    "trends in digital marketing practices in Hungary"
+  ],
+  "15": [
+    "impact of social services on individual self-esteem in social comparison",
+    "role of social movements in shaping social comparison dynamics",
+    "psychological effects of social comparison in marginalized communities",
+    "case studies on social services and their influence on group identity",
+    "theoretical frameworks for analyzing social comparison in psychology"
+  ],
+  "16": [
+    "Brave Search technology and algorithms",
+    "Brave Search privacy policy analysis",
+    "User interface features of secure search engines",
+    "Comparative analysis of Brave Search and DuckDuckGo",
+    "User experiences with Brave Search and satisfaction ratings"
+  ],
+  "17": [
+    "French agencies involved in EU foreign policy in the Sahel",
+    "impact of France's security strategies on Sahel stability",
+    "EU foreign policy frameworks influenced by France in the Sahel",
+    "case studies of French contributions to Sahel security policy",
+    "analysis of outcomes from France's involvement in Sahel governance"
+  ],
+  "18": [
+    "manufacturing process of nail laminated timber",
+    "structural performance characteristics of nail laminated timber",
+    "environmental benefits of using nail laminated timber in construction",
+    "case studies of nail laminated timber in architecture",
+    "comparison of nail laminated timber with other laminated timber products"
+  ],
+  "19": [
+    "techniques for transforming vintage plates into jewelry",
+    "case studies of artists repurposing vintage ceramics",
+    "materials commonly used in vintage plate jewelry making",
+    "sustainability impact of repurposing vintage items into accessories",
+    "historical significance of vintage plates in jewelry design"
+  ],
+  "20": [
+    "design thinking applications in environmental science 2018-2024",
+    "impact of design thinking on psychology research 2018-2024",
+    "innovative methodologies in design thinking for chemistry 2018-2024",
+    "reflective thinking in design thinking processes 2018-2024",
+    "case studies of design thinking in interdisciplinary fields 2018-2024"
+  ],
+  "21": [
+    "time management strategies in workplace efficiency 2022",
+    "impact of time management techniques on personal productivity 2022",
+    "educational settings and time management practices 2022",
+    "methodologies used in time management research reviews 2022",
+    "findings and implications of time management studies published in 2022"
+  ],
+  "22": [
+    "specific EU funding programs for social services",
+    "case studies on the impact of EU funds in community development",
+    "challenges in implementing EU-funded social initiatives",
+    "success stories of EU funds improving social welfare",
+    "evaluation of the effectiveness of EU funds in social cohesion"
+  ],
+  "23": [
+    "impact of school contributions on student well-being",
+    "role of school nurses in student academic performance",
+    "quality of school facilities and student social interactions",
+    "relationship between school contributions and student experiences",
+    "effects of school facilities on student health and safety"
+  ],
+  "24": [
+    "methodologies for assessing STEM student readiness in math",
+    "factors influencing student performance in STEM math and science",
+    "impact of STEM readiness assessments on educational practices",
+    "challenges faced by students in mastering STEM math concepts",
+    "criteria for evaluating readiness in STEM education programs"
+  ],
+  "25": [
+    "psychological effects of AI on self-perception",
+    "AI influence on social interactions and relationships",
+    "cultural identity in the age of artificial intelligence",
+    "ethical considerations in AI and human identity",
+    "AI's role in shaping collective identity in society"
+  ],
+  "26": [
+    "impact of authoritarian parenting on FABM student performance",
+    "financial distress effects on academic outcomes in agriculture education",
+    "comparative analysis of parenting styles and academic success in FABM students",
+    "role of financial support systems in enhancing academic performance of agriculture students",
+    "relationship between parental involvement and academic achievement in Food and Agricultural Business Management"
+  ],
+  "27": [
+    "neurobiology of marine invertebrates",
+    "neural adaptations in deep-sea fish",
+    "impact of ocean acidification on marine nervous systems",
+    "evolutionary aspects of cephalopod nervous systems",
+    "comparative studies of marine mammal neurobiology"
+  ],
+  "28": [
+    "Chechnya oil refinery automation case studies 2024",
+    "Caucasus oil industry profitability trends 2024-2025",
+    "impact of global security on Chechnya's oil sector 2024",
+    "sustainability practices in Caucasus refineries 2024-2025",
+    "dynamics of oil market in Chechnya 2024-2025"
+  ],
+  "29": [
+    "effects of part-time work on high school students' academic performance",
+    "time management strategies for working high school students",
+    "challenges faced by high school students balancing work and study",
+    "benefits of part-time employment for high school students' personal development",
+    "impact of part-time work on high school students in Japan's education system"
+  ],
+  "30": [
+    "comparison of subscription models among streaming services in Nigeria",
+    "advertising strategies of Nigerian video-on-demand platforms",
+    "content offerings of local streaming services in Nigeria",
+    "user retention techniques used by streaming services in Nigeria",
+    "impact of international streaming services on the Nigerian market"
+  ],
+  "31": [
+    "pharmacognostic methods for Fabaceae leaf identification",
+    "medicinal properties of Fabaceae family leaves",
+    "phytochemical analysis of Fabaceae leaf samples",
+    "applications of pharmacognostic studies in Fabaceae",
+    "characterization techniques for Fabaceae leaf samples"
+  ],
+  "32": [
+    "best practices for TikTok content marketing and sales integration",
+    "case studies on successful TikTok sales strategies",
+    "techniques for optimizing TikTok content for conversions",
+    "measuring the impact of content strategies on TikTok sales performance",
+    "engaging TikTok audiences to drive sales growth"
+  ],
+  "33": [
+    "Applications of machine learning in accounting audits",
+    "Case studies of AI implementation in French accounting firms",
+    "Challenges of integrating AI in audit processes",
+    "Impact of AI on audit efficiency and effectiveness metrics",
+    "Regulatory considerations for AI in accounting audits"
+  ],
+  "34": [
+    "applications of the Five Factor Inventory in clinical psychology",
+    "validity studies of the NDO Five Factor Inventory",
+    "reliability analysis of the Five Factor Model assessments",
+    "development history of the Five Factor Inventory",
+    "comparative effectiveness of the Five Factor Inventory and other personality assessments"
+  ],
+  "35": [
+    "deep learning methodologies for tool condition monitoring in CNC machines",
+    "case studies on deep learning applications in industrial tool monitoring",
+    "theoretical frameworks for intelligent monitoring systems in tool condition assessment",
+    "experimental results of deep learning in enhancing tool condition monitoring",
+    "academic theses on deep learning techniques in tool condition monitoring systems"
+  ],
+  "36": [
+    "algorithms for identifying protein complexes in PPI networks",
+    "experimental techniques for analyzing functional modules in integrated PPI networks",
+    "datasets used for protein-protein interaction network analysis",
+    "biological significance of protein complexes in disease mechanisms",
+    "therapeutic targets identified through functional modules in PPI networks"
+  ],
+  "37": [
+    "Charles Handy Shamrock Organization analysis",
+    "The Age of Unreason key concepts and implications",
+    "Charles Handy future of work perspectives",
+    "critique of Charles Handy's management theories",
+    "case studies on Charles Handy's influence in organizations"
+  ],
+  "39": [
+    "cultural expressions of outdoor reverence",
+    "spiritual practices related to nature appreciation",
+    "impact of outdoor reverence on environmental conservation",
+    "recreational activities that promote respect for nature",
+    "philosophical perspectives on reverence for outdoor spaces"
+  ],
+  "40": [
+    "quantitative research methodologies in information technology",
+    "statistical methods for analyzing technological innovations",
+    "case studies of quantitative research in engineering",
+    "data collection techniques in quantitative technology research",
+    "impact of quantitative research on telecommunications advancements"
+  ],
+  "41": [
+    "First Indochina War causes and consequences",
+    "Colonialism's impact on Vietnam's political landscape",
+    "Cold War influences on Vietnam War origins",
+    "Key political figures in Vietnam before the war",
+    "Social factors contributing to the Vietnam War outbreak"
+  ],
+  "42": [
+    "history of charcoal production methods",
+    "types of charcoal and their specific uses",
+    "activated charcoal applications in filtration",
+    "charcoal in culinary practices for grilling",
+    "artistic techniques using charcoal drawing"
+  ],
+  "43": [
+    "Examples of correlation research in social sciences",
+    "Characteristics of descriptive research methodologies",
+    "Applications of ex-post facto research in psychology",
+    "Comparative analysis of correlation and descriptive research methods",
+    "Case studies utilizing descriptive research in sociology"
+  ],
+  "44": [
+    "Fermentation techniques for Gac fruit vinegar production",
+    "Chemical processes in Gac fruit vinegar fermentation",
+    "Nutritional benefits of Gac fruit vinegar",
+    "Traditional methods of producing vinegar from Gac fruit",
+    "Health applications of Gac fruit vinegar in medicine"
+  ],
+  "45": [
+    "Chemical properties of 1,3,4-thiadiazole derivatives with semicarbazone moiety",
+    "Synthesis techniques for 1,3,4-thiadiazole semicarbazone derivatives",
+    "Antibacterial activity of novel 1,3,4-thiadiazole derivatives",
+    "Methodologies for testing antibacterial properties of semicarbazone compounds",
+    "Comparative analysis of antibacterial efficacy of thiadiazole derivatives"
+  ],
+  "46": [
+    "types of algae and their ecological roles",
+    "biotechnological applications of algae in biofuels",
+    "algae in pharmaceuticals and food production",
+    "case studies on algae's role in environmental sustainability",
+    "impact of algae on climate change mitigation"
+  ],
+  "47": [
+    "impact of music genre on exercise motivation",
+    "physiological responses to different music tempos during workouts",
+    "recommended music volumes for maximizing exercise performance",
+    "effects of age on music's influence in exercise settings",
+    "relationship between fitness level and music selection for workouts"
+  ],
+  "48": [
+    "hormonal regulation of reproduction in mammals",
+    "gametogenesis processes in amphibians",
+    "comparative reproductive strategies in birds and reptiles",
+    "impact of environmental factors on fish reproduction",
+    "parental care behaviors across different animal species"
+  ],
+  "49": [
+    "psychological assessments for measuring creativity",
+    "observational techniques in creativity evaluation",
+    "creative performance tasks examples and metrics",
+    "recent research findings on creativity measurement",
+    "practical applications of creativity assessment in education"
+  ],
+  "50": [
+    "curriculum details of NC3 undergraduate certifications",
+    "industry recognition of NC3 certifications and its impact",
+    "student outcomes and job placement rates for NC3 graduates",
+    "employer perceptions of NC3 undergraduate certifications",
+    "challenges faced by students in obtaining NC3 certifications"
+  ],
+  "51": [
+    "latest experimental results on Zinc Bromine energy storage systems",
+    "recent publications on Zinc Bromine battery efficiency improvements",
+    "environmental impact of Zinc Bromine technology in energy storage",
+    "economic viability of Zinc Bromine batteries in renewable energy applications",
+    "breakthroughs in Zinc Bromine technology for large-scale energy storage"
+  ],
+  "52": [
+    "Correlation between authoritative parenting style and self-esteem in Ligao Community College students",
+    "Impact of authoritarian parenting on self-perception among students at Ligao Community College",
+    "Effects of permissive parenting on identity formation in Ligao Community College students",
+    "Neglectful parenting style and its influence on self-identity development in students",
+    "Comparative analysis of self-identity development across different parenting styles in Ligao Community College"
+  ],
+  "53": [
+    "impact of experiential learning on student engagement",
+    "effectiveness of project-based learning in STEM education",
+    "technology-enhanced instruction and its influence on learning outcomes",
+    "comparative studies of traditional vs innovative teaching methods",
+    "age-specific responses to different teaching methodologies"
+  ],
+  "54": [
+    "principles of international contract formation",
+    "dispute resolution mechanisms in international contracts",
+    "impact of CISG on cross-border agreements",
+    "case law examples in international contract disputes",
+    "legal frameworks for enforcement of international contracts"
+  ],
+  "55": [
+    "quantum computing military applications cryptography",
+    "impact of quantum computing on military data analysis",
+    "strategic advantages of quantum supremacy in military",
+    "offensive capabilities of quantum computing in warfare",
+    "defensive measures against quantum computing threats in military"
+  ],
+  "56": [
+    "case studies of successful social media campaigns for cafes",
+    "impact of visual content on customer engagement in cafe marketing",
+    "best practices for promotional offers on Instagram for cafes",
+    "analytics tools for measuring social media marketing success in cafes",
+    "audience targeting strategies for cafe businesses on Facebook and Twitter"
+  ],
+  "57": [
+    "case studies on TikTok livestreaming commerce success",
+    "impact of TikTok livestreaming on consumer purchasing decisions",
+    "comparative analysis of TikTok and Instagram livestream commerce",
+    "statistics on sales performance during TikTok livestreams",
+    "user engagement metrics for TikTok livestreaming events"
+  ],
+  "58": [
+    "case studies of fake news influencing political events in the Philippines",
+    "impact of fake news on public health responses in the Philippines",
+    "sources and dissemination methods of fake news in the Philippines",
+    "societal reactions to fake news during elections in the Philippines",
+    "academic articles on the effects of misinformation in the Philippines"
+  ],
+  "59": [
+    "Mozi satellite manufacturing engineering challenges",
+    "materials used in Mozi satellite production",
+    "engineering principles in Mozi satellite design",
+    "production techniques for Mozi satellites",
+    "collaboration between engineering disciplines in Mozi satellite manufacturing"
+  ],
+  "60": [
+    "advancements in quantum processors for 6G network chips",
+    "challenges of integrating quantum processors in telecommunications",
+    "case studies on quantum processors in 6G chip development",
+    "impact of quantum computing on network performance in 6G",
+    "comparative analysis of quantum and traditional chip technologies in 6G"
+  ],
+  "61": [
+    "impact of quantum technologies on economic stability",
+    "case studies of quantum computing in governance",
+    "quantum production systems and government policies",
+    "geopolitical dynamics influenced by quantum technologies",
+    "quantum R&D funding and international relations"
+  ],
+  "62": [
+    "applications of Takatori phase field model in membrane domains",
+    "theoretical framework of Takatori phase field model",
+    "computational methods for Takatori phase field model in materials science",
+    "impact of Takatori phase field approach on phase transitions",
+    "membrane behavior analysis using Takatori phase field model"
+  ],
+  "63": [
+    "Tim Langen laser cooling techniques 2024",
+    "experimental setups in laser cooling of molecules 2024",
+    "theoretical implications of laser cooling in molecular physics 2024",
+    "collaborative works on laser cooling by Tim Langen 2024",
+    "applications of laser cooling in molecular physics 2024"
+  ],
+  "64": [
+    "AI algorithms for seismic performance evaluation of RC buildings",
+    "case studies on AI-driven seismic retrofitting techniques",
+    "methodologies for integrating AI in predictive modeling for RC buildings",
+    "impact of machine learning on retrofitting strategies for seismic resilience",
+    "tools and software for AI-based predictive modeling in seismic retrofitting"
+  ],
+  "65": [
+    "theoretical frameworks of game-based learning",
+    "case studies on game-based learning effectiveness",
+    "design principles for educational games",
+    "implementation strategies for game-based learning programs",
+    "assessment methods for learning outcomes in game-based learning"
+  ],
+  "66": [
+    "quantum algorithms for satellite communication",
+    "impact of quantum computing on satellite navigation systems",
+    "collaborations between quantum computing firms and space agencies",
+    "theoretical studies on quantum computing in satellite technology",
+    "recent advancements in quantum satellite data processing"
+  ],
+  "67": [
+    "best practices for online skill acquisition",
+    "impact of mentorship on skill development",
+    "methods for developing soft skills in the workplace",
+    "challenges in vocational skill training",
+    "effectiveness of self-directed learning strategies"
+  ],
+  "68": [
+    "Home economics curricula and sexual health education effectiveness",
+    "Incorporating consent education in home economics courses",
+    "Financial implications of sexual activity in home economics",
+    "Relationship education in home economics programs",
+    "Impact of home economics on students' sexual decision-making"
+  ],
+  "69": [
+    "Effects of different types of online games on HUMSS students' grades at CDSP",
+    "Correlation between time spent on online gaming and study habits of HUMSS students",
+    "Positive impacts of online gaming on academic engagement among HUMSS students",
+    "Statistical analysis of online gaming frequency and academic performance in HUMSS at CDSP",
+    "Surveys on HUMSS students' perceptions of online gaming and its effect on learning"
+  ],
+  "70": [
+    "empirical studies on big books and child engagement",
+    "effects of large-format books on concentration in preschoolers",
+    "expert opinions on reading formats and attention span in children",
+    "anecdotal evidence of big books improving focus in young readers",
+    "psychological studies on cognitive development and reading materials"
+  ],
+  "71": [
+    "consumer knowledge of food safety guidelines",
+    "impact of educational initiatives on food safety practices",
+    "surveys on food safety awareness among households",
+    "safe food handling practices adopted by consumers",
+    "effectiveness of food safety awareness campaigns"
+  ],
+  "72": [
+    "impact of multinational corporations on West African economies",
+    "case studies of neo-colonialism in West Africa",
+    "role of foreign governments in West African political structures",
+    "cultural influences of neo-colonialism in West Africa",
+    "resource management challenges in neo-colonial West Africa"
+  ],
+  "73": [
+    "synergistic effects of zeolite and banana fiber in agriculture",
+    "mechanical properties of zeolite-banana fiber composites",
+    "environmental sustainability of zeolite and banana fiber applications",
+    "chemical interactions between zeolite and banana fiber",
+    "experimental results on zeolite and banana fiber in construction materials"
+  ],
+  "74": [
+    "specific genes associated with anxiety disorders",
+    "heritability of anxiety disorders in families",
+    "genetic variants linked to anxiety symptoms",
+    "mechanisms of genetic influence on anxiety",
+    "implications of genetic factors for anxiety treatment"
+  ],
+  "75": [
+    "agent-based modeling in memory consolidation processes",
+    "traditional mathematical models for memory consolidation",
+    "publications from the European Mathematical Society on memory modeling",
+    "comparative analysis of modeling techniques in memory consolidation",
+    "recent studies on mathematical approaches to memory processes"
+  ],
+  "76": [
+    "applications of mnemonic devices in agent-based modeling for Alzheimer's",
+    "case studies on agent-based modeling in Alzheimer's research",
+    "methodologies for integrating mnemonic devices in Alzheimer's agent-based models",
+    "impact of mnemonic devices on Alzheimer's disease progression simulations",
+    "innovative approaches using agent-based modeling in Alzheimer's treatment strategies"
+  ],
+  "77": [
+    "how self-esteem influences academic motivation in senior high students",
+    "demographic variables affecting the relationship between self-esteem and academic performance",
+    "empirical studies on self-esteem levels and grades in high school students",
+    "the role of socio-economic status in self-esteem and educational outcomes",
+    "comparative analysis of self-esteem impacts on male vs female students' academic success"
+  ],
+  "78": [
+    "chemical properties of pineapple peels in bleaching",
+    "effectiveness of pineapple peels compared to synthetic bleaches",
+    "environmental impact of using pineapple peels as bleach",
+    "practical applications of pineapple peels in industrial cleaning",
+    "case studies on natural bleaching agents using pineapple peels"
+  ],
+  "79": [
+    "effects of ocean acidification on coral reefs",
+    "impact of ocean acidification on shellfish populations",
+    "chemical processes involved in ocean acidification",
+    "long-term consequences of ocean acidification for fisheries",
+    "policy discussions on mitigating ocean acidification"
+  ],
+  "80": [
+    "synthesis methods for metal nanoporous GaN structures",
+    "characterization techniques for distributed Bragg reflector cavities",
+    "optical properties of metal nanoporous GaN in photonic applications",
+    "performance analysis of metal nanoporous GaN in lasers and sensors",
+    "advantages of metal nanoporous structures in Bragg reflector design"
+  ],
+  "81": [
+    "advantages of quantum LiDAR over traditional LiDAR in mountainous terrain",
+    "case studies of quantum LiDAR applications in the Himalayas",
+    "impact of quantum LiDAR on biodiversity assessment in the Himalayan region",
+    "technological advancements in quantum light detection and ranging for environmental monitoring",
+    "role of quantum LiDAR in natural disaster management in the Himalayas"
+  ],
+  "82": [
+    "impact of public policy on socio-economic outcomes in India",
+    "challenges in implementation of public policy in India",
+    "role of non-governmental organizations in Indian public policy",
+    "case studies of successful public policy initiatives in India",
+    "analysis of public policy frameworks in India"
+  ],
+  "83": [
+    "diagnosis methods for spontaneous twin live ectopic pregnancy",
+    "treatment options for spontaneous twin live ectopic pregnancy",
+    "outcomes of spontaneous twin live ectopic pregnancy cases",
+    "risks associated with spontaneous twin live ectopic pregnancy",
+    "case studies on spontaneous twin live ectopic pregnancy"
+  ],
+  "84": [
+    "effective study techniques 2020 to 2025",
+    "impact of technology on learning behaviors 2020 to 2025",
+    "COVID-19 pandemic effects on student study habits",
+    "longitudinal studies on changes in study habits 2020-2025",
+    "external factors influencing study habits during 2020-2025"
+  ],
+  "85": [
+    "3.5 GHz MIMO antenna design techniques",
+    "performance characteristics of 3.5 GHz MIMO antennas",
+    "applications of 3.5 GHz MIMO antennas in telecommunications",
+    "comparison of 3.5 GHz MIMO antennas with other antenna types",
+    "advantages of MIMO technology at 3.5 GHz frequency"
+  ],
+  "86": [
+    "history of foley art in film production",
+    "techniques used in foley sound effect creation",
+    "impact of foley art on audience immersion in cinema",
+    "notable foley artists and their contributions",
+    "case studies of films utilizing foley techniques effectively"
+  ],
+  "87": [
+    "Factors Affecting Consumer Preferences for Carinderia Dining in Tanauan City",
+    "Impact of Location on Consumer Choices in Carinderia Establishments in Batangas",
+    "Qualitative Analysis of Consumer Experiences in Tanauan City Carinderias",
+    "Price Sensitivity of Consumers in Local Carinderia Markets in Tanauan City",
+    "Comparative Study of Dining Experiences in Carinderias vs. Other Local Restaurants in Batangas"
+  ],
+  "88": [
+    "parrot species diversity studies Universidade de Evora",
+    "behavioral research on parrots Universidade de Evora",
+    "conservation initiatives for parrots at Universidade de Evora",
+    "methodologies used in parrot research Universidade de Evora",
+    "collaborations on avian studies involving Universidade de Evora"
+  ],
+  "89": [
+    "chalcone biochemical mechanisms of monoamine oxidase inhibition",
+    "therapeutic applications of chalcone in neurological disorders",
+    "experimental studies on chalcone and MAO activity",
+    "chemical properties of chalcone affecting MAO inhibition",
+    "clinical trials investigating chalcone as a monoamine oxidase inhibitor"
+  ],
+  "90": [
+    "effects of climate change on Arctic ecosystems",
+    "biodiversity loss in tropical rainforests due to climate change",
+    "species migration patterns in response to climate change",
+    "impact of extreme weather events on coral reefs",
+    "conservation strategies for ecosystems affected by climate change"
+  ],
+  "92": [
+    "Characteristics of tight gas reservoirs",
+    "Formation processes of tight gas reservoirs",
+    "Hydraulic fracturing techniques in tight gas extraction",
+    "Economic implications of tight gas development",
+    "Case studies of successful tight gas reservoir projects"
+  ],
+  "93": [
+    "digital marketing strategies effectiveness",
+    "case studies on social media campaigns",
+    "traditional advertising methods comparison",
+    "content marketing best practices 2023",
+    "industry reports on marketing trends"
+  ],
+  "94": [
+    "character struggles with freedom in Brothers Karamazov",
+    "moral dilemmas in Dostoevsky's Brothers Karamazov",
+    "existential questions in Brothers Karamazov and freedom",
+    "philosophical discourse on freedom in Dostoevsky's works",
+    "comparative analysis of freedom in Brothers Karamazov and Crime and Punishment"
+  ],
+  "95": [
+    "experimental techniques for vortex detection in Bose-Einstein condensates",
+    "theoretical models of vortices in atomic Bose-Einstein condensates",
+    "imaging methods for observing vortices in quantum fluids",
+    "advancements in vortex detection methods in superfluid systems",
+    "implications of vortex dynamics on superfluidity in Bose-Einstein condensates"
+  ],
+  "96": [
+    "BiLSTM crime prediction methodologies in SWAT operations",
+    "case studies on BiLSTM application in crime analysis for SWAT teams",
+    "impact of BiLSTM on decision-making in SWAT strategies",
+    "comparative analysis of BiLSTM and other models in crime prediction for SWAT",
+    "results of BiLSTM implementation in real-world SWAT operations"
+  ],
+  "97": [
+    "types of diarrhea acute vs chronic",
+    "common pathogens causing diarrhea",
+    "dietary considerations for diarrhea management",
+    "non-infectious causes of diarrhea",
+    "demographic factors influencing diarrhea prevalence"
+  ],
+  "98": [
+    "two-state reactivity examples in chemical systems",
+    "experimental studies on two-state reactivity model",
+    "implications of two-state reactivity on reaction mechanisms",
+    "theoretical framework of two-state reactivity by Shaik",
+    "molecular interactions influenced by two-state reactivity"
+  ],
+  "99": [
+    "Malaysian badminton brands history and development",
+    "unique features of Malaysian badminton equipment",
+    "product offerings of top Malaysian badminton brands",
+    "innovations by Malaysian badminton manufacturers",
+    "market presence of Malaysian local badminton brands"
+  ],
+  "100": [
+    "Arduino home automation project examples",
+    "environmental monitoring using Arduino case studies",
+    "Arduino industrial control system implementations",
+    "real-time data collection with Arduino tutorials",
+    "remote sensing applications of Arduino technology"
+  ],
+  "101": [
+    "breakdown of student housing expenses by geographic location",
+    "comparison of tuition costs between public and private institutions",
+    "impact of student demographics on transportation expenses",
+    "analysis of food costs for students in urban vs. rural areas",
+    "factors influencing financial aid availability for different student groups"
+  ],
+  "102": [
+    "psittacine radiography techniques University of Evora 2018",
+    "veterinary studies exotic animals radiography 2018",
+    "academic papers psittacines radiography University of Evora",
+    "radiographic findings exotic birds 2018 University of Evora",
+    "thesis on radiography of psittacines at University of Evora"
+  ],
+  "103": [
+    "radiographic techniques used in psittacine health diagnosis",
+    "effectiveness of radiography in diagnosing psittacine diseases",
+    "methodologies for radiographic imaging in avian medicine",
+    "health conditions in psittacines diagnosed through radiography",
+    "outcomes of radiographic practices in veterinary care for parrots"
+  ],
+  "104": [
+    "radiography techniques for psittacines Universidade de Evora 2018",
+    "cost analysis of veterinary radiography in birds 2017",
+    "master's theses on avian radiography Universidade de Evora 2018",
+    "psittacine studies in veterinary medicine radiography 2017-2018",
+    "Portuguese theses on avian radiography Universidade de Evora"
+  ],
+  "105": [
+    "psittacines ecology research Evora 2018",
+    "psittacines conservation thesis Evora 2018",
+    "parrot species studies Evora 2018",
+    "psittacine behavior academic papers Evora 2018",
+    "Avian biology psittacines Evora 2018"
+  ],
+  "106": [
+    "Evora 2018 university theses",
+    "Evora 2018 dissertation topics",
+    "Evora 2018 academic research papers",
+    "Evora 2018 thesis archives",
+    "Evora 2018 graduate student research"
+  ],
+  "107": [
+    "efficiency of steam distillation for rosemary oil extraction in Morocco",
+    "comparison of solvent extraction techniques for Rosmarinus officinalis",
+    "yield analysis of cold pressing versus steam distillation in rosemary extraction",
+    "traditional extraction methods for rosemary essential oils in Moroccan culture",
+    "bioactive compounds obtained from Rosmarinus officinalis using modern extraction techniques"
+  ],
+  "108": [
+    "Oppolzer longifolene molecular structure analysis",
+    "synthesis methods for Oppolzer longifolene",
+    "applications of Oppolzer longifolene in pharmaceuticals",
+    "chemical properties of Oppolzer longifolene",
+    "Oppolzer longifolene in materials science"
+  ],
+  "109": [
+    "Linguistic patterns in RESTful API documentation",
+    "Common antipatterns in RESTful API design",
+    "Techniques for semantic analysis of API terminologies",
+    "Impact of linguistic structures on API usability",
+    "Categorization of RESTful API design principles based on semantic analysis"
+  ],
+  "110": [
+    "Theoretical foundations of multi-parametric programming in dynamic programming",
+    "Algorithms for solving constrained dynamic programming problems using multi-parametric techniques",
+    "Case studies of multi-parametric programming applications in real-world scenarios",
+    "Performance evaluation of multi-parametric programming versus traditional dynamic programming",
+    "Methodologies for implementing multi-parametric programming in constrained optimization problems"
+  ],
+  "111": [
+    "effectiveness of control-flow testing techniques in Prolog",
+    "tools for implementing control-flow analysis in Prolog",
+    "case studies on control-flow based testing of Prolog applications",
+    "comparative analysis of control-flow testing and other testing methodologies in Prolog",
+    "principles of control-flow analysis specifically for Prolog programming"
+  ],
+  "112": [
+    "anatomy of different tree species",
+    "ecological roles of trees in ecosystems",
+    "growth patterns of deciduous vs coniferous trees",
+    "impact of trees on climate regulation",
+    "biodiversity associated with tree habitats"
+  ],
+  "113": [
+    "Effect of class size on graduation rates in higher education",
+    "Student engagement levels in large vs small classes",
+    "Correlation between class size and academic achievement by discipline",
+    "Impact of class size on faculty-student interaction quality",
+    "Retention rates in higher education related to class size"
+  ],
+  "114": [
+    "pedagogical strategies for using Microsoft Mathematics software in secondary calculus education",
+    "case studies on student performance with Microsoft Mathematics in calculus classes",
+    "comparative analysis of Microsoft Mathematics software and traditional calculus teaching methods",
+    "teacher testimonials on the effectiveness of Microsoft Mathematics in secondary calculus instruction",
+    "impact of Microsoft Mathematics on student engagement in learning calculus concepts"
+  ]
+}

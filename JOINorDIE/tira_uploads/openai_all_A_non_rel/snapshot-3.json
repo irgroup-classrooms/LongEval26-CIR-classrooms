@@ -1,0 +1,1284 @@
+{
+  "meta": {
+    "team_name": "JOINorDIE",
+    "description": "LLM-based next query prediction using OpenAI GPT-4o-mini.",
+    "run_name": "openai_all_A_non_rel",
+    "query_mode": "all",
+    "prompt": "A",
+    "doc_variant": "non_rel"
+  },
+  "43": [
+    "legal regulations of magic in Corcos",
+    "impact of magical legislation on society in Corcos",
+    "rights of magic practitioners in Corcos",
+    "historical conflicts between law and magic in Corcos",
+    "case studies on magic use and legal consequences in Corcos"
+  ],
+  "104": [
+    "common mistakes in data analysis for software engineering",
+    "data analysis biases in empirical research",
+    "statistical method misuses in software engineering studies",
+    "improving validity in empirical software engineering research",
+    "recognizing data analysis errors in software engineering"
+  ],
+  "21": [
+    "AspectJ applications in software verification",
+    "model checking frameworks using AspectJ",
+    "case studies on AspectJ and model checking",
+    "advantages of AspectJ in model checking processes",
+    "challenges of integrating AspectJ with model checking"
+  ],
+  "24": [
+    "effectiveness of baking soda in grease fire suppression",
+    "chemical properties of baking soda as a fire extinguishing agent",
+    "baking soda vs traditional fire extinguishers",
+    "limitations of using baking soda for fire extinguishing",
+    "anecdotal evidence of baking soda in firefighting"
+  ],
+  "25": [
+    "AI applications in education",
+    "benefits of AI in classroom learning",
+    "challenges of implementing AI in education",
+    "case studies on AI in teaching methodologies",
+    "expert opinions on AI's impact on learning environments"
+  ],
+  "28": [
+    "sources of methane and carbon dioxide emissions",
+    "environmental impact of methane compared to carbon dioxide",
+    "greenhouse gas potency methane vs carbon dioxide",
+    "mitigation strategies for methane and carbon dioxide",
+    "climate policy implications of methane and carbon dioxide"
+  ],
+  "29": [
+    "Impact of food variety on student satisfaction in school canteens",
+    "Canteen menu options and student dining experience",
+    "Student preferences for healthy versus indulgent food in school canteens",
+    "How menu diversity affects Grade 12 student choices in school canteens",
+    "Factors influencing student satisfaction with canteen food variety"
+  ],
+  "31": [
+    "mental health support for injured athletes",
+    "coping mechanisms for athletes recovering from injury",
+    "visualization techniques for injury recovery in athletes",
+    "mindfulness practices for injured athletes",
+    "cognitive-behavioral therapy for sports injuries"
+  ],
+  "33": [
+    "image recognition techniques for Indian artifacts",
+    "machine learning for cultural heritage image classification",
+    "computer vision applications in detecting Indian cultural objects",
+    "datasets for Indian artifact image detection",
+    "case studies on image processing of Indian historical items"
+  ],
+  "39": [
+    "comparative analysis of transactional programming and traditional programming",
+    "ease of use in transactional programming vs other programming paradigms",
+    "learning curve of transactional programming in software development",
+    "advantages and disadvantages of transactional programming",
+    "impact of transactional programming on developer productivity"
+  ],
+  "49": [
+    "best practices for safety in resource-limited school laboratories",
+    "ethical considerations in low-budget school science labs",
+    "challenges in implementing safety protocols in underfunded schools",
+    "innovative solutions for laboratory safety in schools with limited resources",
+    "guidelines for ethical teaching practices in resource-constrained laboratory settings"
+  ],
+  "74": [
+    "machine learning applications in enzyme mutagenesis",
+    "thermostability enhancement of pectin lyase using combinatorial mutagenesis",
+    "case studies on machine learning in protein engineering",
+    "multi-site mutagenesis techniques for improving enzyme stability",
+    "comparative analysis of machine learning methods in enzyme optimization"
+  ],
+  "75": [
+    "Effects of social media on high school students' grades",
+    "Mobile phone distractions and academic performance in teenagers",
+    "Educational apps and their impact on high school learning outcomes",
+    "Relationship between gaming on mobile phones and student success",
+    "Strategies to manage mobile phone use for better academic performance"
+  ],
+  "83": [
+    "canine parvovirus symptoms and treatment options",
+    "feline parvovirus transmission and prevention methods",
+    "recent studies on parvovirus in dogs and cats",
+    "comprehensive guide to parvovirus prevention in pets",
+    "clinical research on parvovirus treatment advancements"
+  ],
+  "99": [
+    "Secure Tropos framework security requirements engineering software product lines",
+    "methodologies for integrating security in software product lines requirements",
+    "case studies on Secure Tropos framework in requirements engineering",
+    "best practices for security in software product lines requirements gathering",
+    "tools for modeling security requirements in Secure Tropos framework"
+  ],
+  "122": [
+    "applications of machine learning in healthcare",
+    "case studies on AI in medical diagnostics",
+    "ethical implications of artificial intelligence in medicine",
+    "impact of robotics on patient care in healthcare",
+    "future directions of AI technologies in medicine"
+  ],
+  "123": [
+    "TB-SVQ motion compensation DCT coding videoconferencing performance evaluation",
+    "Tree-Based Scalar Vector Quantization videoconference coding techniques",
+    "DCT coding methods for improving videoconferencing quality",
+    "motion compensated coding algorithms for videoconferencing applications",
+    "comparative analysis of TB-SVQ and other coding techniques in videoconferencing"
+  ],
+  "126": [
+    "portraiture methodology in qualitative research",
+    "case studies using portraiture in sociology",
+    "effectiveness of portraiture in educational research",
+    "limitations of portraiture as a research method",
+    "narrative analysis through portraiture techniques"
+  ],
+  "162": [
+    "Sufism environmental ethics",
+    "deep ecology Sufi teachings",
+    "Sufi community ecological initiatives",
+    "interconnectedness of life in Sufism",
+    "spiritual perspectives on climate change"
+  ],
+  "167": [
+    "financial management tips for foreign students",
+    "budgeting advice for high school students",
+    "savings strategies for students studying abroad",
+    "daily allowance recommendations for international students",
+    "resources for student financial management"
+  ],
+  "173": [
+    "impact of social media on political opinion formation",
+    "case studies of social media influence on public perception",
+    "role of social media algorithms in shaping public opinion",
+    "psychological effects of social media engagement on users",
+    "how influencers affect social movements through social media"
+  ],
+  "174": [
+    "Early stopping criteria for LDPC codes using check-sum patterns",
+    "Performance analysis of binary and nonbinary LDPC codes with early stopping",
+    "Unified stopping rules for LDPC codes in communication systems",
+    "Check-sum variation in LDPC codes and its impact on decoding",
+    "Theoretical frameworks for early stopping in LDPC code implementation"
+  ],
+  "178": [
+    "gray scale imaging techniques for stain removal effectiveness",
+    "methods for analyzing color changes in stained textiles using gray scale",
+    "innovative stain removal techniques utilizing gray scale imaging",
+    "impact of gray scale analysis on stain removal methods in carpets",
+    "research articles on gray scale imaging for detecting stains"
+  ],
+  "179": [
+    "types of automated irrigation systems",
+    "benefits of smart irrigation technologies",
+    "drip irrigation design and functionality",
+    "case studies of automated watering in agriculture",
+    "technology used in automated watering systems"
+  ],
+  "180": [
+    "performance evaluation metrics for computer vision algorithms",
+    "benchmarking datasets for image recognition performance",
+    "comparative studies of object detection metrics",
+    "evaluation protocols for segmentation in computer vision",
+    "accuracy precision recall F1 score in computer vision"
+  ],
+  "4": [
+    "relationship between stress and extraversion",
+    "effects of stress on personality traits",
+    "how stress influences social behavior in extraverts",
+    "empirical studies on stress and extraversion",
+    "psychological analysis of stress impact on extraverted individuals"
+  ],
+  "5": [
+    "Arabian jasmine cultivation techniques",
+    "Jasminum sambac aromatic properties",
+    "Jasminum sambac uses in perfumery",
+    "botanical features of Jasminum sambac",
+    "cultural significance of Arabian jasmine"
+  ],
+  "15": [
+    "risk assessment insurance solar energy projects",
+    "insurance products for solar energy installations",
+    "engineer compliance safety standards solar energy",
+    "case studies insurance impact on solar energy growth",
+    "emerging trends insurance renewable energy market"
+  ],
+  "16": [
+    "AS-ack protocol overview and applications",
+    "technical specifications of AS-ack in networking",
+    "AS-ack protocol performance studies",
+    "challenges of AS-ack protocol in network communications",
+    "comparative analysis of AS-ack and similar protocols"
+  ],
+  "17": [
+    "effective parenting techniques and strategies",
+    "child development resources for parents",
+    "discipline methods in modern parenting",
+    "educational resources for raising children",
+    "expert advice on parenting challenges"
+  ],
+  "18": [
+    "Punic Wars causes and effects",
+    "major battles of the Punic Wars",
+    "historical impact of the Punic Wars on Rome",
+    "Punic Wars political and economic consequences",
+    "Carthage and Rome relations during the Punic Wars"
+  ],
+  "19": [
+    "case studies where greedy algorithms are more efficient than dynamic programming",
+    "theoretical advantages of greedy algorithms over dynamic programming",
+    "empirical evidence of greedy algorithms outperforming dynamic programming",
+    "performance metrics comparing greedy algorithms and dynamic programming",
+    "examples of optimization problems solved better by greedy algorithms"
+  ],
+  "20": [
+    "recent studies on CAR-NK cell therapy in cancer treatment",
+    "clinical trials involving CAR-NK cells and immunotherapy",
+    "efficacy and safety of CAR-NK therapy in oncology",
+    "mechanisms of action for CAR-NK cells in cancer therapy",
+    "peer-reviewed articles on CAR-NK therapy applications"
+  ],
+  "22": [
+    "scholarly articles on postcolonial theories",
+    "decolonization case studies in contemporary society",
+    "impact of colonialism on cultural identity",
+    "power dynamics in postcolonial societies",
+    "resistance movements in decolonial studies"
+  ],
+  "23": [
+    "impact of regulations on social commerce platforms",
+    "costs of compliance in social commerce industry",
+    "business adaptation strategies for social commerce regulations",
+    "regulatory frameworks affecting social commerce growth",
+    "financial burdens of compliance for small businesses in social commerce"
+  ],
+  "26": [
+    "impact of adaptive sports on students with disabilities",
+    "successful physical education programs for disabled students",
+    "social skills development through physical education for disabilities",
+    "emotional benefits of physical education for students with disabilities",
+    "inclusive practices in physical education for students with disabilities"
+  ],
+  "27": [
+    "BTR-90 specifications and capabilities",
+    "BTR-80A design features comparison",
+    "history of BTR combat vehicle manufacturers",
+    "BTR-90 vs BTR-80A operational differences",
+    "technological advancements in BTR infantry fighting vehicles"
+  ],
+  "30": [
+    "benefits of lemon shoe polish for leather care",
+    "ingredients in lemon shoe polish compared to traditional polish",
+    "consumer reviews of lemon shoe polish effectiveness",
+    "environmental impact of lemon-based shoe care products",
+    "market trends in lemon shoe polish usage"
+  ],
+  "32": [
+    "business process optimization techniques",
+    "case studies on operational efficiency improvements",
+    "resource management strategies for businesses",
+    "technology integration for enhancing business efficiency",
+    "best practices for improving efficiency in various industries"
+  ],
+  "34": [
+    "block design experimental research applications",
+    "advantages of block design in reducing variability",
+    "examples of block design in agriculture and psychology",
+    "comparative analysis of block design and other experimental designs",
+    "theoretical foundations of block design in clinical trials"
+  ],
+  "35": [
+    "Automated analysis of chest CT scans for COVID-19 detection",
+    "Machine learning algorithms for quantifying CT patterns in COVID-19",
+    "Techniques for image processing in chest CT related to COVID-19",
+    "Clinical studies on automated COVID-19 diagnosis using CT imaging",
+    "Software tools for analyzing chest CT patterns in COVID-19 patients"
+  ],
+  "36": [
+    "Case studies on reflective middleware for improving QoS in CORBA",
+    "Challenges in implementing QoS in CORBA component models",
+    "Theoretical frameworks for reflective middleware techniques in CORBA",
+    "Performance improvements of CORBA component models using reflective techniques",
+    "Real-world applications of QoS optimization in CORBA with middleware"
+  ],
+  "37": [
+    "B cell response to RNA-based COVID-19 vaccines",
+    "clinical trials on B cell therapy and COVID-19 vaccines",
+    "mechanisms of B cell therapy in RNA vaccine effectiveness",
+    "emerging therapies combining B cells and RNA vaccines",
+    "impact of B cell therapy on immunological response to COVID-19 vaccination"
+  ],
+  "38": [
+    "Impact of educational interventions on medication adherence in heart failure patients",
+    "Clinical pharmacist role in improving medication adherence for heart failure in Sudan",
+    "Barriers to medication adherence in Sudanese heart failure patients",
+    "Patient engagement strategies for medication adherence in heart failure",
+    "Methodologies for measuring medication adherence in heart failure interventions"
+  ],
+  "40": [
+    "carbon nanotube nanofluids heat transfer properties in solar collectors",
+    "performance metrics of evacuated tube solar collectors with carbon nanotubes",
+    "Oxazepam adsorption kinetics on multi-walled carbon nanotubes",
+    "thermodynamic parameters of drug adsorption on carbon nanotubes",
+    "effectiveness of multi-walled carbon nanotubes as pharmaceutical adsorbents"
+  ],
+  "41": [
+    "vibration frequency effects on boiling heat transfer",
+    "experimental studies on vibration and pool boiling",
+    "impact of vibration amplitude on heat transfer in boiling",
+    "bubble dynamics in vibrating pool boiling systems",
+    "thermal performance of heated tubes under vibration"
+  ],
+  "42": [
+    "Cordyceps Sinensis extract effects on epithelial-mesenchymal transition",
+    "role of nucleosides in diabetic nephropathy treatment",
+    "inhibition of renal fibrosis by Cordyceps Sinensis",
+    "biochemical pathways of Cordyceps Sinensis in renal health",
+    "clinical trials on Cordyceps Sinensis and diabetic nephropathy"
+  ],
+  "44": [
+    "fluid dynamics in 3D bioreactors for cell culture",
+    "impact of fluid flow on cell growth in bioreactors",
+    "computational fluid dynamics simulations in bioreactor design",
+    "optimization of nutrient transport in 3D cell culture bioreactors",
+    "reviews on fluid dynamics and bioreactor efficiency"
+  ],
+  "45": [
+    "18F-fluorodeoxyglucose uptake abdominal aortic aneurysms inflammation",
+    "PET CT imaging abdominal aortic aneurysms wall instability symptoms",
+    "association between 18F-FDG uptake and aortic aneurysm complications",
+    "clinical implications of increased 18F-fluorodeoxyglucose in aneurysms",
+    "inflammatory markers and 18F-fluorodeoxyglucose uptake in aortic aneurysms"
+  ],
+  "46": [
+    "role of village animal health workers in disease prevention Cambodia",
+    "impact of vaccination efforts on foot-and-mouth disease in Cambodia",
+    "community education strategies for foot-and-mouth disease control in Cambodia",
+    "case studies on foot-and-mouth disease management by local health workers in Cambodia",
+    "statistical analysis of foot-and-mouth disease incidence in rural Cambodia"
+  ],
+  "47": [
+    "thermodynamic properties of Escherichia coli metabolism",
+    "genome-scale metabolic models of E. coli",
+    "energy dynamics in Escherichia coli metabolic pathways",
+    "thermodynamic feasibility of E. coli metabolic reactions",
+    "analysis of metabolic efficiency in Escherichia coli"
+  ],
+  "48": [
+    "assessment methods for undergraduate clinical education programs",
+    "impact of clinical education on student competencies and patient outcomes",
+    "best practices in evaluating healthcare education programs",
+    "qualitative and quantitative metrics for clinical education assessment",
+    "case studies on effectiveness of clinical education in healthcare fields"
+  ],
+  "50": [
+    "interactive video drama smoking cessation men's attitudes",
+    "qualitative studies on men's smoking cessation interventions",
+    "user feedback on interactive media for smoking cessation",
+    "behavioral changes in men after smoking cessation programs",
+    "effectiveness of video-based health interventions for men"
+  ],
+  "51": [
+    "CRISPR/Cas9 applications in modifying immune cell functions",
+    "therapeutic uses of CRISPR/Cas9 in cancer immunotherapy",
+    "ethical considerations of genome editing in immune cells",
+    "experimental methodologies for CRISPR/Cas9 in immunology",
+    "impact of CRISPR/Cas9 on autoimmune disorders"
+  ],
+  "52": [
+    "co-constructive learning strategies in higher education",
+    "challenges of implementing collaborative learning in academia",
+    "best practices for co-construction in higher education",
+    "case studies on student engagement in collaborative learning",
+    "theoretical frameworks for transitioning to co-constructive pedagogy"
+  ],
+  "53": [
+    "effects of heat treatment on flour nutritional value",
+    "methods of heat treating flour",
+    "scientific principles of flour heat treatment",
+    "benefits of heat-treated flour in baking",
+    "research studies on heat treatment of flour"
+  ],
+  "54": [
+    "prevalence of sleep apnea in heart failure patients",
+    "impact of sleep-disordered breathing on heart failure prognosis",
+    "treatment options for sleep apnea in heart failure",
+    "mechanisms linking sleep disorders and heart failure",
+    "comorbidities associated with sleep-disordered breathing in heart failure"
+  ],
+  "55": [
+    "eco-efficiency case studies in manufacturing",
+    "best practices for eco-efficient business strategies",
+    "metrics for measuring eco-efficiency in agriculture",
+    "policies promoting eco-efficiency in services sector",
+    "economic benefits of eco-efficiency in business"
+  ],
+  "57": [
+    "Magnetic properties of Sr2FeMoO6 thin films with varying thickness",
+    "Impact of film thickness on magneto-transport in Sr2FeMoO6",
+    "Experimental studies on Sr2FeMoO6 thin films and their magnetic behavior",
+    "Review of film thickness effects on magnetic properties in thin films",
+    "Methodologies for measuring magnetic properties of Sr2FeMoO6 thin films"
+  ],
+  "56": [
+    "TB-LAMP assay sensitivity and specificity for pulmonary tuberculosis in Zambia",
+    "clinical trials on TB-LAMP assay effectiveness in Lusaka",
+    "impact of TB-LAMP assay on tuberculosis management in Lusaka",
+    "comparison of TB-LAMP assay and traditional methods for TB diagnosis in Zambia",
+    "evaluation studies on TB-LAMP diagnostic tool for pulmonary tuberculosis"
+  ],
+  "58": [
+    "European Law Journal Volume 14 Issue 1 cover page",
+    "ELJ Volume 14 Issue 1 introductory material",
+    "European Law Journal Volume 14 Issue 1 editorial notes",
+    "ELJ Volume 14 Issue 1 back matter content",
+    "retrieve cover and back matter ELJ Volume 14 Issue 1"
+  ],
+  "59": [
+    "Fe3O4@Ag core-shell nanoparticles synthesis methods",
+    "characterization techniques for magneto-optic nanoparticles",
+    "applications of surface plasmon resonance in sensing technologies",
+    "magneto-optic effects in core-shell nanoparticles Ag Fe3O4",
+    "photonic applications of Fe3O4@Ag nanoparticles"
+  ],
+  "60": [
+    "Effects of AI technologies on academic performance in education",
+    "Case studies on AI-driven learning platforms and student engagement",
+    "Comparative analysis of traditional teaching methods and AI-enhanced education",
+    "Impact of intelligent tutoring systems on student learning outcomes",
+    "Research on personalized learning through artificial intelligence in schools"
+  ],
+  "61": [
+    "longitudinal studies on ApoE genotype and cognitive decline in older adults",
+    "impact of ApoE genotype on cognitive health in aging populations",
+    "community-based research on cognitive changes related to ApoE variants",
+    "ApoE genotype differences in cognitive functioning among elderly individuals",
+    "relationship between ApoE genotype and age-related cognitive changes"
+  ],
+  "62": [
+    "Inflammation mechanisms in laser therapy and thrombosis",
+    "Morphological changes in laser-induced thrombotic inflammation",
+    "Histological analysis of inflammation in laser-induced thrombosis",
+    "Experimental studies on inflammation and laser-induced thrombosis",
+    "Case reports on laser therapy effects on thrombotic inflammation"
+  ],
+  "63": [
+    "impact of pollution on central nervous system health",
+    "neurotoxic effects of heavy metals on neurological processes",
+    "climate change and its influence on brain function",
+    "studies on environmental toxins and behavioral changes",
+    "protective factors against neurotoxic effects of pesticides"
+  ],
+  "64": [
+    "impact of chronic kidney disease on heart function in children",
+    "cardiac function metrics in pediatric chronic renal failure",
+    "studies on heart function in children with kidney disease",
+    "systolic and diastolic heart function in pediatric patients with CKD",
+    "clinical trials on cardiac effects of chronic renal failure in children"
+  ],
+  "66": [
+    "occult hepatitis B prevalence in obese individuals Italy",
+    "relationship between hepatitis B and non-alcoholic steatohepatitis in obese patients",
+    "impact of metabolic conditions on occult hepatitis B and NASH",
+    "genetic factors influencing non-alcoholic steatohepatitis in severely obese Italians",
+    "environmental and lifestyle factors affecting occult hepatitis B virus infection"
+  ],
+  "65": [
+    "machine learning algorithms for improving phase contrast imaging in cellphone microscopes",
+    "case studies on machine learning applications in cellphone microscopy",
+    "challenges in integrating machine learning with cellphone phase contrast imaging",
+    "comparison of machine learning techniques for image optimization in low-cost microscopes",
+    "practical implementations of machine learning for phase contrast in mobile microscopy"
+  ],
+  "67": [
+    "Gut microbiota influence on childhood mental health disorders",
+    "Brain-gut axis and its impact on children's neurological development",
+    "Interventions to modify gut microbiota in childhood mental health",
+    "Composition of gut microbiota in children with mental health issues",
+    "Mechanisms linking gut microbiota and mental health outcomes in children"
+  ],
+  "68": [
+    "mechanisms of DNA polymerase induction in mouse L cells",
+    "factors affecting DNA polymerase expression in mouse L cells",
+    "regulatory pathways of DNA polymerase in mouse L cells",
+    "environmental influences on DNA polymerase induction in mouse L cells",
+    "experimental conditions for enhancing DNA polymerase in mouse L cells"
+  ],
+  "69": [
+    "impact of food cooperatives on dietary habits in rural areas",
+    "studies on food coops and community health outcomes",
+    "evaluation methodologies for food cooperatives in rural settings",
+    "relationship between food coop participation and health metrics",
+    "natural experiments assessing food consumption in rural communities"
+  ],
+  "70": [
+    "Hepatitis C Virus infection stages and progression",
+    "chronic Hepatitis C Virus outcomes and complications",
+    "transmission factors of Hepatitis C Virus",
+    "long-term health effects of Hepatitis C Virus infection",
+    "clinical guidelines for managing Hepatitis C Virus"
+  ],
+  "71": [
+    "Comparison of statistical methods and neural networks in brain-computer interfaces",
+    "Performance evaluation of classification techniques in BCIs with synthetic data",
+    "Effectiveness of neural networks versus statistical methods in BCI applications",
+    "Analysis of classification accuracy in brain-computer interfaces using synthesized datasets",
+    "Robustness of statistical and neural network classifiers in stimulus-independent BCIs"
+  ],
+  "72": [
+    "open-source cloud computing platforms for geoscience data analysis",
+    "features of open-source cloud solutions in geosciences",
+    "comparison of open-source and proprietary cloud tools for geoscience research",
+    "community-supported cloud computing solutions for geoscientific applications",
+    "use cases of open-source cloud platforms in geosciences"
+  ],
+  "73": [
+    "causes of obstructive sleep apnea",
+    "symptoms and diagnosis of obstructive sleep apnea",
+    "treatment options for obstructive sleep apnea",
+    "health impacts of untreated obstructive sleep apnea",
+    "recent research on obstructive sleep apnea"
+  ],
+  "76": [
+    "3D printing applications in orthopaedic device manufacturing",
+    "case studies on additive manufacturing in orthopaedics",
+    "benefits and challenges of 3D printing in orthopaedic devices",
+    "regulatory issues in additive manufacturing for orthopaedics",
+    "innovations in orthopaedic devices using additive manufacturing"
+  ],
+  "77": [
+    "enhancing medical image resolution multi-dictionary learning random forest",
+    "super-resolution techniques in medical imaging MRI CT X-ray",
+    "random forest algorithms for medical image enhancement",
+    "multi-dictionary learning applications in medical image processing",
+    "comparative studies on medical image super-resolution methods"
+  ],
+  "78": [
+    "Flow stability in concentric cylinders with temperature gradients",
+    "Impact of radial temperature gradient on fluid flow in cylindrical systems",
+    "Theoretical models for flow dynamics in non-uniform concentric cylinders",
+    "Experimental studies on fluid flow stability between cylindrical surfaces",
+    "Numerical simulations of flow behavior in concentric cylindrical geometries"
+  ],
+  "79": [
+    "BaTiO3/CdS heterojunctions thermal excitation photo-electric catalysis pollutant degradation",
+    "solar thermal energy integration in photo-electric catalysis BaTiO3 CdS",
+    "mechanisms of thermal excitation in BaTiO3/CdS heterojunctions for environmental remediation",
+    "polarized fields effect on photo-electric catalysis in BaTiO3/CdS systems",
+    "experimental studies on pollutant degradation using BaTiO3/CdS heterojunctions"
+  ],
+  "80": [
+    "Interactions between Leydig cells and pericytes in the testis",
+    "Role of neuroendocrine Leydig cells in testicular microenvironment",
+    "Stem cell origins of Leydig cells and their relationship with pericytes",
+    "Function of pericytes in testicular health and Leydig cell biology",
+    "Impact of Leydig cell and pericyte interactions on reproductive health"
+  ],
+  "81": [
+    "HydroGNSS mission objectives and goals",
+    "GNSS reflectometry technology applications in remote sensing",
+    "scientific studies on HydroGNSS mission results",
+    "impact of HydroGNSS on environmental monitoring",
+    "climate studies using GNSS reflectometry"
+  ],
+  "82": [
+    "case studies on digital transformation in insurance",
+    "impact of artificial intelligence on insurance industry",
+    "challenges of implementing digital transformation in insurance",
+    "innovative technologies in the insurance sector",
+    "customer experience improvements through digital transformation in insurance"
+  ],
+  "84": [
+    "Medication adherence in Type 2 diabetes patients in Germany",
+    "Impact of polypharmacy on quality of life in Type 2 diabetes",
+    "PROVIL study findings on medication burden in diabetes patients",
+    "Comparative analysis of pill burden in diabetes populations",
+    "Statistical analysis of medication use in Type 2 diabetes in Germany"
+  ],
+  "85": [
+    "Photonic crystal sensors for detecting gases",
+    "Advancements in photonic crystal technology for gas sensing",
+    "Theoretical foundations of photonic crystals in gas detection",
+    "Challenges in developing photonic crystal gas sensors",
+    "Types of gases detectable by photonic crystal sensors"
+  ],
+  "86": [
+    "alginate matrices drug delivery formulation methods",
+    "characterization of alginate compressed matrices for pharmaceuticals",
+    "in vitro release studies of alginate drug delivery systems",
+    "comparison of alginate compressed matrices with other drug delivery systems",
+    "clinical applications of alginate matrices in drug delivery"
+  ],
+  "87": [
+    "Changes in pediatric emergency medicine during COVID-19",
+    "New roles for pediatric emergency physicians in pandemic",
+    "Training adaptations for pediatric emergency physicians COVID-19",
+    "Collaborative practices in pediatric emergency care during COVID-19",
+    "Impact of COVID-19 on pediatric emergency care protocols"
+  ],
+  "88": [
+    "impact of supportive-expressive therapy on breast cancer patients",
+    "clinical trials on group therapy for breast cancer mental health",
+    "meta-analysis of adjuvant therapy effects on anxiety in breast cancer",
+    "psychological outcomes of supportive-expressive therapy in cancer treatment",
+    "peer-reviewed studies on emotional well-being in breast cancer support groups"
+  ],
+  "89": [
+    "Aldehyde dehydrogenase role in cancer stem cells head and neck squamous cell carcinoma",
+    "Methodologies for identifying cancer stem cells in head and neck squamous cell carcinoma",
+    "Clinical implications of aldehyde dehydrogenase in head and neck cancer treatment",
+    "Experimental techniques for studying cancer stem cells in head and neck squamous cell carcinoma",
+    "Findings on aldehyde dehydrogenase activity and cancer stem cell properties"
+  ],
+  "90": [
+    "Characterization techniques for p-aminobenzoic modified cellulose",
+    "Adsorption efficiency of metal ions on chemically modified cellulose",
+    "Synthesis methods for cellulose derivatives with p-aminobenzoic acid",
+    "Experimental results on metal ion adsorption by modified cellulose",
+    "Studies on cellulose modification for enhanced metal ion removal"
+  ],
+  "91": [
+    "NFAT1 function in CD8+ T cell cytokine production",
+    "impact of NFAT1 on Th cell differentiation",
+    "mechanisms of NFAT1 regulation in T cell responses",
+    "role of NFAT1 in immune response and T cell activation",
+    "experimental studies on NFAT1 and CD8+ T cell IFN- production"
+  ],
+  "92": [
+    "testable leptogenesis models 2023",
+    "experimental implications of leptogenesis 2023",
+    "recent research on matter-antimatter asymmetry and leptogenesis",
+    "theoretical frameworks for leptogenesis 2023",
+    "neutrino physics and testable leptogenesis findings"
+  ],
+  "93": [
+    "history of tuberculosis treatment in the 19th century",
+    "tuberculosis outbreaks 19th century",
+    "impact of tuberculosis on society in the 19th century",
+    "medical advancements for tuberculosis in the 19th century",
+    "tuberculosis in literature and art 19th century"
+  ],
+  "94": [
+    "genetic algorithm integration with backpropagation neural networks",
+    "performance comparison of genetic algorithm optimized BP neural networks",
+    "case studies on genetic algorithms in neural network optimization",
+    "theoretical analysis of genetic algorithms in BP neural networks",
+    "applications of hybrid genetic algorithm and BP neural networks"
+  ],
+  "95": [
+    "IMPROVE bleeding risk score validation studies in acutely ill patients",
+    "in-hospital bleeding prediction models for acutely ill medical patients",
+    "external validation of bleeding risk assessment tools in hospitals",
+    "effectiveness of IMPROVE score in predicting bleeding complications",
+    "clinical implications of predicting in-hospital bleeding in medical patients"
+  ],
+  "96": [
+    "Endoscopic ultrasound in detecting duodenal metastasis from lung cancer",
+    "Management of asymptomatic duodenal metastasis in small cell lung cancer",
+    "Clinical outcomes of endoscopic ultrasound-guided fine-needle aspiration in lung cancer",
+    "Diagnosis of duodenal metastasis in patients with small cell lung cancer",
+    "Treatment options for asymptomatic duodenal metastasis from small cell lung cancer"
+  ],
+  "97": [
+    "Fourier transform spectrometry techniques for measuring SO2 absorption in the UV",
+    "experimental studies on sulfur dioxide UV absorption cross sections",
+    "calibration methods for SO2 absorption measurements in ultraviolet",
+    "data analysis techniques for SO2 UV absorption cross section measurements",
+    "theoretical models of sulfur dioxide absorption in the UV spectrum"
+  ],
+  "98": [
+    "Hydrogen interaction with beryllium and carbon in fusion reactors",
+    "Hydrogen retention mechanisms in tungsten and tantalum materials",
+    "Experimental results on hydrogen retention in low Z vs high Z materials",
+    "Impact of hydrogen retention on fusion reactor efficiency and performance",
+    "Theoretical models of hydrogen retention in plasma facing materials"
+  ],
+  "100": [
+    "receiver-oriented data routing in mobile sensor networks",
+    "error correction techniques for mobile sensor networks",
+    "adaptive communication strategies in mobile sensor networks",
+    "robust data transmission methods for mobile sensors",
+    "enhancing data delivery efficiency in sensor networks"
+  ],
+  "101": [
+    "trends in intravenous opioid administration in emergency departments",
+    "impact of opioid crisis on emergency department pain management",
+    "studies on alternative therapies to intravenous opioids in emergency care",
+    "changes in prescribing practices for opioids in emergency settings",
+    "regulatory changes affecting opioid use in emergency departments"
+  ],
+  "102": [
+    "theoretical models of nuclear structure",
+    "experimental techniques in nuclear physics",
+    "recent advancements in nuclear structure research",
+    "liquid drop model and shell model comparison",
+    "fundamental concepts of atomic nuclei"
+  ],
+  "103": [
+    "HCMV infection and coronary heart disease in Weifang, China",
+    "role of CD14 +CD16 + monocytes in heart disease Weifang",
+    "epidemiological studies on coronary heart disease and HCMV in China",
+    "association between monocytes and coronary heart disease Weifang",
+    "clinical trials on HCMV and heart disease in Chinese populations"
+  ],
+  "105": [
+    "epilepsy prevalence statistics by region",
+    "risk factors associated with epilepsy epidemiology",
+    "demographic trends in epilepsy incidence",
+    "global epidemiological studies on epilepsy",
+    "epidemiology of epilepsy in specific populations"
+  ],
+  "106": [
+    "epidemiological studies on obesity and colorectal cancer risk",
+    "biological mechanisms linking obesity to colorectal cancer",
+    "statistics on obesity prevalence and colorectal cancer incidence",
+    "public health recommendations for obesity and colorectal cancer prevention",
+    "expert opinions on the impact of obesity on colorectal cancer development"
+  ],
+  "107": [
+    "impact of exercise on immune response during COVID-19",
+    "geroscience insights on physical activity and mental health in older adults during pandemic",
+    "health outcomes of exercise for seniors during SARS-CoV-2",
+    "reviews on physical activity effects during COVID-19 in older populations",
+    "expert opinions on exercise and well-being in the context of SARS-CoV-2"
+  ],
+  "108": [
+    "energy-efficient MAC protocols for wireless sensor networks",
+    "routing protocols for energy conservation in multihop wireless networks",
+    "energy optimization in multihop wireless sensor networks",
+    "performance analysis of MAC and routing protocols in sensor networks",
+    "energy-efficient communication protocols for multihop networks"
+  ],
+  "109": [
+    "Korean chronic heart failure management protocols",
+    "Korean guidelines chronic heart failure treatment recommendations",
+    "diagnostic criteria for chronic heart failure in Korea",
+    "official health organization publications chronic heart failure Korea",
+    "clinical studies on chronic heart failure management Korea"
+  ],
+  "110": [
+    "peer pressure effects on students transitioning from junior high to college in Asia 2020-2025",
+    "academic and social impact of peer pressure on Asian students 2020-2025",
+    "surveys on peer pressure among students in Asian countries 2020-2025",
+    "psychological implications of peer pressure in Asian educational settings 2020-2025",
+    "reports on student experiences with peer pressure in Asia from 2020 to 2025"
+  ],
+  "111": [
+    "theoretical models of dark matter in hybrid stars",
+    "observational evidence of dark matter's influence on hybrid star stability",
+    "simulations of dark matter interactions with quark matter in stars",
+    "impact of dark matter on the evolution of hybrid stars",
+    "relationship between dark matter density and hybrid star characteristics"
+  ],
+  "112": [
+    "Radium-226 levels in drinking water studies",
+    "health effects of Radium-226 exposure in water",
+    "regulatory standards for Radium-226 in drinking water",
+    "treatment methods for Radium-226 contamination in water",
+    "geographic areas affected by Radium-226 water contamination"
+  ],
+  "113": [
+    "Compulsive behavior and stroke risk factors",
+    "Psychological signs before acute ischemic stroke",
+    "Case studies on compulsive behavior and stroke",
+    "Preventive measures for stroke related to compulsive behavior",
+    "Physiological changes linked to compulsive behavior and stroke"
+  ],
+  "114": [
+    "helical carbon nanotubes modified electrodes for dopamine detection",
+    "methodologies for detecting ascorbic acid and uric acid",
+    "advancements in sensor technology for simultaneous biochemical analysis",
+    "comparison of modified electrodes and traditional methods for dopamine measurement",
+    "experimental setups for simultaneous detection of dopamine, ascorbic acid, and uric acid"
+  ],
+  "115": [
+    "Methodologies for land rehabilitation and restoration",
+    "Successful case studies in degraded land restoration",
+    "Best practices in rehabilitating degraded ecosystems",
+    "Challenges in the restoration of degraded land",
+    "Ecological and economic impacts of land restoration efforts"
+  ],
+  "116": [
+    "Financial impact of Multiple Sclerosis on employment status",
+    "Income changes after Multiple Sclerosis diagnosis statistics",
+    "Surveys on personal income and Multiple Sclerosis effects",
+    "Job type and income levels in Multiple Sclerosis patients",
+    "Disability benefits and income fluctuations in Multiple Sclerosis"
+  ],
+  "117": [
+    "theoretical models for dark matter detection",
+    "experimental techniques in direct dark matter detection",
+    "advancements in effective field theories for dark matter",
+    "challenges in detecting dark matter particles",
+    "recent experiments in dark matter direct detection"
+  ],
+  "118": [
+    "Early-onset Alzheimer Disease and Neuromyelitis Optica Spectrum Disorder case studies",
+    "coexistence of early-onset Alzheimer Disease and Neuromyelitis Optica Spectrum Disorder",
+    "pathophysiology of early-onset Alzheimer Disease and Neuromyelitis Optica Spectrum Disorder",
+    "genetic factors in early-onset Alzheimer Disease and Neuromyelitis Optica Spectrum Disorder",
+    "immunological factors in early-onset Alzheimer Disease and Neuromyelitis Optica Spectrum Disorder"
+  ],
+  "119": [
+    "GIS methodologies for land-use change in savanna ecosystems",
+    "impact of climate change on savanna land-cover changes",
+    "case studies on land-use practices in savanna regions",
+    "models for simulating land-cover change in savanna environments",
+    "future climate scenarios and their effects on savanna landscapes"
+  ],
+  "120": [
+    "Data-driven analysis of diabetic complications in Type 2 Diabetes",
+    "Clinical characteristics associated with neuropathy in Type 2 Diabetes",
+    "Risk factors for cardiovascular diseases in Type 2 Diabetes patients",
+    "Clusters of Type 2 Diabetes patients and their complication risks",
+    "Statistical methods for analyzing diabetic complications in clinical studies"
+  ],
+  "121": [
+    "MQTT protocol wireless sensor network node design",
+    "case studies of MQTT in wireless sensor networks",
+    "technical specifications for wireless sensor network nodes using MQTT",
+    "comparative analysis of MQTT and other communication protocols for sensor networks",
+    "performance evaluations of simplified wireless sensor network nodes"
+  ],
+  "124": [
+    "boids simulation virtual reality",
+    "flocking algorithms in VR environments",
+    "visual representation of boids in virtual reality",
+    "case studies on boids integration in VR",
+    "user experiences with flocking behavior in VR"
+  ],
+  "125": [
+    "Alfred Lord Tennyson poetry analysis",
+    "Tennyson literary techniques and themes",
+    "Alfred Lord Tennyson stylistic devices in poetry",
+    "Tennyson meter and imagery in his works",
+    "impact of Tennyson's writing on Victorian literature"
+  ],
+  "127": [
+    "Safran Aerosystems products and services overview",
+    "recent news about Safran Aerosystems",
+    "Safran Aerosystems technology innovations",
+    "Safran Aerosystems partnerships and collaborations",
+    "market analysis of Safran Aerosystems in aerospace industry"
+  ],
+  "128": [
+    "principles of Mega Software Engineering",
+    "methodologies in large-scale software development",
+    "case studies on Mega Software Engineering applications",
+    "impact of Mega Software Engineering on project management",
+    "challenges in implementing Mega Software Engineering"
+  ],
+  "129": [
+    "Probabilistic similarity measures in software cost estimation",
+    "Analogy-based software estimation techniques case studies",
+    "Methods for enhancing software cost estimation accuracy",
+    "Empirical studies on software cost estimation using analogy",
+    "Software tools for analogy-based cost estimation improvement"
+  ],
+  "130": [
+    "Expert evaluations of software engineering metrics",
+    "Surveys on software engineering measure effectiveness",
+    "Ranking software development metrics by industry professionals",
+    "Importance of code quality and maintainability in software engineering",
+    "Consensus among experts on software engineering performance measures"
+  ],
+  "131": [
+    "methods for structuring typed graph transformation systems",
+    "applications of typed graph transformation systems in software engineering",
+    "challenges in horizontal and vertical structuring of graph transformation systems",
+    "case studies on typed graph transformation system structuring",
+    "frameworks and tools for typed graph transformation systems"
+  ],
+  "132": [
+    "Cross-layer optimization techniques for Voice over WiFi performance evaluation",
+    "Metamodeling frameworks for network protocols in Voice over WiFi",
+    "Impact of cross-layer protocols on ESB nodes in Voice over WiFi",
+    "Evaluation methodologies for Voice over WiFi cross-layer optimization",
+    "Research on network efficiency and quality of service in Voice over WiFi"
+  ],
+  "133": [
+    "customer data analytics in logistics",
+    "case studies on logistics data utilization",
+    "impact of customer relationship management on logistics efficiency",
+    "technological advancements in logistics data integration",
+    "examples of successful logistics innovations using customer data"
+  ],
+  "134": [
+    "conditions of worth Carl Rogers",
+    "impact of conditions of worth on self-esteem",
+    "conditions of worth and personal development",
+    "psychological studies on conditions of worth",
+    "theoretical discussions on external validation in psychology"
+  ],
+  "135": [
+    "effectiveness of public service delivery in Bangladesh",
+    "transparency and accountability in Bangladeshi governance",
+    "citizen experiences with public services in Bangladesh",
+    "challenges of good governance in Bangladesh",
+    "reforms in public service and governance in Bangladesh"
+  ],
+  "136": [
+    "health benefits of activated charcoal",
+    "activated charcoal uses in emergency medicine",
+    "scientific studies on activated charcoal effectiveness",
+    "activated charcoal side effects and contraindications",
+    "activated charcoal in beauty products and skincare"
+  ],
+  "137": [
+    "environmental benefits of rammed earth construction",
+    "case studies on buildings using rammed earth",
+    "rammed earth vs other sustainable building materials",
+    "structural properties of rammed earth in construction",
+    "challenges of using rammed earth in modern architecture"
+  ],
+  "138": [
+    "factors affecting reaction time in sports",
+    "reaction time measurement techniques in athletes",
+    "impact of training on athletes' reaction time",
+    "psychological factors influencing reaction time in sports",
+    "environmental conditions and reaction time performance"
+  ],
+  "139": [
+    "quantum technology electronic components research papers",
+    "qubits and quantum gates hardware documentation",
+    "materials used in quantum computing components",
+    "performance metrics of electronic components in quantum systems",
+    "integration techniques for quantum technology hardware"
+  ],
+  "140": [
+    "best practices for workplace ergonomics implementation",
+    "case studies on organizational ergonomics in companies",
+    "ergonomic assessment techniques for workplace design",
+    "impact of ergonomics on employee productivity and well-being",
+    "theoretical frameworks for integrating ergonomics in organizations"
+  ],
+  "141": [
+    "esports cafes UK locations and services",
+    "UK gaming cafes events and facilities",
+    "list of esports cafes in the UK",
+    "esports venues in the UK with gaming setups",
+    "community events at esports cafes UK"
+  ],
+  "142": [
+    "advancements in semiconductor technologies for quantum devices",
+    "partnerships between semiconductor companies and quantum research",
+    "case studies on semiconductor applications in quantum computing",
+    "impact of semiconductor innovations on quantum communication",
+    "recent industry reports on semiconductors and quantum technologies"
+  ],
+  "143": [
+    "scholarly articles on community library engagement",
+    "factors influencing local library usage patterns",
+    "impact of demographics on library service usage",
+    "accessibility of libraries in local communities studies",
+    "qualitative and quantitative research on library usage"
+  ],
+  "144": [
+    "impact of artificial intelligence on job markets",
+    "ethical implications of AI in healthcare",
+    "AI effects on education and learning",
+    "privacy concerns related to artificial intelligence",
+    "case studies on AI's influence in society"
+  ],
+  "145": [
+    "Asymmetric diffuser design principles",
+    "Applications of asymmetric diffusers in acoustics",
+    "Comparative studies of asymmetric and symmetric diffusers",
+    "Benefits of asymmetric diffusers in HVAC systems",
+    "Case studies on the effectiveness of asymmetric diffusers"
+  ],
+  "146": [
+    "principles of visual branding",
+    "successful visual identity case studies",
+    "guidelines for logo design",
+    "tools for creating color schemes in branding",
+    "typography best practices in visual identity"
+  ],
+  "147": [
+    "effective food waste reduction strategies for restaurants",
+    "case studies on sustainable waste management in food service",
+    "composting practices for restaurants and their benefits",
+    "regulations supporting sustainability in the restaurant industry",
+    "innovative recycling methods for restaurant waste management"
+  ],
+  "148": [
+    "Sustainable bioplastics from Vigna radiata casting techniques",
+    "Environmental impact of Munggo bean bioplastics",
+    "Comparative studies on bioplastics and traditional plastics",
+    "Methods for producing bioplastics using Munggo beans",
+    "Sustainability of bioplastics made from Vigna radiata"
+  ],
+  "149": [
+    "Imran Khan cricket career achievements",
+    "Imran Khan political party formation",
+    "impact of Imran Khan on Pakistani politics",
+    "key events in Imran Khan's transition to politics",
+    "biographies of Imran Khan"
+  ],
+  "150": [
+    "China National Nuclear Corporation financial reports",
+    "future job opportunities for nuclear engineers in China",
+    "advancements in nuclear power technology in China",
+    "China nuclear energy sector growth analysis",
+    "financing mechanisms for nuclear projects in China"
+  ],
+  "151": [
+    "collision avoidance strategies in multi-robot human interaction",
+    "visual control techniques for safe human-robot collaboration",
+    "algorithms for multi-robot systems in environments with humans",
+    "case studies on collision avoidance in multi-robot systems",
+    "experimental results on visual control in human-robot interactions"
+  ],
+  "152": [
+    "theories of consciousness in philosophy of mind",
+    "dualism vs physicalism in mental states",
+    "mind-body problem scholarly articles",
+    "neuroscience implications for philosophy of mind",
+    "historical perspectives on consciousness theories"
+  ],
+  "153": [
+    "tools for multilanguage software development environments",
+    "frameworks for integrating multiple programming languages in software development",
+    "best practices for managing multilanguage development environments",
+    "case studies on multilanguage software development environments",
+    "challenges in creating software development environments for multiple languages"
+  ],
+  "154": [
+    "Cellular automata applications in multi-state games",
+    "Methodologies for modeling spatial games with cellular automata",
+    "Case studies on cellular automata and MSSG dynamics",
+    "Frameworks for simulating multi-state spatial games using cellular automata",
+    "Theoretical papers on cellular automata in complex system modeling"
+  ],
+  "155": [
+    "Economic benefits of early childhood education programs",
+    "Case studies on job creation through early childhood care services",
+    "Impact of early childhood education on child development outcomes",
+    "Strategies for maximizing investments in early childhood programs",
+    "Policy analyses on the Triple Dividend of early childhood education"
+  ],
+  "156": [
+    "Impact of industrial by-products on interlocking concrete block paving properties",
+    "Recycled aggregates in interlocking concrete block paving mechanical performance",
+    "Durability of interlocking concrete block paving with organic waste materials",
+    "Comparative analysis of waste materials in concrete block paving applications",
+    "Experimental studies on mechanical properties of interlocking concrete block paving"
+  ],
+  "157": [
+    "Existential Variable Elimination Techniques in Constraint Logic Programs",
+    "Theoretical Foundations of Constraint Logic Programs and Their Properties",
+    "Program Transformation Methods for Logic Programming and Monadic Second Order Logics",
+    "Case Studies on Contextual Specialization in Constraint Logic Programming",
+    "Algorithms for Combining Logic Programs with Monadic Second Order Logics"
+  ],
+  "158": [
+    "logic programming in cloud environments",
+    "benefits of logic programming as a service",
+    "use cases of logic programming in artificial intelligence",
+    "platforms for logic programming as a service",
+    "case studies on logic programming implementation"
+  ],
+  "159": [
+    "ASPOCP 2012 conference academic papers",
+    "Answer Set Programming workshop summaries ASPOCP 2012",
+    "research articles from ASPOCP 2012 Budapest",
+    "advancements in Answer Set Programming ASPOCP 2012",
+    "ASPOCP 2012 conference proceedings PDF"
+  ],
+  "160": [
+    "decoherence in quantum mechanics",
+    "experiments illustrating quantum to classical transition",
+    "philosophical interpretations of quantum mechanics",
+    "wave-particle duality and classical behavior",
+    "measurement problem in quantum physics"
+  ],
+  "161": [
+    "companies developing quantum communication technologies",
+    "startups focused on quantum networking solutions",
+    "research institutions working on quantum internet projects",
+    "partnerships in quantum internet development",
+    "funding for quantum internet technology initiatives"
+  ],
+  "163": [
+    "meaning of colors in different cultures",
+    "psychological effects of color in design",
+    "case studies on color symbolism",
+    "interdisciplinary studies on color and communication",
+    "color perception in marketing and advertising"
+  ],
+  "164": [
+    "latest numerical methods in engineering",
+    "innovative algorithm development in science",
+    "simulation techniques in computational research",
+    "mathematical modeling advancements in engineering",
+    "case studies on computational methods in science"
+  ],
+  "165": [
+    "recent advancements in smart biomaterials for tissue repair",
+    "environmentally responsive biomaterials for tissue engineering",
+    "clinical applications of smart biomaterials in regenerative medicine",
+    "types of biomaterials that promote healing and tissue growth",
+    "mechanisms of action of smart biomaterials in tissue regeneration"
+  ],
+  "166": [
+    "platforms for reporting road hazards",
+    "user-friendly road damage reporting tools",
+    "case studies on community road reporting systems",
+    "impact of road damage reporting on maintenance",
+    "accessible systems for reporting potholes"
+  ],
+  "168": [
+    "environmental benefits of biofuels",
+    "negative effects of biofuels on ecosystems",
+    "biofuels greenhouse gas emissions studies",
+    "impact of biofuels on air and water quality",
+    "case studies on biofuels land use changes"
+  ],
+  "169": [
+    "polymer chain behavior at critical overlap concentration",
+    "mechanisms of chain contraction in polymer solutions",
+    "experimental studies on chain contraction in polymers",
+    "theoretical models of polymer chain contraction",
+    "effects of critical overlap concentration on polymer properties"
+  ],
+  "170": [
+    "Intouchables film themes and character analysis",
+    "Intouchables cultural impact and social issues",
+    "Intouchables film critical reviews and reception",
+    "Intouchables portrayal of disability and friendship",
+    "Intouchables box office performance and awards"
+  ],
+  "171": [
+    "effects of plastic pollution on wildlife",
+    "impact of plastic waste on marine life",
+    "success of plastic bans in wildlife protection",
+    "case studies on plastic waste and animal health",
+    "habitat disruption caused by plastic waste"
+  ],
+  "172": [
+    "theories of abiogenesis and their evidence",
+    "panspermia hypothesis and its implications",
+    "environmental conditions for the emergence of life",
+    "historical perspectives on the origin of life research",
+    "recent discoveries in astrobiology related to life's origins"
+  ],
+  "175": [
+    "heavy metals concentration in soil and water samples",
+    "sources of heavy metal contamination in the environment",
+    "health risks associated with exposure to lead and mercury",
+    "case studies on heavy metal pollution and remediation",
+    "environmental assessments of heavy metals in air quality"
+  ],
+  "176": [
+    "techniques used in search and rescue operations",
+    "case studies on successful rescue missions",
+    "best practices for urban search and rescue",
+    "training manuals for rescue personnel",
+    "advancements in technology for rescue operations"
+  ],
+  "177": [
+    "classical Chinese literature texts",
+    "contemporary Chinese authors and their works",
+    "impact of Chinese literature on global literature",
+    "major literary movements in Chinese literature",
+    "cultural significance of Chinese literary works"
+  ],
+  "181": [
+    "Heat treatment processes in metallurgy applications",
+    "Principles of annealing, quenching, tempering, and hardening",
+    "Case studies on heat treatment effectiveness in automotive industry",
+    "Comparative analysis of heat treatment methods in manufacturing",
+    "Material properties enhancement through heat treatment techniques"
+  ],
+  "0": [
+    "Function approximation using fuzzy logic systems",
+    "Performance metrics of similarity-based fuzzy systems",
+    "Comparative analysis of fuzzy systems and neural networks for function approximation",
+    "Applications of fuzzy logic in real-world function approximation tasks",
+    "Methodologies for implementing similarity-based fuzzy systems"
+  ],
+  "1": [
+    "types of optical amplifiers in telecommunications",
+    "applications of fiber optical amplifiers",
+    "recent advancements in semiconductor optical amplifiers",
+    "principles of operation of optical amplifiers",
+    "efficiency of optical amplification in data transmission"
+  ],
+  "2": [
+    "definition of chemical space in drug discovery",
+    "methods for exploring chemical space in medicinal chemistry",
+    "importance of chemical space in materials science",
+    "computational techniques for analyzing chemical space",
+    "case studies on chemical space and molecular diversity"
+  ],
+  "3": [
+    "APPROX 2010 workshop papers and presentations",
+    "RANDOM 2010 conference proceedings algorithms",
+    "Approximation and randomization techniques from APPROX 2010",
+    "Combinatorial optimization discussions at RANDOM 2010",
+    "Innovative algorithms presented in APPROX and RANDOM 2010"
+  ],
+  "6": [
+    "contactless check-in technology in hospitality industry",
+    "guest experiences with mobile check-in at hotels",
+    "operational benefits of digital check-in systems for resorts",
+    "case studies on contactless check-in implementation in hotels",
+    "statistics on adoption rates of contactless check-in solutions"
+  ],
+  "7": [
+    "nursing practices for preventing phlebitis in IV catheters",
+    "effectiveness of nursing interventions on phlebitis rates",
+    "quantitative studies on phlebitis prevention in PIVC",
+    "randomized trials on IV catheter phlebitis prevention strategies",
+    "statistical outcomes of nursing interventions for phlebitis"
+  ],
+  "8": [
+    "principles of the Tallinn Manual on Cyber Warfare",
+    "legal implications of the Tallinn Manual in cyber operations",
+    "case studies of cyber incidents related to the Tallinn Manual",
+    "interpretations of specific articles in the Tallinn Manual",
+    "impact of the Tallinn Manual on state behavior in cyberspace"
+  ],
+  "9": [
+    "impact of government policies on economic performance",
+    "role of political institutions in economic behavior",
+    "effects of political ideologies on economic systems",
+    "historical perspectives on political economy",
+    "contemporary issues in political economy"
+  ],
+  "10": [
+    "natural dyes from Bougainvillea flowers",
+    "Bougainvillea flower dye properties and applications",
+    "colorfastness of Bougainvillea dye on textiles",
+    "sustainable fashion and natural dyeing methods",
+    "impact of natural vs synthetic dyes in textiles"
+  ],
+  "11": [
+    "chitosan biopolymer properties in food packaging",
+    "antimicrobial effects of chitosan in food preservation",
+    "innovative designs using chitosan for food packaging",
+    "advancements in intelligent food packaging with chitosan",
+    "case studies on chitosan-based food packaging solutions"
+  ],
+  "12": [
+    "SPAA 2014 conference schedule and agenda",
+    "keynote speakers at 26th ACM SPAA 2014",
+    "accepted papers and proceedings for SPAA 2014",
+    "workshops held during SPAA 2014 in Prague",
+    "outcomes and discussions from ACM SPAA 2014"
+  ],
+  "13": [
+    "International Criminal Court case studies on non-state party prosecutions",
+    "Legal challenges faced by the ICC in prosecuting non-state actors",
+    "Impact of non-state party status on ICC jurisdiction and prosecutions",
+    "Outcomes of ICC prosecutions involving individuals from non-signatory countries",
+    "Types of international crimes prosecuted by the ICC against non-state parties"
+  ],
+  "14": [
+    "Nurses' training on pain assessment in Intensive Care Units",
+    "Effectiveness of sedation scales used by ICU nurses",
+    "Barriers to implementing pain and sedation scales in ICUs",
+    "Empirical studies on nurses' knowledge of pain management in critical care",
+    "Guidelines for assessing pain and sedation in critically ill patients"
+  ]
+}

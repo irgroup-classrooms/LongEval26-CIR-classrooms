@@ -1,0 +1,20 @@
+Run,Matches,Cosine Mean,Cosine Std,SBERT Mean,SBERT Std
+openai_all_B_contrastive,336,0.2116,0.1943,0.4615,0.2471
+openai_all_B_non_rel,336,0.2113,0.1943,0.4601,0.2522
+openai_last_B_contrastive,336,0.2106,0.1948,0.4601,0.2483
+openai_last_B_non_rel,336,0.2,0.1868,0.4562,0.2498
+openai_first_B_non_rel,336,0.2,0.1886,0.4541,0.2516
+openai_first_B_contrastive,336,0.2016,0.1923,0.448,0.2539
+openai_last_B_rel,336,0.1948,0.1968,0.4477,0.2555
+openai_first_B_rel,336,0.1895,0.1929,0.445,0.2552
+openai_all_B_rel,336,0.1889,0.1855,0.4408,0.2507
+openai_all_A_contrastive,336,0.1635,0.1689,0.3979,0.263
+openai_first_A_contrastive,336,0.1686,0.169,0.3965,0.2597
+openai_first_A_non_rel,336,0.1579,0.1602,0.3959,0.2534
+openai_last_A_contrastive,336,0.1651,0.1742,0.3952,0.2615
+openai_last_A_non_rel,336,0.1608,0.1687,0.3944,0.2558
+openai_last_A_rel,336,0.1601,0.1619,0.3941,0.2607
+openai_all_A_non_rel,336,0.1588,0.1606,0.3932,0.256
+openai_first_A_rel,336,0.1606,0.1586,0.3918,0.2559
+openai_all_A_rel,336,0.1564,0.1626,0.3885,0.2597
+openai_first_A_rel_recovered,154,0.1164,0.1574,0.3298,0.3003

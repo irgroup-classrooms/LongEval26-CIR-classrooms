@@ -1,0 +1,25 @@
+# API-Schlüssel – niemals committen
+.env
+
+# Pyterrier-Index – ~2.8 GB Binärdaten, wird via 01_indexierung.ipynb neu gebaut
+Index_Longeval_SCI_snapshot3/
+
+# Word- und PDF-Dokumente
+*.docx
+*.pdf
+~$*
+
+# Interne Tool-Einstellungen
+.claude/
+
+# LLM-Checkpoint-Dateien (Zwischenspeicher, nicht relevant für Abgabe)
+data/*_checkpoint_*.csv
+
+# LongEval-Wettbewerbsdaten (dürfen meist nicht weiterverteilt werden)
+task3_longeval_usim-sessions-*.csv
+predetermined_queries_Task_A_test.csv
+
+# Python-Cache
+__pycache__/
+*.pyc
+*.pyo

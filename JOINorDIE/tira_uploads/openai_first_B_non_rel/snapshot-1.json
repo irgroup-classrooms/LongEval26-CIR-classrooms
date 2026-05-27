@@ -1,0 +1,1270 @@
+{
+  "meta": {
+    "team_name": "JOINorDIE",
+    "description": "LLM-based next query prediction using OpenAI GPT-4o-mini.",
+    "run_name": "openai_first_B_non_rel",
+    "query_mode": "first",
+    "prompt": "B",
+    "doc_variant": "non_rel"
+  },
+  "102": [
+    "Resources for Nontraditional Students",
+    "Challenges Faced by Nontraditional Students",
+    "Nontraditional Student Support Services",
+    "Nontraditional vs Traditional Students",
+    "Financial Aid for Nontraditional Students"
+  ],
+  "109": [
+    "value of time in education",
+    "importance of teaching time management",
+    "strategies for effective teaching time usage",
+    "impact of teaching time on student outcomes",
+    "optimizing teacher time in the classroom"
+  ],
+  "121": [
+    "Filipino language teaching methods in math",
+    "effective strategies for teaching science in Filipino",
+    "bilingual education in mathematics and science",
+    "resources for teaching math in Filipino",
+    "impact of language on learning math and science"
+  ],
+  "122": [
+    "Effect of OFW parents on student performance",
+    "Academic challenges for children of OFW parents",
+    "Support systems for OFW children in school",
+    "Educational outcomes for students with OFW parents",
+    "Impact of parental absence on academic success"
+  ],
+  "175": [
+    "National communication strategies for social engagement",
+    "Impact of communication on community involvement",
+    "Studies on social engagement and public health",
+    "Communication methods in civic engagement",
+    "Research on effective communication in social movements"
+  ],
+  "3": [
+    "gender equality in leadership",
+    "impact of gender on education",
+    "gender roles in management",
+    "women in leadership positions",
+    "gender disparities in the workplace"
+  ],
+  "6": [
+    "impact of mobile gaming on teenagers",
+    "mobile games and academic success",
+    "effects of gaming on student performance",
+    "teenagers and mobile game addiction",
+    "academic performance and video games"
+  ],
+  "27": [
+    "Impact of Service Climate on Customer Satisfaction in Hospitality",
+    "Employee Engagement Strategies in Hospitality Industry",
+    "Customer Experience Management in Hotels",
+    "Service Quality and Employee Performance in Restaurants",
+    "Role of Employee Training in Enhancing Customer Experience"
+  ],
+  "36": [
+    "political social dynamics",
+    "impact of social dynamics on politics",
+    "social behavior in political contexts",
+    "political psychology and social dynamics",
+    "social movements and political change"
+  ],
+  "44": [
+    "Eco-friendly paper alternatives from agricultural waste",
+    "Benefits of using banana peels for paper production",
+    "Sustainable practices in paper manufacturing",
+    "Impact of banana peel paper on the environment",
+    "Comparative analysis of alternative paper sources"
+  ],
+  "59": [
+    "small business funding options",
+    "marketing strategies for small businesses",
+    "challenges faced by small businesses",
+    "small business growth tips",
+    "best practices for small business management"
+  ],
+  "64": [
+    "Impact of home environment on student success",
+    "Home factors affecting academic achievement",
+    "Role of family background in education",
+    "How does home life influence learning",
+    "Environmental factors in student performance"
+  ],
+  "65": [
+    "Effects of extracurricular activities on grades",
+    "Impact of sports on academic performance in high school",
+    "Balancing academics and extracurriculars in Grade 9",
+    "Research on student performance and extracurricular involvement",
+    "Negative effects of too many activities on learning"
+  ],
+  "87": [
+    "LGBTQ student support resources",
+    "LGBTQ student rights in schools",
+    "LGBTQ bullying prevention strategies",
+    "LGBTQ inclusive education policies",
+    "LGBTQ student mental health services"
+  ],
+  "97": [
+    "effects of sleep deprivation on students",
+    "sleep deprivation academic performance studies",
+    "impact of lack of sleep on learning",
+    "sleep and cognitive function in students",
+    "sleep deprivation consequences for education"
+  ],
+  "99": [
+    "impact of teacher training on student performance",
+    "local studies on teacher training effectiveness",
+    "resources for teacher training programs",
+    "teacher professional development and student outcomes",
+    "evaluation of teacher training impact in schools"
+  ],
+  "103": [
+    "machine learning for chronic disease",
+    "predictive analytics in healthcare",
+    "chronic disease risk factors",
+    "ML models for disease prediction",
+    "data-driven approaches to chronic illness"
+  ],
+  "104": [
+    "Sweet potato doughnut recipes",
+    "Health benefits of sweet potatoes",
+    "Nutritional value of sweet potato flour",
+    "Alternative ingredients for doughnuts",
+    "Sweet potato dessert ideas"
+  ],
+  "107": [
+    "Effects of stress on students",
+    "Stress management techniques for high school students",
+    "Academic performance and mental health in teenagers",
+    "Coping strategies for academic stress",
+    "Impact of anxiety on high school grades"
+  ],
+  "111": [
+    "Effects of gaming addiction on students",
+    "Mobile gaming and academic performance",
+    "Research on gaming addiction in youth",
+    "How gaming impacts education",
+    "Strategies to manage gaming addiction in teens"
+  ],
+  "115": [
+    "ionic liquid applications",
+    "biocompatibility of ionic liquids",
+    "yeast cell biocatalysis",
+    "cell toxicity tests",
+    "biocatalysis in yeast"
+  ],
+  "118": [
+    "metro project supply chain issues",
+    "cost overruns in construction projects",
+    "analysis of supply chain inefficiencies",
+    "strategies to mitigate supply chain bottlenecks",
+    "impact of delays on metro project budgets"
+  ],
+  "128": [
+    "impact of work life balance on productivity",
+    "benefits of work life balance for employees",
+    "strategies to improve work life balance",
+    "work life balance and mental health",
+    "employee well-being and organizational culture"
+  ],
+  "132": [
+    "hospital discharge lounge",
+    "discharge lounge services",
+    "patient discharge lounge",
+    "discharge lounge amenities",
+    "discharge lounge procedures"
+  ],
+  "136": [
+    "student affection impact on grades",
+    "how affection influences academic success",
+    "relationship between student emotions and performance",
+    "importance of emotional support in education",
+    "affectionate teaching methods and student outcomes"
+  ],
+  "140": [
+    "Impact of inflation on fiscal policy",
+    "Government spending trends during inflation",
+    "Inflation effects on public expenditure",
+    "How does inflation influence government budgets?",
+    "Historical analysis of inflation and spending"
+  ],
+  "143": [
+    "spastic diplegia treatment options",
+    "cerebral palsy physiotherapy exercises",
+    "improving gait in spastic diplegia",
+    "latest research on cerebral palsy",
+    "rehabilitation techniques for spastic diplegia"
+  ],
+  "147": [
+    "HIV treatment options",
+    "HIV symptoms",
+    "HIV prevention methods",
+    "HIV statistics 2023",
+    "HIV research updates"
+  ],
+  "149": [
+    "Concord-M PMC",
+    "private military companies",
+    "Concord-M military operations",
+    "history of Concord-M",
+    "Concord-M reviews"
+  ],
+  "150": [
+    "best fertilizer for eggplant",
+    "organic fertilizer for eggplant",
+    "how to fertilize eggplant",
+    "eggplant growth tips",
+    "eggplant care guide"
+  ],
+  "156": [
+    "monetizing a passion",
+    "turning hobbies into income",
+    "ways to profit from interests",
+    "successful passion projects",
+    "entrepreneurship in creative fields"
+  ],
+  "162": [
+    "MPPT algorithm optimization",
+    "MPPT techniques comparison",
+    "MPPT efficiency challenges",
+    "solar energy MPPT solutions",
+    "MPPT controller design issues"
+  ],
+  "163": [
+    "how to communicate effectively",
+    "tips for better conversation",
+    "importance of thinking before speaking",
+    "improving verbal communication skills",
+    "overcoming impulsive speaking"
+  ],
+  "164": [
+    "Examples of literary elements in poetry",
+    "Types of literary devices in poetry",
+    "Analysis of literary elements in poems",
+    "How to identify literary elements in poetry",
+    "Importance of literary elements in poetry"
+  ],
+  "165": [
+    "impact of social media on employee productivity",
+    "social media policies for workplaces",
+    "benefits of social media in the workplace",
+    "challenges of using social media at work",
+    "examples of social media use in organizations"
+  ],
+  "166": [
+    "time management strategies for arts students",
+    "best practices for managing time in creative fields",
+    "time management tools for university students",
+    "impact of time management on student performance in Asia",
+    "work-life balance for arts students in Asia"
+  ],
+  "167": [
+    "impact of social media on communication skills",
+    "how social media affects students' communication",
+    "relationship between social media and academic performance",
+    "communication skills development in humss students",
+    "social media use among humss students"
+  ],
+  "168": [
+    "automated energy management system design",
+    "information message generation techniques",
+    "real-time data processing in energy systems",
+    "smart grid communication protocols",
+    "energy management system optimization methods"
+  ],
+  "169": [
+    "caregiver burnout",
+    "stress management for caregivers",
+    "support groups for caregivers",
+    "mental health resources for caregivers",
+    "self-care tips for caregivers"
+  ],
+  "170": [
+    "canteen menu options",
+    "healthy canteen food choices",
+    "canteen food reviews",
+    "canteen food safety standards",
+    "affordable canteen meals"
+  ],
+  "171": [
+    "impact of laptops on teaching effectiveness",
+    "benefits of technology in education",
+    "best practices for using laptops in classrooms",
+    "challenges teachers face with laptops",
+    "laptop integration in teaching methods"
+  ],
+  "172": [
+    "marketing theories in business",
+    "business marketing strategies",
+    "theories of marketing management",
+    "impact of marketing on business growth",
+    "business models in marketing"
+  ],
+  "173": [
+    "fast food advertising strategies",
+    "social media marketing fast food",
+    "impact of social media on fast food sales",
+    "fast food brand engagement on social media",
+    "trends in fast food advertising"
+  ],
+  "174": [
+    "effects of sleep deprivation on students",
+    "how to improve sleep quality for students",
+    "sleep tips for college students",
+    "impact of lack of sleep on academic performance",
+    "studying while sleep deprived"
+  ],
+  "176": [
+    "effects of social media on mental health",
+    "facebook and anxiety in students",
+    "impact of social media on student well-being",
+    "facebook usage and depression rates",
+    "mental health resources for students using facebook"
+  ],
+  "177": [
+    "Biodiversity initiatives in Meycauayan",
+    "Conservation projects in Bulacan",
+    "Environmental organizations in Meycauayan",
+    "Wildlife protection in Bulacan",
+    "Sustainable practices in Meycauayan"
+  ],
+  "178": [
+    "impact of bullying on LGBTQ youth mental health",
+    "support resources for LGBTQ students facing bullying",
+    "statistics on bullying among LGBTQ high schoolers",
+    "mental health programs for LGBTQ youth",
+    "coping strategies for LGBTQ students bullied in school"
+  ],
+  "179": [
+    "Impact of entrepreneurship on business strategies",
+    "How entrepreneurship influences business practices",
+    "Role of entrepreneurship in modern business",
+    "Entrepreneurship and its effects on economic growth",
+    "Business strategies for entrepreneurs"
+  ],
+  "0": [
+    "Recep Tayyip Erdo\u011fan oil exploration news",
+    "Turkey oil exploration projects 2023",
+    "Erdo\u011fan energy policy Turkey",
+    "Recep Tayyip Erdo\u011fan oil and gas",
+    "Turkey oil reserves exploration updates"
+  ],
+  "1": [
+    "Sonatrach Istanbul partnership",
+    "Sonatrach Turkey energy deals",
+    "Istanbul Sonatrach news",
+    "Sonatrach oil exports Turkey",
+    "Istanbul energy market Sonatrach"
+  ],
+  "2": [
+    "classroom management techniques",
+    "strategies for reducing noise in class",
+    "effective discipline methods for students",
+    "improving student behavior in classrooms",
+    "noise control in educational settings"
+  ],
+  "4": [
+    "effects of social media on student learning",
+    "social media influence on academic success",
+    "relationship between social media use and grades",
+    "impact of social media on college students",
+    "social media addiction and academic performance"
+  ],
+  "5": [
+    "ARIMA vs XGBoost for stock prediction",
+    "Random Forest stock price forecasting",
+    "Best models for stock price prediction",
+    "Time series analysis for stock prices",
+    "Machine learning techniques for stock forecasting"
+  ],
+  "7": [
+    "impact of AI on student learning",
+    "AI tools for education",
+    "benefits of artificial intelligence in teaching",
+    "AI applications in classroom settings",
+    "future of AI in education"
+  ],
+  "8": [
+    "Modern Gymnasium designs in Philippines",
+    "Vernacular architecture in Philippine schools",
+    "Best gymnasiums in the Philippines",
+    "Philippine educational institutions with modern facilities",
+    "Cultural significance of gymnasiums in Philippines"
+  ],
+  "9": [
+    "Mohamed bin Zayed oil policy",
+    "UAE oil production and economy",
+    "Abu Dhabi crude oil reserves",
+    "OPEC and UAE oil strategy",
+    "Mohamed bin Zayed energy initiatives"
+  ],
+  "10": [
+    "impact of resource allocation on student performance",
+    "academic performance and resource management",
+    "consequences of inadequate educational resources",
+    "relationship between resources and academic success",
+    "strategies to improve academic outcomes with limited resources"
+  ],
+  "11": [
+    "impact of traffic policing on public safety",
+    "public opinion on traffic enforcement in the UK",
+    "traffic policing effectiveness in urban areas",
+    "community attitudes towards traffic law enforcement",
+    "recent studies on traffic policing in the UK"
+  ],
+  "12": [
+    "alkane viscosity calculation",
+    "viscosity of n-alkanes",
+    "factors affecting alkane viscosity",
+    "viscosity of liquid mixtures",
+    "molecular weight and viscosity relationship"
+  ],
+  "13": [
+    "pisum sativum taxonomy",
+    "botanical classification of peas",
+    "pisum sativum varieties",
+    "nutritional content of pisum sativum",
+    "cultivation practices for field peas"
+  ],
+  "14": [
+    "workplace well-being strategies",
+    "improving employee well-being",
+    "workplace mental health initiatives",
+    "benefits of workplace well-being",
+    "measuring workplace well-being"
+  ],
+  "15": [
+    "recycling bins for roads",
+    "how to recycle bottles properly",
+    "recycling programs near me",
+    "bottle recycling locations",
+    "environmental impact of recycling"
+  ],
+  "16": [
+    "Educational leadership theories",
+    "School culture and student success",
+    "Transformational leadership in education",
+    "Impact of leadership on school culture",
+    "Best practices in educational leadership"
+  ],
+  "17": [
+    "Trump foreign policy analysis",
+    "impact of Trump's foreign policy",
+    "Trump administration foreign relations",
+    "Trump foreign policy achievements",
+    "criticism of Trump's foreign policy"
+  ],
+  "18": [
+    "History of Food Preservation",
+    "Culinary Traditions Through Time",
+    "Evolution of Cooking Techniques",
+    "Cultural Influences on Food",
+    "Historical Food Trade Routes"
+  ],
+  "19": [
+    "indigenous language revitalization",
+    "language preservation in indigenous cultures",
+    "impact of colonialism on indigenous languages",
+    "case studies on indigenous language reclamation",
+    "strategies for revitalizing endangered languages"
+  ],
+  "20": [
+    "Trump unilateral foreign policy",
+    "impact of Trump on international relations",
+    "Trump and isolationism",
+    "US foreign policy under Trump",
+    "Trump's approach to diplomacy"
+  ],
+  "21": [
+    "Impact of commuting on student performance",
+    "Strategies for supporting commuter students",
+    "Challenges faced by student commuters",
+    "Resources for commuter students",
+    "Research articles on commuter student issues"
+  ],
+  "22": [
+    "causes of financial instability",
+    "impact of financial instability",
+    "financial crisis examples",
+    "ways to mitigate financial instability",
+    "historical cases of financial instability"
+  ],
+  "23": [
+    "AI effects on student learning",
+    "Benefits of AI in education",
+    "AI tools for students",
+    "Challenges of AI in classrooms",
+    "Future of AI in higher education"
+  ],
+  "24": [
+    "debt management strategies for small businesses",
+    "cash flow management techniques",
+    "financial planning for small business owners",
+    "impact of cash flow on business success",
+    "best practices for managing business debt"
+  ],
+  "25": [
+    "types of dialects",
+    "sociolinguistic factors in language variation",
+    "impact of geography on language",
+    "formal vs informal language use",
+    "regional accents and their characteristics"
+  ],
+  "26": [
+    "English teaching methods",
+    "English teacher resources",
+    "How to become an English teacher",
+    "English teacher lesson plans",
+    "English language teaching strategies"
+  ],
+  "28": [
+    "Effects of improper waste disposal",
+    "Solutions for waste management",
+    "Health risks of improper waste disposal",
+    "Regulations on waste disposal",
+    "Case studies on waste management"
+  ],
+  "29": [
+    "effects of social media on mental health",
+    "how to manage social media addiction",
+    "signs of social media addiction",
+    "social media use in teenagers",
+    "impact of social media on youth"
+  ],
+  "30": [
+    "What types of soil are best for gardening?",
+    "How to improve soil quality?",
+    "Best soil for potted plants?",
+    "What is loamy soil?",
+    "Soil composition for vegetable gardens?"
+  ],
+  "31": [
+    "Factors Influencing Student Success",
+    "Impact of Motivation on Academic Performance",
+    "Role of Family Support in Education",
+    "Academic Performance and Study Habits",
+    "Socioeconomic Status and Student Achievement"
+  ],
+  "32": [
+    "ethical implications of AI in labeling",
+    "automatic labeling and ethics",
+    "AI ethics in automated systems",
+    "impact of automatic labeling on privacy",
+    "machine learning ethics in labeling processes"
+  ],
+  "33": [
+    "factors influencing egg hatchability",
+    "breeder egg incubation conditions",
+    "impact of diet on egg hatchability",
+    "hatchability rates in poultry",
+    "best practices for hatching breeder eggs"
+  ],
+  "34": [
+    "Effects of social media on mental health",
+    "Social media statistics 2023",
+    "Social media trends among teenagers",
+    "Impact of social media on communication",
+    "Social media usage in different countries"
+  ],
+  "35": [
+    "spacecraft optimization techniques",
+    "Earth remote sensing applications",
+    "satellite mission planning",
+    "spacecraft resource allocation",
+    "remote sensing technologies"
+  ],
+  "37": [
+    "household food waste reduction strategies",
+    "impact of food waste on household management",
+    "best practices for reducing food waste at home",
+    "strategies for sustainable household management",
+    "food waste reduction programs and their effectiveness"
+  ],
+  "38": [
+    "strategies for managing disruptive behavior",
+    "impact of disruptive students on learning",
+    "classroom management techniques",
+    "behavioral interventions for students",
+    "causes of student disruption"
+  ],
+  "39": [
+    "robotics programming tutorials",
+    "best programming languages for robotics",
+    "how to program a robot",
+    "robot programming tools",
+    "robot programming projects"
+  ],
+  "40": [
+    "Acceptability of automatic shower technology",
+    "Literature review on automatic shower systems",
+    "User feedback on automatic shower technology",
+    "Studies on smart shower systems",
+    "Impact of automatic showers on user experience"
+  ],
+  "41": [
+    "SOLAR WATER PUMP SYSTEM",
+    "SOLAR POWERED PUMP FOR IRRIGATION",
+    "SOLAR PUMP INSTALLATION GUIDE",
+    "BENEFITS OF SOLAR WATER PUMPS",
+    "COST OF SOLAR POWERED WATER PUMPS"
+  ],
+  "42": [
+    "types of flow measurement techniques",
+    "how to measure flow rate",
+    "best flow measurement devices",
+    "applications of flow measurement",
+    "flow measurement standards and practices"
+  ],
+  "43": [
+    "myers-briggs personality test",
+    "myers-briggs types explained",
+    "how to determine my personality type",
+    "myers-briggs compatibility",
+    "myers-briggs and career choices"
+  ],
+  "45": [
+    "Malaysian Chinese culture",
+    "Malaysian Chinese history",
+    "Malaysian Chinese cuisine",
+    "Malaysian Chinese demographics",
+    "Malaysian Chinese festivals"
+  ],
+  "46": [
+    "code-switching in films",
+    "language learning through movies",
+    "impact of code-switching on language acquisition",
+    "best live-action films for language learners",
+    "examples of code-switching in popular media"
+  ],
+  "47": [
+    "customs clearance process",
+    "customer support for customs platforms",
+    "best customs clearance services",
+    "cross-border shipping support",
+    "e-commerce customs regulations"
+  ],
+  "48": [
+    "Roblox educational tools 2023",
+    "using Roblox for teaching",
+    "Roblox curriculum integration",
+    "benefits of Roblox in education",
+    "Roblox learning resources"
+  ],
+  "49": [
+    "uses of cassava peels in adhesives",
+    "charcoal production from cassava waste",
+    "biomass adhesives from agricultural waste",
+    "benefits of cassava in sustainable materials",
+    "alternative uses for cassava byproducts"
+  ],
+  "50": [
+    "Work from home options",
+    "Flexible work arrangements",
+    "Remote work policies",
+    "Employee well-being at work",
+    "Work-life balance strategies"
+  ],
+  "51": [
+    "best practices for inclusive education",
+    "strategies for teaching students with disabilities",
+    "inclusive classroom activities",
+    "support services for students with disabilities",
+    "legal rights for students with disabilities in education"
+  ],
+  "52": [
+    "microplastic pollution",
+    "effects of microplastics on marine life",
+    "microplastic mitigation strategies",
+    "microplastic research studies",
+    "microplastic bioindicators"
+  ],
+  "53": [
+    "Effective online selling techniques",
+    "Boosting sales for online retailers",
+    "Digital marketing strategies for e-commerce",
+    "Customer retention in online sales",
+    "Best practices for online marketplace sellers"
+  ],
+  "54": [
+    "natural disasters in education",
+    "teaching strategies for natural disasters",
+    "impact of natural disasters on learning",
+    "curriculum development for disaster education",
+    "natural disaster preparedness in schools"
+  ],
+  "55": [
+    "bambusa vulgaris toxicity",
+    "cyanide in bamboo species",
+    "bambusa vulgaris uses",
+    "bamboo cyanide poisoning",
+    "bambusa vulgaris health effects"
+  ],
+  "56": [
+    "mixed methods research in artificial intelligence",
+    "applications of mixed methods in AI studies",
+    "AI research methodologies",
+    "impact of mixed methods on AI education",
+    "case studies of mixed methods in artificial intelligence"
+  ],
+  "57": [
+    "allergy treatment options",
+    "allergy symptoms",
+    "allergy medication reviews",
+    "allergy causes",
+    "best allergy remedies"
+  ],
+  "58": [
+    "Genetic Stratigraphy Overview",
+    "Galloway 1989 Genetic Sequences",
+    "Applications of Genetic Stratigraphy",
+    "Stratigraphic Sequences in Geology",
+    "Recent Advances in Genetic Stratigraphy"
+  ],
+  "60": [
+    "Causes of cost push inflation",
+    "Effects of inflation on economy",
+    "Difference between cost push and demand pull inflation",
+    "Examples of cost push inflation",
+    "How to combat cost push inflation"
+  ],
+  "61": [
+    "blockchain IoT cybersecurity solutions",
+    "how blockchain enhances IoT security",
+    "cybersecurity challenges in IoT",
+    "blockchain applications in cybersecurity",
+    "IoT security frameworks using blockchain"
+  ],
+  "62": [
+    "best AI tools for students",
+    "AI applications in education",
+    "learning AI as a student",
+    "AI resources for beginners",
+    "impact of AI on student learning"
+  ],
+  "63": [
+    "Impact of technology on social work",
+    "Best practices for technology in social work education",
+    "Online tools for social work training",
+    "Case studies on technology in social work",
+    "Future trends in social work and technology"
+  ],
+  "66": [
+    "Dimensional Tolerance in Construction Projects",
+    "Construction Quality Control Techniques",
+    "Geometric Tolerance Standards in Building",
+    "Cost Management in Construction Projects",
+    "Integrated Project Delivery and Tolerances"
+  ],
+  "67": [
+    "Debug trace analysis tools for embedded systems",
+    "Embedded systems debugging techniques",
+    "Real-time analysis of debug data in embedded systems",
+    "Best practices for debugging embedded systems",
+    "Debugging methodologies for embedded software"
+  ],
+  "68": [
+    "Social Media addiction effects",
+    "Dopamine and social media use",
+    "Managing social media addiction",
+    "Signs of social media addiction",
+    "Impact of social media on mental health"
+  ],
+  "69": [
+    "cluster management tools",
+    "best practices for cluster management",
+    "cluster management software comparison",
+    "how to optimize cluster management",
+    "cluster management in cloud computing"
+  ],
+  "70": [
+    "inventory management systems",
+    "accounting software for inventory tracking",
+    "best practices for inventory accounting",
+    "integrating accounting with inventory systems",
+    "inventory control methods in accounting"
+  ],
+  "71": [
+    "what are smart contracts",
+    "how to create a smart contract",
+    "smart contract use cases",
+    "smart contract security risks",
+    "smart contract vs traditional contracts"
+  ],
+  "72": [
+    "cattle genetics database",
+    "livestock breeding genetic tools",
+    "cattle breeding techniques",
+    "genetic traits in cattle",
+    "Angus bull genetic evaluation"
+  ],
+  "73": [
+    "socio-economic development strategies for rural areas",
+    "impact of rural development on local economies",
+    "best practices in rural socio-economic planning",
+    "challenges in rural economic development",
+    "community involvement in rural development projects"
+  ],
+  "74": [
+    "Impact of EPWP on eThekwini Municipality",
+    "Success stories of EPWP in Durban",
+    "EPWP and community development in eThekwini",
+    "Challenges faced by EPWP in eThekwini Municipality",
+    "Comparison of EPWP and CWP in South Africa"
+  ],
+  "75": [
+    "gadolinium nanogels applications",
+    "gadolinium MRI contrast agents",
+    "nanogels in medical imaging",
+    "gadolinium nanoparticles synthesis",
+    "biomedical uses of gadolinium"
+  ],
+  "76": [
+    "college hostel facilities",
+    "best college hostels",
+    "college hostel reviews",
+    "college hostel application process",
+    "college hostel costs"
+  ],
+  "77": [
+    "SDG No poverty initiatives",
+    "impact of poverty on education",
+    "SDG goals and poverty reduction",
+    "strategies to eliminate poverty",
+    "global poverty statistics 2023"
+  ],
+  "78": [
+    "types of drilling machines",
+    "drilling machine specifications",
+    "best drilling machines for construction",
+    "drilling machine reviews",
+    "drilling techniques and methods"
+  ],
+  "79": [
+    "financial literacy resources",
+    "improving financial skills",
+    "personal finance tips",
+    "financial education programs",
+    "budgeting and saving strategies"
+  ],
+  "80": [
+    "Supervised Machine Learning applications in risk assessment",
+    "Risk-based screening methods for transformers",
+    "Machine Learning techniques for transformer maintenance",
+    "Impact of risk-based inspection on transformer reliability",
+    "Case studies on risk management in electrical distribution"
+  ],
+  "81": [
+    "nonviolent action strategies",
+    "think tanks promoting peace",
+    "history of nonviolent movements",
+    "impact of think tanks on social change",
+    "case studies of nonviolent action"
+  ],
+  "82": [
+    "Sustainability programs in organizations",
+    "Sustainability department initiatives",
+    "Careers in sustainability departments",
+    "Sustainability programs for businesses",
+    "Impact of sustainability on departments"
+  ],
+  "83": [
+    "oil and gas project management software",
+    "best practices in oil and gas project management",
+    "challenges in oil and gas project management",
+    "project management methodologies for oil and gas",
+    "case studies in oil and gas project management"
+  ],
+  "84": [
+    "health education programs",
+    "importance of health education",
+    "health education resources",
+    "mental health education",
+    "health education strategies"
+  ],
+  "85": [
+    "solar energy careers 2030",
+    "solar engineering job outlook",
+    "renewable energy engineering programs",
+    "future of solar technology 2030",
+    "solar energy project ideas"
+  ],
+  "86": [
+    "benefits of religion in society",
+    "impact of religion on social cohesion",
+    "arguments for and against religion",
+    "does religion improve moral values",
+    "role of religion in modern society"
+  ],
+  "88": [
+    "geometry student experiences",
+    "student background in geometry education",
+    "geometry learning experiences",
+    "impact of student background on geometry understanding",
+    "geometry teaching methods for students"
+  ],
+  "89": [
+    "bone cancer symptoms",
+    "bone cancer treatment options",
+    "bone cancer stages",
+    "bone cancer survival rate",
+    "bone cancer causes"
+  ],
+  "90": [
+    "Frontier Services Group military operations",
+    "Hong Kong military contractors",
+    "Frontier Services Group aircraft",
+    "Frontier Services Group news",
+    "military logistics in Hong Kong"
+  ],
+  "91": [
+    "natural fiber concrete mix design",
+    "properties of natural fiber concrete",
+    "applications of natural fiber in concrete",
+    "benefits of natural fibers in concrete",
+    "mixing ratios for natural fiber concrete"
+  ],
+  "92": [
+    "seismic tunnel analysis",
+    "tunnel design for seismic activity",
+    "seismic monitoring in tunnels",
+    "tunnel construction seismic effects",
+    "geological conditions for tunnels"
+  ],
+  "93": [
+    "hypofractionated radiation therapy prostate cancer",
+    "benefits of hypofractionation prostate cancer",
+    "hypofractionation vs traditional radiation prostate",
+    "latest research hypofractionation prostate cancer",
+    "patient outcomes hypofractionation prostate cancer"
+  ],
+  "94": [
+    "AI tools for academic writing",
+    "impact of AI on research papers",
+    "AI writing assistants for students",
+    "ethical considerations of AI in writing",
+    "future of AI in education"
+  ],
+  "95": [
+    "deep learning for plant disease detection 2024",
+    "latest research on leaf disease detection 2025",
+    "plant disease detection algorithms conference 2024",
+    "machine learning techniques for plant health 2025",
+    "upcoming conferences on agricultural AI 2024"
+  ],
+  "96": [
+    "oilseed rape biofuel production",
+    "environmental impact of biofuels",
+    "biofuel feedstocks comparison",
+    "nitrous oxide emissions oilseed rape",
+    "sustainable biofuel sources"
+  ],
+  "98": [
+    "clopidogrel pharmacogenetics",
+    "clopidogrel response variability",
+    "genetic testing for clopidogrel efficacy",
+    "impact of pharmacogenetics on clopidogrel",
+    "clopidogrel metabolism genetic factors"
+  ],
+  "100": [
+    "canola oil benefits",
+    "rapeseed oil uses",
+    "biodiesel from rapeseed",
+    "rapeseed meal nutrition",
+    "faba beans vs rapeseed"
+  ],
+  "101": [
+    "ASSAM soldier news",
+    "ASSAM soldier recruitment",
+    "ASSAM soldier history",
+    "ASSAM soldier benefits",
+    "ASSAM soldier training"
+  ],
+  "105": [
+    "Lagerstroemia speciosa benefits",
+    "Lagerstroemia speciosa uses",
+    "Lagerstroemia speciosa cultivation",
+    "Lagerstroemia speciosa medicinal properties",
+    "Lagerstroemia speciosa research papers"
+  ],
+  "106": [
+    "APSIM modeling",
+    "APSIM climate impact",
+    "APSIM rice systems",
+    "APSIM water management",
+    "APSIM tools and methods"
+  ],
+  "108": [
+    "African American Vernacular English",
+    "History of African American English",
+    "Differences between AAVE and Standard English",
+    "Impact of African American English on culture",
+    "Teaching African American English in schools"
+  ],
+  "110": [
+    "Neural Networks for Multiset Learning",
+    "Multiset Data Neural Architecture",
+    "Loss Functions in Multiset Prediction",
+    "Neural Networks for Structured Data",
+    "Graph Neural Networks for Multiset Tasks"
+  ],
+  "112": [
+    "Employability of Criminology Graduates in other countries",
+    "International studies on Criminology graduate employability",
+    "Job market for Criminology graduates abroad",
+    "Comparative analysis of Criminology programs worldwide",
+    "Impact of education on Criminology careers in different countries"
+  ],
+  "113": [
+    "benefits of a plant based diet",
+    "plant based diet meal plan",
+    "plant based recipes for beginners",
+    "health effects of plant based diets",
+    "transitioning to a plant based diet"
+  ],
+  "114": [
+    "AMOC stability factors",
+    "Atlantic Ocean climate variability",
+    "impact of freshwater on AMOC",
+    "Dansgaard\u2013Oeschger events",
+    "decadal climate predictability Atlantic"
+  ],
+  "116": [
+    "cyber threat analysis",
+    "threat assessment tools",
+    "threat modeling techniques",
+    "risk analysis frameworks",
+    "incident response planning"
+  ],
+  "117": [
+    "digital literacy programs for seniors",
+    "impact of technology on elderly",
+    "barriers to technology for older adults",
+    "how to teach seniors digital skills",
+    "government initiatives for elderly digital inclusion"
+  ],
+  "119": [
+    "applications of theory of planned behavior",
+    "theory of planned behavior examples",
+    "theory of planned behavior in health",
+    "criticism of theory of planned behavior",
+    "theory of planned behavior and decision making"
+  ],
+  "120": [
+    "market regime shifts",
+    "market regime classification",
+    "financial market regimes",
+    "detecting market regimes",
+    "market regime analysis methods"
+  ],
+  "123": [
+    "HANDLOOM MARKET ASSAM",
+    "HANDLOOM PRODUCTS ONLINE",
+    "BUY HANDLOOM CLOTHES",
+    "HANDLOOM WEAVING TECHNIQUES",
+    "HISTORY OF HANDLOOM TEXTILES"
+  ],
+  "124": [
+    "lantana camara care",
+    "lantana camara uses",
+    "lantana camara invasive species",
+    "lantana camara growing conditions",
+    "lantana camara benefits"
+  ],
+  "125": [
+    "altai culture",
+    "altai history",
+    "altai ethnic groups",
+    "altai language",
+    "altai region demographics"
+  ],
+  "126": [
+    "cumberland county history",
+    "cumberland county attractions",
+    "cumberland county demographics",
+    "cumberland county events",
+    "cumberland county government"
+  ],
+  "127": [
+    "Tourism impact on environment in Bengkayang",
+    "Carrying capacity studies in tourism",
+    "Sustainable tourism practices for Sepancong Hill",
+    "Visitor management strategies for tourist sites",
+    "Environmental conservation in tourist areas"
+  ],
+  "129": [
+    "What is investigative journalism?",
+    "Examples of investigative journalism",
+    "Famous investigative journalists",
+    "Impact of investigative journalism",
+    "Techniques in investigative journalism"
+  ],
+  "130": [
+    "Impact of COVID-19 on automotive industry",
+    "Automotive supply chain challenges during pandemic",
+    "COVID-19 effects on car manufacturing",
+    "Future of automotive supply chains post-COVID",
+    "Strategies for automotive supply chain recovery"
+  ],
+  "131": [
+    "private cloud benefits",
+    "private cloud vs public cloud",
+    "how to set up a private cloud",
+    "private cloud security best practices",
+    "private cloud providers comparison"
+  ],
+  "133": [
+    "corporate tax strategies",
+    "international tax optimization",
+    "tax incentives for corporations",
+    "effective tax rates for businesses",
+    "impact of corporate taxes on investment"
+  ],
+  "134": [
+    "dvt diagnosis",
+    "doppler ultrasound for dvt",
+    "dvt treatment options",
+    "dvt symptoms and signs",
+    "dvt prevention strategies"
+  ],
+  "135": [
+    "somali refugee resettlement",
+    "somali refugee stories",
+    "somali refugee support services",
+    "somali refugee challenges",
+    "somali refugee integration programs"
+  ],
+  "137": [
+    "risk assessment in infrastructure projects",
+    "infrastructure business model analysis",
+    "impact of risks on infrastructure investments",
+    "infrastructure risk management strategies",
+    "case studies on infrastructure risk assessment"
+  ],
+  "138": [
+    "integrated design crude oil distillation",
+    "optimization in crude distillation units",
+    "crude distillation unit modeling",
+    "parameters affecting crude distillation",
+    "applications of Taguchi method in distillation"
+  ],
+  "139": [
+    "Library Information Seeking Behavior",
+    "User-Centered Library Design",
+    "Behavioral Patterns in Information Seeking",
+    "Impact of Technology on Library User Behavior",
+    "Information Seeking Strategies in Libraries"
+  ],
+  "141": [
+    "buy a car",
+    "best cars 2023",
+    "car reviews",
+    "car insurance",
+    "car maintenance tips"
+  ],
+  "142": [
+    "impact of loan ratios on bank profitability",
+    "total assets ratio analysis in banking",
+    "profitability metrics for banks",
+    "capital structure and profitability in banks",
+    "bank performance indicators and ratios"
+  ],
+  "144": [
+    "iron chromium battery technology",
+    "flow battery applications",
+    "redox flow battery efficiency",
+    "iron chromium flow battery advantages",
+    "latest research on flow batteries"
+  ],
+  "145": [
+    "bilingualism and pragmatics",
+    "impact of bilingualism on communication",
+    "pragmatic theories in bilingual settings",
+    "bilingualism effects on language use",
+    "pragmatics in multilingual contexts"
+  ],
+  "146": [
+    "Sustainable practices in airport operations",
+    "Energy efficiency measures for airports",
+    "Climate resilience strategies for aviation",
+    "Impact of renewable energy on airport sustainability",
+    "Innovations in airport energy management"
+  ],
+  "148": [
+    "disabilities at work",
+    "accessibility in the workplace",
+    "occupational health and safety",
+    "resources for disabled employees",
+    "inclusive workplace practices"
+  ],
+  "151": [
+    "Edgar Allan Poe biography",
+    "The Raven analysis",
+    "Edgar Allan Poe poems",
+    "The Raven themes",
+    "Edgar Allan Poe literary devices"
+  ],
+  "152": [
+    "LSTM applications in wastewater management",
+    "neural networks for wastewater treatment optimization",
+    "early warning systems for water quality monitoring",
+    "multitask learning in environmental sensors",
+    "forecasting techniques for wastewater treatment plants"
+  ],
+  "153": [
+    "Uncrewed Aircraft System attack strategies",
+    "One way attack drone capabilities",
+    "Uncrewed Aircraft System tactical applications",
+    "One way attack drone technology",
+    "Uncrewed Aircraft System military use"
+  ],
+  "154": [
+    "CatVap technology applications",
+    "Fraunhofer ISE CatVap production timeline",
+    "CatVap technology benefits",
+    "Fraunhofer ISE renewable energy projects",
+    "latest advancements in CatVap technology"
+  ],
+  "155": [
+    "impact of autism on family dynamics",
+    "siblings of children with autism",
+    "family coping strategies with autism",
+    "navigating family life with autism",
+    "support for families with autistic children"
+  ],
+  "157": [
+    "Senior Fitness Programs",
+    "Health Tips for Older Adults",
+    "Low-Impact Exercises for Seniors",
+    "Nutrition for Elderly Health",
+    "Mental Wellbeing for Seniors"
+  ],
+  "158": [
+    "current weather conditions",
+    "weather forecast for today",
+    "historical weather data",
+    "weather patterns analysis",
+    "climate change impact on weather"
+  ],
+  "159": [
+    "discourse analysis police authority",
+    "critical discourse analysis police",
+    "police discourse and power",
+    "interaction between police and community",
+    "police communication strategies"
+  ],
+  "160": [
+    "impact of colonialism",
+    "colonialism and race",
+    "history of colonialism",
+    "colonialism in modern times",
+    "decolonization movements"
+  ],
+  "161": [
+    "best practices for automated Android GUI testing",
+    "multi-level comparison criteria in GUI testing",
+    "tools for automated GUI testing in Android",
+    "challenges in mobile GUI testing automation",
+    "recent advancements in automated mobile testing"
+  ]
+}
