@@ -1,0 +1,840 @@
+{
+    "meta": {
+        "team_name": "Promptly",
+        "description": "Persona + Chain of Thought predicting top 5 candidates. [06-08-2025 test set]",
+        "run_name": "nlp-persona-cot-snapshot-11"
+    },
+    "0": [
+        "What is the impact of climate change on rice production?",
+        "How does soil salinity affect rice yield?",
+        "Can you compare rice yields in different regions?",
+        "What role do pests play in rice harvest fluctuations?",
+        "Are there any best practices for managing crop rotation in rice farming?"
+    ],
+    "1": [
+        "werner endres biography",
+        "straubing municipality history",
+        "werner endres family tree",
+        "straubing germany culture",
+        "werner endres notable works"
+    ],
+    "2": [
+        "financial ratios",
+        "cash flow forecasting tools",
+        "managing accounts receivable",
+        "liquidity risk assessment",
+        "capital structure optimization"
+    ],
+    "3": [
+        "What are the best exercises for correcting talipes in newborns?",
+        "Can muscle weakness contribute to talipes in premature infants?",
+        "How do physical therapists treat clubfoot in young children?",
+        "Are there any new studies on the effectiveness of orthotics for talipes treatment?",
+        "Do physiotherapy and bracing work better together in treating talipes in neonates?"
+    ],
+    "4": [
+        "Warehouse management systems",
+        "Supply chain process optimization",
+        "Inventory control methods",
+        "Logistics process improvement techniques",
+        "Operational efficiency metrics"
+    ],
+    "5": [
+        "Can AI-powered precision farming reduce crop waste?",
+        "How do machine learning algorithms optimize irrigation systems in agriculture?",
+        "What are some real-world examples of AI improving farm-to-table processes?",
+        "Are there any successful cases of AI-assisted crop monitoring and yield prediction?",
+        "Does AI-enabled drone technology improve agricultural productivity and efficiency?"
+    ],
+    "6": [
+        "carbonation of aggregates",
+        "aggregate porosity reduction techniques",
+        "high-performance concrete properties",
+        "environmental impacts of construction materials",
+        "alternative cementitious materials for sustainable construction"
+    ],
+    "7": [
+        "How can team dynamics improve patient satisfaction?",
+        "What role do patient-centered care models play in healthcare innovation?",
+        "Can peer-to-peer learning boost nurse autonomy in hospitals?",
+        "How does technology enable remote clinical decision-making teams?",
+        "Do interdisciplinary rounds lead to better treatment outcomes?"
+    ],
+    "8": [
+        "AI ethics committee",
+        "Officer responsibilities artificial intelligence",
+        "Human impact AI implementation",
+        "Machine learning accountability mechanisms",
+        "Artificial intelligence governance frameworks"
+    ],
+    "9": [
+        "Position-based routing protocols comparison",
+        "Self-signed location authentication methods evaluation",
+        "Ad hoc networks topology optimization techniques",
+        "Location-aware distributed systems overview",
+        "Secure location sharing architectures feasibility"
+    ],
+    "10": [
+        "How to optimize audio recordings for automatic speech recognition.",
+        "What are the best practices for collecting high-quality speech datasets?",
+        "Can machine learning improve accuracy in speech recognition from noisy environments?",
+        "What factors affect the performance of automatic speech recognition systems?",
+        "Are there any open-source tools for pre-processing and cleaning speech data?"
+    ],
+    "11": [
+        "Comparison of Fuzzy Logic and Model Predictive Control for Sensorless Induction Motor Drives",
+        "Five-Phase Induction Motor Speed Regulation Techniques Overview",
+        "Advances in Sensorless Control Strategies for Induction Motors",
+        "Predictive Current Control Methods for High-Speed Operation of Five-Phase Induction Motors",
+        "Comparison of Space Vector Modulation and Sinusoidal PWM for Sensorless Induction Motor Drives"
+    ],
+    "12": [
+        "maintenance costs",
+        "optimize processes",
+        "performance metrics",
+        "system reliability",
+        "efficiency analysis"
+    ],
+    "13": [
+        "Art renaissance hindered",
+        "Baroque art limitations",
+        "How did Renaissance art evolve",
+        "What caused artistic stagnation during Renaissance",
+        "Impacts of societal pressures on Renaissance art"
+    ],
+    "14": [
+        "formula student project",
+        "racing car design",
+        "automotive engineering challenge",
+        "competition car specifications",
+        "engineering student projects"
+    ],
+    "15": [
+        "teaching methods",
+        "peer instruction",
+        "student centered learning",
+        "collaborative learning",
+        "teacher training"
+    ],
+    "16": [
+        "Retail merchandiser job description",
+        "Strategy department responsibilities",
+        "Retail marketing strategies",
+        "Merchandising techniques tips",
+        "Retail sales tactics"
+    ],
+    "17": [
+        "What are the most in-demand IT skills for recent graduates?",
+        "How do information system professionals stay current with industry trends?",
+        "Can you recommend top universities for computer science programs?",
+        "What are some common challenges faced by new IT professionals?",
+        "Are there any online resources for learning about data analytics?"
+    ],
+    "18": [
+        "BN600 reactor",
+        "Nuclear power stations Tibet",
+        "Tibetan Plateau geology features",
+        "High-altitude nuclear reactors",
+        "Nuclear energy in Asia"
+    ],
+    "19": [
+        "How does adaptive multi-step differential transformation method compare to other numerical methods for solving nonlinear differential equations?",
+        "What are some common applications of nonlinear differential equations in science and engineering?",
+        "Can you provide a step-by-step example of how to apply the adaptive multi-step differential transformation method to solve a specific nonlinear differential equation?",
+        "Are there any limitations or challenges when using the adaptive multi-step differential transformation method for solving large-scale nonlinear differential equations?",
+        "How does the adaptive multi-step differential transformation method handle stiffness and instability issues in solving nonlinear differential equations?"
+    ],
+    "20": [
+        "fast neutron reactor design",
+        "liquid sodium cooled reactors",
+        "neutron flux rates",
+        "reactor cooling methods",
+        "sodium boiling point"
+    ],
+    "21": [
+        "What are common techniques used in modeling flexible assembly systems?",
+        "Can you provide examples of successful flexible assembly system implementations?",
+        "How do simulation tools aid in designing and optimizing flexible assembly systems?",
+        "What are the benefits of using computational methods for analyzing flexible assembly systems?",
+        "Are there any recent advancements in applying AI to flexible assembly system design optimization?"
+    ],
+    "22": [
+        "How does distributed cognitive work contribute to software development collaborations?",
+        "What are the implications of social constructivist theories on situated knowledge sharing in software engineering?",
+        "Can you provide examples of successful collaborative coding projects leveraging collective attention mechanisms?",
+        "How do aspects of networked learning, such as peer-to-peer feedback, enhance software development processes?",
+        "Are there specific tools or platforms that facilitate situated knowledge collaboration in software development and what are their advantages?"
+    ],
+    "23": [
+        "Kidney disease pathway analysis tools",
+        "Human kidney single-cell RNA sequencing databases",
+        "Renal gene expression profiling in chronic kidney disease",
+        "Gene ontology enrichment analysis for kidney development",
+        "Single-nucleotide polymorphism association studies in nephrotic syndrome"
+    ],
+    "24": [
+        "What are the key challenges in implementing seam tracking systems for robotic welding?",
+        "How do robotic welding systems with integrated seam tracking affect overall manufacturing efficiency?",
+        "Can you provide examples of industrial applications that benefit from robotic welding with intelligent seam tracking?",
+        "What advancements have been made in robot guidance and control for improved seam tracking accuracy?",
+        "Discuss the potential impact of artificial intelligence on the development of advanced robotic welding systems."
+    ],
+    "25": [
+        "What are some common algorithms used in job shop scheduling?",
+        "How does earliness and tardiness affect overall production efficiency?",
+        "Are there any real-world applications of maximum earliness and tardiness optimization?",
+        "Can you provide examples of job shop scheduling problems with multiple constraints?",
+        "What is the current state-of-the-art solution for minimizing total flowtime in job shops?"
+    ],
+    "26": [
+        "IRGC Iran",
+        "Ethnic groups IRGC",
+        "IRGC militia",
+        "Iranian Revolutionary Guard demographics",
+        "IRGC nationalities"
+    ],
+    "27": [
+        "Iranian customs",
+        "Ethnographic studies Middle East",
+        "Cultural practices Persia",
+        "Anthropology Iran experts",
+        "Traditional clothing Iran"
+    ],
+    "28": [
+        "online data protection",
+        "social media user tracking methods",
+        "algorithms used by Facebook for privacy",
+        "EU GDPR compliance for social media platforms",
+        "secure messaging apps for private conversations"
+    ],
+    "29": [
+        "How do AI-driven TV recommendations affect audience engagement?",
+        "Can Netflix's recommendation algorithms be used as a framework for personal growth?",
+        "What are the implications of personalized TV programming on social dynamics?",
+        "Is there a correlation between viewership preferences and consumer purchasing habits?",
+        "Do streaming services prioritize user data collection over original content quality?"
+    ],
+    "30": [
+        "How does functional requirement specification impact software engineering?",
+        "What are the key elements of a well-designed system functional requirement specification?",
+        "Can you provide examples of effective system functional requirement specifications in practice?",
+        "What are some common pitfalls when developing a system functional requirement specification processor?",
+        "Are there any notable applications of knowledge-based systems in software development?"
+    ],
+    "31": [
+        "machine learning attribution modeling",
+        "multitouch attribution algorithm evaluation",
+        "online advertising campaign optimization strategies",
+        "deep learning applications in marketing analytics",
+        "predictive analytics for customer journey mapping"
+    ],
+    "32": [
+        "star-shaped polyhedra optimization techniques",
+        "3D geometry software for computational complexity analysis",
+        "convex hull construction with Delaunay triangulation methods",
+        "geometric algorithm implementation in Python for polygonal meshing",
+        "efficient polyhedral mesh generation using recursive subdivision"
+    ],
+    "33": [
+        "Evolutionary constrained optimization techniques",
+        "\u03b5-constraint optimization algorithms comparison",
+        "Goal-oriented constraint handling in multi-objective problems",
+        "Applications of \u03b5-constraint in evolutionary computation",
+        "Optimization under constraints using \u03b5-approach and GA"
+    ],
+    "34": [
+        "What are the challenges of waste management in Anambra state?",
+        "How does Anambra state's waste management compare to other states in Nigeria?",
+        "Is there a specific policy or program implemented by Anambra state for waste management?",
+        "Can you provide statistics on waste generation and disposal in Anambra state?",
+        "What initiatives are underway to improve solid waste management in Anambra city?"
+    ],
+    "35": [
+        "Can you use OSINT tools for threat intelligence?",
+        "What are the best practices for controlling OSINT data collection?",
+        "How do OSINT tools impact data security protocols?",
+        "Are there any open-source OSINT tools for data analysis?",
+        "What is the significance of data control in OSINT operations?"
+    ],
+    "36": [
+        "How do integrated PPI networks inform protein complex function?",
+        "What are the key features of functional modules in PPI networks?",
+        "Can you identify potential biomarkers from protein complexes in PPI data?",
+        "How does PPI network integration impact protein complex stability?",
+        "Are there any known associations between specific protein complexes and disease pathways?"
+    ],
+    "37": [
+        "handyman",
+        "charles handy biography",
+        "handyman tips",
+        "handy book club",
+        "charles handy net worth"
+    ],
+    "38": [
+        "language barriers",
+        "code switching examples",
+        "linguistic relativity theory",
+        "pragmatic language use",
+        "bilingualism advantages"
+    ],
+    "39": [
+        "sacred spaces",
+        "nature worship rituals",
+        "outdoor spirituality practices",
+        "reverence in wilderness",
+        "earth-based spirituality beliefs"
+    ],
+    "40": [
+        "What are the applications of quantitative research in technology?",
+        "How does technology influence the development of research methods?",
+        "Can you provide examples of successful quantitative research studies in tech?",
+        "What are some recent advancements in quantitative research methodologies in technology?",
+        "How do researchers utilize technology to improve data collection and analysis?"
+    ],
+    "41": [
+        "My Lai Massacre",
+        "US involvement in Laos during Vietnam War",
+        "Tet Offensive 1968",
+        "Vietnamese civilians casualties Vietnam War",
+        "Operation Rolling Thunder effectiveness"
+    ],
+    "42": [
+        "carbon",
+        "blacksmithing",
+        "pyrolysis",
+        "soot",
+        "thermosynthesis"
+    ],
+    "43": [
+        "Research designs",
+        "Explanatory research studies",
+        "Quantitative research methods",
+        "Qualitative data analysis techniques",
+        "Methodological approaches to correlation"
+    ],
+    "44": [
+        "Can Gac Fruit be used for fermentation",
+        "Characteristics of vinegar produced from Gac Fruit",
+        "How does pH level affect Gac Fruit vinegar production",
+        "What are the nutritional benefits of Gac Fruit vinegar",
+        "Is Gac Fruit vinegar suitable for food preservation"
+    ],
+    "45": [
+        "Synthesis of thiadiazole derivatives in organic chemistry",
+        "Antibacterial properties of semicarbazone compounds reviewed",
+        "In vitro evaluation of 1 3 4-thiadiazole antimicrobial activity",
+        "Seminars on novel antibacterial agents in pharmaceutical research",
+        "Applications of thiadiazole derivatives in pharmaceutical industry"
+    ],
+    "46": [
+        "how do algae contribute",
+        "what are algal blooms effects",
+        "can algae produce biofuels",
+        "why are microalgae important",
+        "what is the algae food chain"
+    ],
+    "47": [
+        "best exercise songs",
+        "how music affects workout performance",
+        "workout playlists for motivation",
+        "music psychology during exercise",
+        "benefits of using music during physical activity"
+    ],
+    "48": [
+        "Hormone regulation",
+        "Fertilization processes",
+        "Embryo development stages",
+        "Male fertility factors",
+        "Endocrine system roles"
+    ],
+    "49": [
+        "How do I evaluate innovative thinking in employees",
+        "What are some common pitfalls when assessing creative potential",
+        "Can you give examples of successful creativity measurement tools",
+        "Is there a correlation between creativity and problem-solving skills",
+        "Are there any well-known frameworks for identifying creative individuals"
+    ],
+    "50": [
+        "NC3 certification benefits",
+        "What is NC3 program in detail",
+        "NC3 certification requirements and process",
+        "Undergraduate degree with NC3 certification value",
+        "Is NC3 certification recognized globally"
+    ],
+    "51": [
+        "Zinc Bromine Reactivity",
+        "Zinc Bromide Properties",
+        "Bromine Chemical Facts",
+        "Zinc Uses in Chemistry",
+        "Bromine Compounds Applications"
+    ],
+    "52": [
+        "Self-esteem in adolescents and its correlation with family dynamics",
+        "Effects of authoritative parenting style on student motivation",
+        "Parent-child interaction therapy for promoting positive self-image",
+        "Influence of peer relationships on students' sense of belonging",
+        "Long-term outcomes of attachment styles on emotional intelligence"
+    ],
+    "53": [
+        "methods teaching",
+        "effective lesson planning",
+        "teacher professional development",
+        "educational technology tools",
+        "student assessment strategies"
+    ],
+    "54": [
+        "Contract Dispute Resolution",
+        "International Trade Agreements",
+        "Legal Jurisdiction Issues",
+        "Treaty Implementation Strategies",
+        "Arbitration Methods Online"
+    ],
+    "55": [
+        "can quantum computer hack military systems",
+        "is china leading quantum computing advancements",
+        "how effective are quantum computers for encryption",
+        "do quantum computers threaten traditional warfare",
+        "can quantum cryptography secure military communications"
+    ],
+    "56": [
+        "Cafe Marketing Strategies for Instagram",
+        "Best Social Media Ad Platforms for Local Businesses",
+        "Effective Email Marketing Campaigns for Restaurants",
+        "Increase Sales with Online Ordering Systems for Cafes",
+        "Small Business Marketing Trends for 2023"
+    ],
+    "57": [
+        "How do brands measure success on TikTok livestreams?",
+        "What are the most popular products sold through TikTok live shopping?",
+        "Can I monetize my TikTok following with affiliate marketing?",
+        "Are there any TikTok livestreaming commerce trends for 2023?",
+        "How can I optimize my TikTok profile for e-commerce sales?"
+    ],
+    "58": [
+        "media literacy",
+        "disinformation detection methods",
+        "fact-checking algorithms",
+        "propaganda recognition techniques",
+        "news verification tools"
+    ],
+    "59": [
+        "Mozi launch schedule",
+        "Chinese satellite manufacturing process",
+        "Mozi spacecraft design",
+        "Mozi mission timeline",
+        "SpaceX rocket technology"
+    ],
+    "60": [
+        "what is quantum computing used for",
+        "latest advancements in 6g network technology",
+        "high-speed data transfer methods comparison",
+        "top 5 quantum processor manufacturers",
+        "fastest computer chips for big data"
+    ],
+    "61": [
+        "government funding for basic research",
+        "public investment in technological innovation",
+        "national budget allocation for science projects",
+        "funding priorities for scientific advancements",
+        "spending on advanced technologies"
+    ],
+    "62": [
+        "What is the role of Takatori domain in membrane protein sorting?",
+        "How does phase field modeling apply to membrane biology research?",
+        "Can you explain the differences between Takatori and other membrane domains?",
+        "Do membrane proteins with Takatori domains have specific functional roles?",
+        "Are there any recent studies on the regulation of membrane domain formation?"
+    ],
+    "63": [
+        "Tim Langen laser cooling applications",
+        "Molecules and quantum computing 2024",
+        "Laser induced fluorescence spectroscopy research",
+        "Cooling techniques for molecules in chemistry",
+        "Quantum technologies in materials science 2024"
+    ],
+    "64": [
+        "Can AI models accurately predict structural damage in retrofitted RC buildings?",
+        "What are some common limitations of using AI in performance-based seismic assessment?",
+        "How do machine learning algorithms handle uncertainties in retrofitting existing RC structures?",
+        "Are there any successful case studies on AI-driven predictive modeling for seismic retrofitting?",
+        "Can AI models identify potential failure modes in retrofitted RC buildings and suggest targeted retrofits?"
+    ],
+    "65": [
+        "What are the benefits of gamification in education?",
+        "Can game design improve student engagement in online courses?",
+        "How do educational games enhance cognitive development in children?",
+        "Are there any studies on the impact of game-based learning on academic performance?",
+        "Which popular educational games have been shown to increase retention rates?"
+    ],
+    "66": [
+        "satellite internet",
+        "space-based quantum",
+        "global quantum network",
+        "satellite communication systems",
+        "space exploration technology"
+    ],
+    "67": [
+        "What skills do programmers need",
+        "How do you develop new skills",
+        "Skills required for data analysis",
+        "Best way to learn technical skills online",
+        "Importance of lifelong skill development"
+    ],
+    "68": [
+        "Home economic benefits of open relationships",
+        "Sex education for couples in economics",
+        "Effects of sex on personal finance planning",
+        "How does sexual health impact household budgeting",
+        "Marriage and family dynamics in economic decisions"
+    ],
+    "69": [
+        "How do video games affect social skills in students?",
+        "What are the benefits of gamification in education?",
+        "Can game-based learning improve critical thinking in HUMSS subjects?",
+        "Do online multiplayer games have a positive impact on teamwork?",
+        "Is there a correlation between gaming habits and student motivation?"
+    ],
+    "70": [
+        "how long do kids pay attention",
+        "big books for young readers",
+        "what holds kids' interest",
+        "children's attention span facts",
+        "short stories for little ones"
+    ],
+    "71": [
+        "food safety protocols",
+        "safe food storage methods",
+        "best practices for handling raw meat",
+        "food contamination prevention techniques",
+        "safe food handling guidelines for restaurants"
+    ],
+    "72": [
+        "What were the main causes of French colonization in Senegal?",
+        "How did Portuguese colonialism impact the development of Ghana?",
+        "Which African kingdoms resisted European colonization during the Scramble for Africa?",
+        "What was the significance of the Berlin Conference in West African history?",
+        "Can you provide information on the legacy of German colonial rule in Cameroon?"
+    ],
+    "73": [
+        "How does zeolite improve plant growth?",
+        "Benefits of incorporating nanocellulose into biodegradable plastics",
+        "Can coconut coir be used as a sustainable alternative to banana fiber?",
+        "What are the current applications of zeolite in agriculture and horticulture?",
+        "Do any companies use zeolite for textile or composite materials production?"
+    ],
+    "74": [
+        "genetic susceptibility anxiety",
+        "epigenetic changes anxiety symptoms",
+        "genetic anxiety disorders treatment options",
+        "gene expression anxiety neuroplasticity",
+        "anxiety neurotransmitters genetic modification"
+    ],
+    "75": [
+        "What's wrong with current mathematical models of memory consolidation",
+        "How do European researchers address limitations in memory modeling",
+        "Can agent-based modeling improve understanding of human memory processes",
+        "Do different mathematical approaches reveal distinct insights into memory consolidation",
+        "Are there any novel applications for mathematical modeling in cognitive psychology"
+    ],
+    "76": [
+        "agent based modeling dementia",
+        "alzheimer's disease treatment options",
+        "memory loss prevention techniques",
+        "cognitive therapy exercises",
+        "aging brain health tips"
+    ],
+    "77": [
+        "How does low self-esteem affect student motivation?",
+        "What are some effective strategies for improving high school students' self-esteem?",
+        "Can self-esteem interventions boost academic performance in seniors?",
+        "Are there any correlations between self-perception and senior high academic achievement?",
+        "What role do parental expectations play in shaping high school students' self-esteem?"
+    ],
+    "78": [
+        "Can you use banana peels as natural pest control?",
+        "How do I make my own all-purpose cleaner using household items?",
+        "What are some creative ways to reuse old fabric scraps?",
+        "Is it possible to create biodegradable plastics from plant-based materials?",
+        "Are there any eco-friendly alternatives to traditional laundry detergents?"
+    ],
+    "79": [
+        "coral reefs",
+        "marine ecosystems",
+        "climate change impacts",
+        "sea level rise",
+        "ocean pH levels"
+    ],
+    "80": [
+        "GaN Schottky barrier diodes applications",
+        "Metal-insulator-metal structures GaN devices",
+        "Distributed Bragg reflector cavity QED models",
+        "Nanoporous GaN waveguides photonic crystals",
+        "Two-dimensional electron gas GaN heterostructures"
+    ],
+    "81": [
+        "radar imaging techniques",
+        "satellite imagery applications Himalayas",
+        "lidar technology advancements",
+        "mountainous terrain mapping methods",
+        "geospatial data analysis tools"
+    ],
+    "82": [
+        "Indian bureaucracy",
+        "Public administration India",
+        "Narendra Modi policies",
+        "Government reforms India",
+        "Administrative law India"
+    ],
+    "83": [
+        "ectopic pregnancy statistics",
+        "twin ectopic pregnancy rate",
+        "spontaneous ectopic pregnancy cases",
+        "incidence of ectopic pregnancies in women",
+        "twin pregnancy ectopic miscarriage"
+    ],
+    "84": [
+        "Study habits effectiveness for students",
+        "Best practices for improving retention rates",
+        "Factors affecting student motivation in 2025",
+        "Research studies on time management strategies",
+        "Impact of technology integration on study routines"
+    ],
+    "85": [
+        "mimo router comparison",
+        "best 5 ghz router",
+        "mimo wireless standards",
+        "802.11ax vs 6e",
+        "wireless antenna design considerations"
+    ],
+    "86": [
+        "sound effects",
+        "film scores",
+        "movie music",
+        "audio design",
+        "sound track"
+    ],
+    "87": [
+        "Carinderia consumer demographics",
+        "Tanauan City eating habits statistics",
+        "Affordable dining options impact on local businesses",
+        "Batangas food culture research studies",
+        "Consumer purchasing decisions influencing factors"
+    ],
+    "88": [
+        "evora portugal medieval history",
+        "evora university architecture",
+        "alma mater evora notables",
+        "evora town historical sites",
+        "portuguese universities ranking"
+    ],
+    "89": [
+        "MAO inhibitors",
+        "Chalcone enzymes",
+        "Monoamine oxidase inhibitor list",
+        "Chalcone metabolism",
+        "Oxidase substrate"
+    ],
+    "90": [
+        "warming",
+        "effects",
+        "change",
+        "global",
+        "impact"
+    ],
+    "91": [
+        "Benzoic acid uses",
+        "2-Hydroxybenzoic acid",
+        "Carboxylic acid properties",
+        "Organic compound identification",
+        "Acid structure"
+    ],
+    "92": [
+        "Gas Reservoir Formation",
+        "Tight Sandstone Reservoir",
+        "Fluid Migration Patterns",
+        "Gas Cap Dynamics",
+        "Hydrocarbon Accumulation Mechanisms"
+    ],
+    "93": [
+        "most effective digital marketing strategies",
+        "statistics on successful marketing campaigns",
+        "case studies of innovative marketing tactics",
+        "comparison of online marketing channels",
+        "best practices for measuring marketing ROI"
+    ],
+    "94": [
+        "Dostoevsky's philosophical themes in Brothers Karamazov",
+        "Ivan Karamazov's existential crisis analysis",
+        "Free will vs determinism in Russian literature",
+        "Symbolism of the Grand Inquisitor scene",
+        "Christian existentialism in 19th-century Russian novels"
+    ],
+    "95": [
+        "How does gravitational wave detection impact vortex stability in BEC?",
+        "What are the implications of Bose-Einstein condensate vortices on superfluid dynamics?",
+        "Can vortex detection in atomic gases be used to study exotic matter properties?",
+        "Do topological defects in BEC influence the formation of vortices and solitons?",
+        "How do quantum fluctuations affect the behavior of vortices in ultracold atom condensates?"
+    ],
+    "96": [
+        "neural networks",
+        "LSTM applications",
+        "deep learning techniques",
+        "BiLSTM architecture",
+        "text classification algorithms"
+    ],
+    "97": [
+        "gut bacteria",
+        "chronic diarrhea causes",
+        "food poisoning symptoms",
+        "viral gastroenteritis treatment",
+        "irritable bowel syndrome diagnosis"
+    ],
+    "98": [
+        "Shaik mechanism",
+        "Two state reaction kinetics",
+        "Reactive intermediates Shaik",
+        "Computational chemistry Shaik",
+        "Organic free radical mechanisms"
+    ],
+    "99": [
+        "Is Lim Pei Xiang the best badminton player from Malaysia?",
+        "What are the most popular badminton tournaments in Southeast Asia?",
+        "Are Malaysian badminton rackets durable and high-quality?",
+        "Can you recommend any good badminton coaching centers in Kuala Lumpur?",
+        "How does Malaysia compare to other countries in badminton world rankings?"
+    ],
+    "100": [
+        "What are the benefits of using Adrino for industrial automation?",
+        "Can Adrino be used for predictive maintenance in manufacturing?",
+        "How does Adrino compare to other control and monitoring systems?",
+        "What is the most common use case for Adrino in process industries?",
+        "Are there any specific applications of Adrino in the medical device industry?"
+    ],
+    "101": [
+        "What are typical student expense categories?",
+        "How do universities account for other student expenses?",
+        "Can you list common university fees for students?",
+        "Are there any government grants or scholarships for international students?",
+        "Do colleges offer financial aid packages to students with diverse expenses?"
+    ],
+    "102": [
+        "What are some common veterinary challenges in radiographing exotic birds?",
+        "University of Evora 2018 thesis radiography limitations",
+        "How does radiography affect the treatment of Psittacines with diseases?",
+        "Radiographic imaging techniques used in University of Evora 2018 bird research",
+        "Problems faced by veterinarians when interpreting radiographs of Psittacines"
+    ],
+    "103": [
+        "Psittacine radiography research 2018 findings",
+        "University of Evora radiography journal articles 2018",
+        "Study on radiographic anatomy psittacines peer-reviewed papers",
+        "Radiography techniques used in psittacine studies 2018",
+        "Evolutionary significance of radiography in psittacine research"
+    ],
+    "104": [
+        "Evora research funding",
+        "Aves radiology techniques",
+        "Avian medicine journals",
+        "Veterinary imaging methods",
+        "Birds conservation projects"
+    ],
+    "105": [
+        "Psittacine conservation Portugal outcomes",
+        "Evora University parrot species research 2018",
+        "Portugal ornithology conferences 2018 psittacines",
+        "Parrot behavioral studies thesis Evora 2018",
+        "Avian cognition Portugal research articles"
+    ],
+    "106": [
+        "Porto University architecture",
+        "Thesis design methodology 2018",
+        "Evora urban planning history",
+        "Architecture student projects Portugal",
+        "Research paper writing tips academia"
+    ],
+    "107": [
+        "medicinal properties rosemary essential oil",
+        "using rosemary for anxiety treatment",
+        "rosemary's antioxidant effects on skin health",
+        "benefits of rosemary tea for digestive issues",
+        "moroccan traditional medicine uses for Rosmarinus officinalis"
+    ],
+    "108": [
+        "longifolene structure",
+        "Oppolzer compounds properties",
+        "chemical synthesis longifolene",
+        "biological effects longifolene",
+        "Oppolzer molecule applications"
+    ],
+    "109": [
+        "What are common pitfalls in designing RESTful APIs for natural language processing?",
+        "Can machine learning algorithms detect antipatterns in RESTful API implementations?",
+        "How do domain-specific linguistic patterns affect the performance of RESTful APIs?",
+        "What are some effective strategies for semantic analysis in RESTful API development?",
+        "Do expert systems have a role to play in identifying and resolving RESTful API issues?"
+    ],
+    "110": [
+        "Can constrained optimization be applied to dynamic systems?",
+        "Are there any specific dynamic programming algorithms for multi-parametric problems?",
+        "What are some real-world applications of constrained dynamic programming?",
+        "Is constraint satisfaction a common issue in dynamic programming implementations?",
+        "How do I model complex systems using constrained dynamic programming techniques?"
+    ],
+    "111": [
+        "prolog testing frameworks",
+        "logic programming languages",
+        "artificial intelligence testing tools",
+        "control flow in logic languages",
+        "testing methodologies for AI systems"
+    ],
+    "112": [
+        "bark",
+        "forest",
+        "saplings",
+        "tree species",
+        "leaf structure"
+    ],
+    "113": [
+        "Higher education enrollment trends",
+        "Effects of class size on student outcomes",
+        "Role of faculty-to-student ratio in academic performance",
+        "Strategies for improving small-class instruction methods",
+        "Research studies on optimal class sizes in higher ed institutions"
+    ],
+    "114": [
+        "calculating integrals with wolfram alpha",
+        "calculus apps for ios devices",
+        "interactive math lessons for secondary students online",
+        "how to solve differential equations in excel",
+        "mathematics software for teaching limits"
+    ],
+    "115": [
+        "how does adolescent identity impact self-esteem",
+        "effects of helicopter parenting on teenage development",
+        "role of peer relationships in shaping adolescent identities",
+        "adolescent mental health issues linked to parental style",
+        "implications of social media on adolescent self-perception"
+    ],
+    "116": [
+        "weld process",
+        "joint design",
+        "brazing tips",
+        "metal joining",
+        "heat treating"
+    ],
+    "117": [
+        "How do AI-powered chatbots affect human social interactions?",
+        "Can you provide examples of successful AI applications in healthcare?",
+        "What are some potential drawbacks of integrating AI in education systems?",
+        "Do AI-generated art pieces have the same emotional impact as human-made ones?",
+        "Are there any notable AI-powered innovations that have improved accessibility for people with disabilities?"
+    ],
+    "118": [
+        "global market trends",
+        "multinational corporation strategies",
+        "trade agreements updates",
+        "economic indicators 2022",
+        "emerging markets report"
+    ]
+}

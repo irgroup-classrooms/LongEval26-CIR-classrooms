@@ -1,0 +1,840 @@
+{
+    "meta": {
+        "team_name": "Promptly",
+        "description": "CoT Baseline: History + Chain of Thought. Predicting top 5. [06-08-2025 test set]",
+        "run_name": "baseline-cot-snapshot-8"
+    },
+    "0": [
+        "Best practices for rice farming",
+        "Rice harvest prediction models",
+        "Weather conditions affecting rice yield",
+        "Soil factors impacting rice growth",
+        "Crop rotation strategies for rice cultivation"
+    ],
+    "1": [
+        "werner endres biography",
+        "straubing university faculty",
+        "werner endres research papers",
+        "straubing germany people",
+        "werner endres publications"
+    ],
+    "2": [
+        "cash flow forecasting",
+        "accounts receivable management",
+        "budgeting techniques",
+        "financial ratio analysis",
+        "capital expenditure management"
+    ],
+    "3": [
+        "talipes prevention methods",
+        "neonate foot exercises",
+        "muscles relaxation techniques for talipes",
+        "talipes and orthotics in newborns",
+        "talipes treatment options at home"
+    ],
+    "4": [
+        "Inventory management systems",
+        "Supply chain optimization techniques",
+        "Warehouse layout design principles",
+        "Material handling equipment reviews",
+        "Automated storage and retrieval systems"
+    ],
+    "5": [
+        "Machine learning in precision farming",
+        "Agricultural automation benefits",
+        "AI-powered crop monitoring tools",
+        "Robotics in farm management",
+        "Farm-to-table logistics optimization"
+    ],
+    "6": [
+        "carbon sequestration methods",
+        "green concrete alternatives",
+        "aggregate material properties",
+        "sustainable construction techniques",
+        "environmental benefits of exposed aggregate"
+    ],
+    "7": [
+        "Improving nurse to doctor collaboration",
+        "Effective team building in hospitals",
+        "Strategies for successful multidisciplinary teams",
+        "Healthcare leadership and team management",
+        "Enhancing patient care through interdisciplinary collaboration"
+    ],
+    "8": [
+        "AI compliance officer",
+        "Ethics framework AI",
+        "AI governance guidelines",
+        "AI accountability measures",
+        "Artificial intelligence regulation"
+    ],
+    "9": [
+        "Ad Hoc Routing Protocols",
+        "Secure Position-Based Routing Algorithms",
+        "Self-Signed Location Based Services",
+        "Ad Hoc Network Security Solutions",
+        "Wireless Sensor Network Localization"
+    ],
+    "10": [
+        "Best practices for preparing audio datasets for ASR",
+        "Techniques for reducing noise and errors in spoken utterances",
+        "Strategies for selecting representative voice samples for ASR training",
+        "Effectiveness of different normalization techniques for speech signals",
+        "Comparison of various clustering algorithms for segmenting speech data"
+    ],
+    "11": [
+        "Five Phase Induction Motor Torque Calculation",
+        "Predictive Control Algorithms for Sensorless Motors",
+        "Sensorless Induction Motor Drive Design Optimization",
+        "Current Controller Designs for Sensorless Motor Drives",
+        "Motor Speed Control Strategies for Five-Phase Induction Motors"
+    ],
+    "12": [
+        "machine learning optimization",
+        "process improvement techniques",
+        "efficiency metrics analysis",
+        "system maintenance strategies",
+        "performance tuning methods"
+    ],
+    "13": [
+        "Artistic innovations Renaissance",
+        "Overcoming artistic hinders",
+        "Challenges of Renaissance artists",
+        "Art and revolution 15th century",
+        "Creative struggles Baroque era"
+    ],
+    "14": [
+        "formula sae rear wing",
+        "romula student suspension",
+        "formula student aerodynamics",
+        "sae competition design rules",
+        "student car project ideas"
+    ],
+    "15": [
+        "student led lessons",
+        "cooperative learning strategies",
+        "group projects ideas",
+        "active learning techniques",
+        "project based instruction"
+    ],
+    "16": [
+        "Retail merchandiser job description",
+        "Merchandising careers strategy department",
+        "Retail merchandise coordinator jobs",
+        "Merchandise planning role responsibilities",
+        "Strategy Department retail job openings"
+    ],
+    "17": [
+        "Job prospects for IS graduates",
+        "Placement statistics of MIS graduates",
+        "Information Systems career paths",
+        "Graduation outcomes of IT students",
+        "Career advancement opportunities for systems analysts"
+    ],
+    "18": [
+        "Geothermal energy Tibet",
+        "Nuclear power plants Himalayas",
+        "China nuclear energy policy",
+        "Tibetan Plateau climate change",
+        "BN-800 reactor design"
+    ],
+    "19": [
+        "Nonlinear differential equation solver",
+        "Numerical methods for nonlinear equations",
+        "Differential transformation method applications",
+        "Solving differential equations with adaptivity",
+        "Multi-step methods in differential equations"
+    ],
+    "20": [
+        "Fast breeder reactor",
+        "Liquid metal cooled reactor design",
+        "Sodium cooled nuclear reactor advantages",
+        "Neutron flux calculation software",
+        "Nuclear reactor thermal hydraulics"
+    ],
+    "21": [
+        "Design optimization techniques for flexible assembly systems",
+        "Simulation software for flexible manufacturing systems",
+        "Modeling languages for assembly line design",
+        "Performance metrics for flexible production systems",
+        "Assembly system simulation tools"
+    ],
+    "22": [
+        "Software development methodologies for distributed teams",
+        "Collaborative tools for remote software development projects",
+        "Distributed cognition in software development processes",
+        "Situated cognition in software engineering context",
+        "Collective intelligence in agile software development"
+    ],
+    "23": [
+        "Kidney Gene Expression",
+        "Renal Cell Carcinoma Database",
+        "Gene Expression Profiles in Nephrotic Syndrome",
+        "PubMed Articles on Kidney Disease Genomics",
+        "National Kidney Disease Research Initiative"
+    ],
+    "24": [
+        "Robotic welding system design",
+        "Seam tracking algorithms",
+        "Intelligent welding robot implementation",
+        "Welding process monitoring systems",
+        "Robotic welding control software"
+    ],
+    "25": [
+        "Job shop scheduling algorithms",
+        "Earliness minimization techniques",
+        "Tardiness reduction methods",
+        "Scheduling problem optimization tools",
+        "Maximum earliness formulas"
+    ],
+    "26": [
+        "irgc terrorist",
+        "islamist movements",
+        "ayatollah khomeini",
+        "persian gulf conflict",
+        "shiite militia"
+    ],
+    "27": [
+        "Iran anthropologists",
+        "Iranian folklorists",
+        "Iranian cultural studies",
+        "Ethnographic research Iran",
+        "Persian customs and traditions"
+    ],
+    "28": [
+        "social media data protection",
+        "online privacy laws",
+        "protecting personal information",
+        "internet privacy tips",
+        "digital footprint control"
+    ],
+    "29": [
+        "Customized TV Streaming Services",
+        "Algorithmic Programming Guide",
+        "Netflix Recommendation System",
+        "Personalized Content Discovery Tools",
+        "Adaptive Viewing Experiences"
+    ],
+    "30": [
+        "System functional requirement specification",
+        "Developing system requirements",
+        "Knowledge-based systems for requirements engineering",
+        "Functional requirement specification templates",
+        "Requirements gathering techniques"
+    ],
+    "31": [
+        "machine learning advertising optimization",
+        "multitouch attribution modeling",
+        "machine learning campaign analysis",
+        "adtech attribution models",
+        "marketing analytics using machine learning"
+    ],
+    "32": [
+        "Convex hull algorithm in computer vision",
+        "Polyhedral combinatorics in 3D space",
+        "Star-shaped polygon optimization techniques",
+        "Geometric computation libraries for 3D polyhedra",
+        "Point location algorithms in convex polytopes"
+    ],
+    "33": [
+        "evolutionary optimization methods",
+        "constraint-based decision making algorithms",
+        "preference incorporation techniques",
+        "\u03b5-constraint optimization for multi-objective problems",
+        "Pareto optimization approaches"
+    ],
+    "34": [
+        "Waste recycling in Anambra",
+        "Environmental agencies in Anambra",
+        "Anambra state government initiatives",
+        "Waste disposal methods for Anambra",
+        "Public health and waste management in Nigeria"
+    ],
+    "35": [
+        "fallback query",
+        "fallback query",
+        "fallback query",
+        "fallback query",
+        "fallback query"
+    ],
+    "36": [
+        "Identifying functional annotations for protein complexes",
+        "Visualizing protein-protein interaction networks",
+        "Analyzing module-specific gene expression patterns",
+        "Predicting disease-related protein complex dysfunction",
+        "Comparing protein complex structures across species"
+    ],
+    "37": [
+        "handyman",
+        "diy tips",
+        "charles darwin",
+        "handy tools",
+        "life hacks"
+    ],
+    "38": [
+        "language barriers",
+        "bilingualism effects",
+        "linguistic relativity theory",
+        "code mixing examples",
+        "language contact phenomena"
+    ],
+    "39": [
+        "sacred land",
+        "nature worship",
+        "outdoor spirituality",
+        "earth reverence",
+        "environmental ethics"
+    ],
+    "40": [
+        "methodology in quantitative research",
+        "statistical software for data analysis",
+        "research design in technology studies",
+        "types of surveys used in technology research",
+        "data visualization techniques in science"
+    ],
+    "41": [
+        "American involvement in Vietnam",
+        "Causes of the Vietnam War",
+        "Vietnam War timeline",
+        "Effects of Vietnam War on US economy",
+        "French colonial legacy in Vietnam"
+    ],
+    "42": [
+        "blacksmith",
+        "BBQ grills",
+        "drawing techniques",
+        "art supplies",
+        "fire starters"
+    ],
+    "43": [
+        "Types of research methods",
+        "Research design examples",
+        "Correlation research study",
+        "Experiments vs surveys research",
+        "Research methodologies comparison"
+    ],
+    "44": [
+        "Vinegar Uses",
+        "Gac Fruit Recipes",
+        "Fermenting Techniques",
+        "Homemade Vinegar Methods",
+        "Vinegar Preservation Tips"
+    ],
+    "45": [
+        "Synthesis of novel antimicrobial compounds",
+        "Antibacterial evaluation of 1 3 4-thiadiazole derivatives",
+        "Semi carbazone analogues with antibacterial activity",
+        "Novel semicarbazone moieties for antibacterial applications",
+        "Semicarbazone-based antibacterial agents"
+    ],
+    "46": [
+        "ponds",
+        "aquatic plants",
+        "water quality",
+        "phytoplankton",
+        "marine biology"
+    ],
+    "47": [
+        "best workout songs",
+        "exercising with upbeat music",
+        "playlist for jogging",
+        "music for gym routine",
+        "energizing exercise tunes"
+    ],
+    "48": [
+        "Animal reproduction strategies",
+        "Mammalian fertilization mechanisms",
+        "Insect oviposition patterns",
+        "Vertebrate embryo development stages",
+        "Amphibian mating behaviors"
+    ],
+    "49": [
+        "how can you test for creativity",
+        "ways to assess creative potential",
+        "measuring creative problem solving",
+        "what are the best tests for creative thinking",
+        "how do companies measure employee creativity"
+    ],
+    "50": [
+        "nc3 certification requirements",
+        "undergraduate degrees recognized by employers",
+        "vocational training programs online",
+        "job placement rates after completing nc3",
+        "education pathways for nc3 graduates"
+    ],
+    "51": [
+        "Zinc Bromide Properties",
+        "Zinc Bromide Uses",
+        "Zinc Bromide Applications",
+        "Zinc Bromine Formula",
+        "Zinc Bromine Chemical Reactions"
+    ],
+    "52": [
+        "Research on Parenting Styles and Student Achievement RRL",
+        "Effects of Parenting Styles on Academic Performance",
+        "Self-Esteem Development in Students with Different Parenting Styles",
+        "Parental Involvement in Education and Its Impact on Student Outcomes",
+        "Child Development Theories and Their Application to Educational Settings"
+    ],
+    "53": [
+        "methods of teaching",
+        "best practices teaching",
+        "effective teaching techniques",
+        "online teaching resources",
+        "teaching strategies for students"
+    ],
+    "54": [
+        "contract law countries",
+        "international business law",
+        "commercial agreements",
+        "laws governing foreign investment",
+        "jurisdictional issues"
+    ],
+    "55": [
+        "quantum computer warfare capabilities",
+        "quantum encryption military use cases",
+        "china quantum military research initiatives",
+        "united states quantum computing defense applications",
+        "quantum key distribution military communications"
+    ],
+    "56": [
+        "Social Media Strategies for Cafe Owners",
+        "Best Social Media Ads for Coffee Shops",
+        "Increasing Sales through Instagram for Cafes",
+        "Facebook Marketing Tips for Small Business Cafes",
+        "Boosting Online Presence with Twitter for Cafes"
+    ],
+    "57": [
+        "Ecommerce trends tiktok",
+        "Live streaming for small business",
+        "Social media influencer marketing",
+        "Online shopping statistics 2022",
+        "Tiktok shopping features"
+    ],
+    "58": [
+        "fake news detection",
+        "Philippines misinformation",
+        "case study disinformation",
+        "fact-checking Philippines",
+        "detecting false information"
+    ],
+    "59": [
+        "Mozi satellite mission",
+        "Spacecraft design engineer",
+        "Mozi satellite launch date",
+        "Satellite systems engineer job description",
+        "NASA satellite manufacturing process"
+    ],
+    "60": [
+        "quantum communication protocols",
+        "5g network architecture diagrams",
+        "high-speed processor development roadmap",
+        "integrated circuit design for quantum computing",
+        "advanced networking algorithms for data transfer"
+    ],
+    "61": [
+        "quantum computer economic growth",
+        "quantum computing public policy",
+        "government quantum innovation funding",
+        "quantum infrastructure development",
+        "quantum governance models"
+    ],
+    "62": [
+        "Membrane domain biology",
+        "Takatori model applications",
+        "Phase field simulations biomedical",
+        "Lipid raft membrane structure",
+        "Biomembrane dynamics research papers"
+    ],
+    "63": [
+        "Tim Langen Nobel Prize",
+        "Molecules quantum computing 2024",
+        "Laser cooling applications medicine",
+        "Cold atoms physics 2025 predictions",
+        "Quantum gas microscopy advancements"
+    ],
+    "64": [
+        "AI powered structural health monitoring",
+        "Real-time data driven retrofitting techniques",
+        "Machine learning based building assessment tools",
+        "Predictive maintenance strategies for existing structures",
+        "Advanced analytics for earthquake risk reduction"
+    ],
+    "65": [
+        "Educational Games",
+        "Effective Game-Based Teaching Methods",
+        "Incorporating Gamification in Education",
+        "Best Practices for Game-Based Learning",
+        "Benefits of Using Video Games in Classrooms"
+    ],
+    "66": [
+        "quantum computing applications",
+        "satellite communication systems",
+        "quantum encryption satellites",
+        "satellite quantum key distribution",
+        "quantum cryptography for space exploration"
+    ],
+    "67": [
+        "job skills",
+        "career development",
+        "personal skills",
+        "training courses",
+        "certification programs"
+    ],
+    "68": [
+        "study about marriage",
+        "home economics courses online",
+        "tips for better relationships",
+        "family budgeting calculator",
+        "self improvement books"
+    ],
+    "69": [
+        "Effects of Online Gaming on Student Motivation",
+        "Academic Performance of Students Who Play Video Games",
+        "Impact of Social Media on HUMSS Students' Grades",
+        "Relationship Between Gaming Addiction and Academic Struggles",
+        "Strategies to Improve HUMSS Students' Time Management"
+    ],
+    "70": [
+        "how to keep kids engaged with reading",
+        "techniques for teaching with large format books",
+        "strategies for improving child's reading comprehension",
+        "ways to increase child's attention span during learning",
+        "tips for making big books appealing to children"
+    ],
+    "71": [
+        "Food Safety guidelines",
+        "Best practices for safe food storage",
+        "How to prevent cross contamination",
+        "Importance of proper food handling",
+        "Foodborne illness prevention tips"
+    ],
+    "72": [
+        "European colonization of west africa",
+        "History of slavery in west africa",
+        "African resistance to colonialism",
+        "Impact of neo-colonialism on west african economies",
+        "Portuguese exploration of west africa"
+    ],
+    "73": [
+        "zeolite combine to cotton",
+        "natural fibers blend with zeolite",
+        "zeolite application in textile industry",
+        "zeolite properties in fabric production",
+        "zeolite mix with hemp"
+    ],
+    "74": [
+        "genetic predisposition to anxiety",
+        "inheritance of anxiety traits",
+        "genes linked to anxiety disorders",
+        "epigenetic factors in anxiety development",
+        "does environment influence anxiety inheritance"
+    ],
+    "75": [
+        "Memory consolidation processes computational model",
+        "Memory consolidation processes neural networks",
+        "Memory consolidation processes cognitive architectures",
+        "Memory consolidation processes dynamic systems",
+        "Memory consolidation processes data-driven modeling"
+    ],
+    "76": [
+        "Mnemonic device Alzheimer",
+        "Best mnemonic devices for memory loss",
+        "Memory improvement techniques for Alzheimer's",
+        "Agent-Based Modeling dementia treatment",
+        "Memory aids for patients with Alzheimer's"
+    ],
+    "77": [
+        "Factors influencing self-esteem in adolescents",
+        "Strategies for improving academic performance with low self-esteem",
+        "The role of peer relationships on self-esteem in senior high students",
+        "Techniques for building self-confidence among high school students",
+        "How to help struggling senior high students develop positive self-perception"
+    ],
+    "78": [
+        "Banana peels as pesticides",
+        "Avocado pits as natural fertilizers",
+        "Carrot tops as compost accelerators",
+        "Apple cores as bio-based cleaning agents",
+        "Orange rinds as eco-friendly pest control"
+    ],
+    "79": [
+        "climate change and coral reefs",
+        "effects of ocean acidification on marine life",
+        "ways to mitigate ocean acidification",
+        "sea level rise and ocean chemistry",
+        "ocean conservation initiatives"
+    ],
+    "80": [
+        "metal-insulator-metal tunable resonators",
+        "GaN-based photonic crystal fibers",
+        "nanoporous silicon optical filters",
+        "distributed feedback lasers with Bragg reflectors",
+        "III-V semiconductor microring resonators"
+    ],
+    "81": [
+        "mountain terrain mapping",
+        "glaciology research methods",
+        "optical imaging techniques",
+        "mount everest satellite imagery",
+        "geological surveying instruments"
+    ],
+    "82": [
+        "Indian government initiatives",
+        "Public administration in India",
+        "Narendra Modi policies",
+        "Indian economic policy",
+        "Policy making in India parliament"
+    ],
+    "83": [
+        "twin pregnancies complications",
+        "ectopic pregnancy symptoms",
+        "spontaneous abortion statistics",
+        "tubal pregnancy risks",
+        "miscarriage rates in twin pregnancies"
+    ],
+    "84": [
+        "study habits 2025 to 2030",
+        "effective study techniques for students",
+        "improve memory retention strategies",
+        "best apps for note-taking and organization",
+        "cognitive learning theories"
+    ],
+    "85": [
+        "mimo router",
+        "802.11ac antenna",
+        "wireless adapter",
+        "wifi booster",
+        "antenna installation"
+    ],
+    "86": [
+        "sound design",
+        "foley artists",
+        "audio post production",
+        "film scoring software",
+        "movie sound effects"
+    ],
+    "87": [
+        "survey methods for consumer interviews",
+        "common biases in consumer feedback",
+        "consumer perception of food quality",
+        "carinderia customer demographics",
+        "open-ended interview questions for consumers"
+    ],
+    "88": [
+        "Evora university parrot program",
+        "Parrot research Portugal",
+        "University Evora animal studies",
+        "Portuguese universities parrot studies",
+        "Parrots in Portugal education"
+    ],
+    "89": [
+        "monoamine oxidase inhibitors",
+        "chalcone bioavailability",
+        "flavonoids and monoamine oxidase",
+        "chalcone neurotransmitters",
+        "enzyme inhibition by chalcones"
+    ],
+    "90": [
+        "global warming",
+        "climate change effects",
+        "renewable energy sources",
+        "extreme weather events",
+        "carbon footprint reduction"
+    ],
+    "91": [
+        "Synthesis 5-(2-Benzoic acid",
+        "Properties 5-(2-Benzoic acid",
+        "Benzoic acid derivatives",
+        "Chemical structure 5-(2-Benzoic acid",
+        "Uses 5-(2-Benzoic acid"
+    ],
+    "92": [
+        "Unconventional Hydrocarbon",
+        "Shale Gas Deposits",
+        "Gas Storage Mechanisms",
+        "Permeability Factors",
+        "Fractured Formation Modeling"
+    ],
+    "93": [
+        "best marketing strategies",
+        "common marketing mistakes",
+        "effective marketing tips",
+        "successful marketing campaigns",
+        "marketing metrics examples"
+    ],
+    "94": [
+        "DOSTOEVSKY'S MORAL PHILOSOPHY",
+        "FREEDOM IN LITERATURE",
+        "HUMAN NATURE IN NOVELS",
+        "ETHICAL THEMES IN RUSSIAN LITERATURE",
+        "CONFLICT AND MORALITY IN FICTION"
+    ],
+    "95": [
+        "Bose-Einstein condensate experiments",
+        "Vortex dynamics atomic gases",
+        "Condensed matter physics research topics",
+        "Superfluidity detection methods",
+        "Quantum fluid dynamics simulations"
+    ],
+    "96": [
+        "LSTMs",
+        "Recurrent Neural Networks",
+        "Biases in NLP",
+        "Natural Language Processing Techniques",
+        "Deep Learning Architectures"
+    ],
+    "97": [
+        "symptoms",
+        "treatment options",
+        "causes of diarrhea",
+        "natural remedies for diarrhea",
+        "what helps diarrhea"
+    ],
+    "98": [
+        "Shaik's two-state model",
+        "Two-state models in chemistry",
+        "Reactivity in two-state systems",
+        "Shaik's work on reactivity",
+        "Applications of two-state reactivity"
+    ],
+    "99": [
+        "Malaysian badminton racket",
+        "Li-Ning Malaysia",
+        "Badminton equipment Malaysia",
+        "Yonex Malaysia",
+        "Victor Malaysia"
+    ],
+    "100": [
+        "Adrino control system",
+        "Monitoring software Adrino",
+        "Adrino tutorials",
+        "Adrino applications",
+        "Control systems based on Adrino"
+    ],
+    "101": [
+        "variable cost for college students",
+        "student financial aid requirements",
+        "education expense tax deductions",
+        "student budgeting strategies",
+        "college tuition fees breakdown"
+    ],
+    "102": [
+        "University of Evora Psittacines radiography techniques",
+        "Radiography in Psittacine birds at University of Evora",
+        "Thesis on Psittacine radiography University of Evora 2019",
+        "Evora University research on Psittacine imaging",
+        "Radiographic analysis of Psittacine species at University of Evora"
+    ],
+    "103": [
+        "Psittacine radiography techniques",
+        "University of Evora research funding 2018",
+        "Radiographic imaging in birds",
+        "Veterinary radiology courses online",
+        "Study on psittacine anatomy"
+    ],
+    "104": [
+        "Evora 2018 tese veterinario",
+        "Radiografia Evora Master's thesis",
+        "Psittacine radiography costs 2018",
+        "Veterinary medicine thesis Evora birds",
+        "Thesis costs Evora veterinary medicine"
+    ],
+    "105": [
+        "psittacines Evora Portugal 2019",
+        "thesis Psittacine research Evora 2018",
+        "parrot conservation Evora Portugal",
+        "Psittacine behavior Portugal Evora",
+        "Evora University thesis Psittacines"
+    ],
+    "106": [
+        "Evora 2018 university",
+        "Thesis abstract 2018 evora",
+        "Portugal 2018 thesis",
+        "University of Evora thesis 2018",
+        "Academic papers Evora 2018"
+    ],
+    "107": [
+        "morocco essential oil",
+        "rosemary extraction methods comparison",
+        "Rosmarinus officinalis essential oil uses",
+        "best extraction method for herbal essential oils",
+        "moroccan rosemary cultivation techniques"
+    ],
+    "108": [
+        "Longifolene synthesis",
+        "Oppolzer rules",
+        "Sesquiterpenes",
+        "Terpene chemistry",
+        "Chemical structure drawing"
+    ],
+    "109": [
+        "Linguistic Pattern Detection Tools",
+        "Antipattern Analysis Techniques",
+        "RESTful API Parsing Methods",
+        "Semantic API Documentation Analysis",
+        "Natural Language Processing in APIs"
+    ],
+    "110": [
+        "Constrained optimization algorithms",
+        "Dynamic programming problem constraints",
+        "Programming languages for constrained dynamic problems",
+        "Stochastic optimization methods for dynamic programming",
+        "Heuristics for solving constrained dynamic programming"
+    ],
+    "111": [
+        "Prolog testing frameworks",
+        "Logic-based testing techniques",
+        "Automated testing for logic programming languages",
+        "Unit testing in Prolog",
+        "Formal verification of Prolog programs"
+    ],
+    "112": [
+        "leaves",
+        "forest",
+        "planting",
+        "classification",
+        "benefits"
+    ],
+    "113": [
+        "Higher education trends",
+        "Average class size by major",
+        "Student enrollment data",
+        "College classroom dynamics",
+        "Teaching methods for large classes"
+    ],
+    "114": [
+        "microsoft mathematics calculator",
+        "calculus problems with answers using microsoft mathematics",
+        "teaching secondary level calculus with microsoft mathematics",
+        "free math worksheets for students using microsoft mathematics",
+        "online calculators similar to microsoft mathematics"
+    ],
+    "115": [
+        "effects of helicopter parenting",
+        "impact of social media on teenage self-identity",
+        "building confidence in teenagers",
+        "strategies for fostering independence in adolescence",
+        "adolescent self-discovery tools"
+    ],
+    "116": [
+        "welded joint",
+        "soldered joint",
+        "pipe joint",
+        "mechanical joint design",
+        "joint stress analysis"
+    ],
+    "117": [
+        "artificial intelligence benefits",
+        "robots and jobs",
+        "ai in healthcare",
+        "daily life with robots",
+        "future of work with ai"
+    ],
+    "118": [
+        "global market trends",
+        "international trade agreements",
+        "multinational company profiles",
+        "foreign investment opportunities",
+        "export import regulations"
+    ]
+}

@@ -1,0 +1,1281 @@
+{
+    "meta": {
+        "team_name": "Promptly",
+        "description": "Persona Simulation (NLP Tags) NO CoT. Predicting top 5. [09-11-2025 test set]",
+        "run_name": "nlp-persona-history-only-snapshot-16"
+    },
+    "0": [
+        "Can fuzzy systems be used in reinforcement learning?",
+        "What are some applications of similarity-based fuzzy systems?",
+        "How do fuzzy systems compare to neural networks as function approximators?",
+        "Is there a relationship between fuzzy logic and deep learning?",
+        "Can fuzzy systems learn from feedback?"
+    ],
+    "1": [
+        "Amplifier Noise Reduction",
+        "Optical Fiber Transmission Speed",
+        "Signal Gain Limitations",
+        "Attenuation Coefficient Calculation",
+        "Quantum Dot Amplification Techniques"
+    ],
+    "2": [
+        "molecular structures in chemical space",
+        "graph theory applications chemistry",
+        "conformational analysis algorithms",
+        "computational methods organic synthesis",
+        "quantum mechanics simulations molecules"
+    ],
+    "3": [
+        "Combinatorial optimization techniques",
+        "Randomized algorithms for solving NP-hard problems",
+        "Optimization algorithms in computer science",
+        "APPROX and RANDOM conference proceedings",
+        "Optimization techniques for large datasets"
+    ],
+    "4": [
+        "social anxiety symptoms",
+        "extraversie personality traits",
+        "stress relief techniques",
+        "introversion vs extroversion differences",
+        "anxious communication styles"
+    ],
+    "5": [
+        "jasmine sambac essential oil benefits",
+        "sambac flowers in hindu mythology",
+        "fragrant flowers similar to sambac",
+        "sambac plant medicinal uses",
+        "flower symbolism jasmine sambac meanings"
+    ],
+    "6": [
+        "How do hotels manage contactless check-in",
+        "Resorts with self-checkin systems",
+        "Hotels that allow mobile checkin",
+        "Contactless payment methods for travel",
+        "Mobile apps for hotel checkin process"
+    ],
+    "7": [
+        "What is the prevalence of deep vein thrombosis in patients with peripheral intravenous catheters?",
+        "Effects of nursing intervention on thrombotic risk in hospitalized patients",
+        "Mean time to PIVC occlusion and its correlation with patient variables",
+        "Standardized protocol for PIVC maintenance and care",
+        "Randomized controlled trials evaluating PIVC-related complications"
+    ],
+    "8": [
+        "International law implications of autonomous weapon systems",
+        "Cyber warfare treaties and agreements",
+        "Tallinn Manual 2.0 updates and changes",
+        "Jurisdictional issues in cyber attacks",
+        "Application of the Law of Armed Conflict to cyber operations"
+    ],
+    "9": [
+        "economic inequality",
+        "keynesian economics",
+        "market socialism",
+        "social welfare state",
+        "poverty reduction programs"
+    ],
+    "10": [
+        "Dyeing fabric with plant extracts",
+        "Natural textile dyes for clothing",
+        "Using botanicals in textiles manufacturing",
+        "Eco-friendly fashion dye alternatives",
+        "Plant-based textile coloring methods"
+    ],
+    "11": [
+        "chitosan applications in food industry",
+        "intelligent packaging materials comparison",
+        "biodegradable food wrap alternatives",
+        "natural antimicrobial compounds for food",
+        "sustainable packaging solutions innovations"
+    ],
+    "12": [
+        "parallelism in algorithms conference",
+        "ACM SPAA 2015 papers",
+        "Prague symposium on parallel processing",
+        "June conferences computer science",
+        "parallel architecture events"
+    ],
+    "13": [
+        "Which countries have refused to cooperate with the International Criminal Court?",
+        "Can a head of state be prosecuted by the ICC for international crimes?",
+        "What are some notable cases handled by the International Criminal Court?",
+        "How does the International Criminal Court handle victims' compensation and reparations?",
+        "Does the International Criminal Court prioritize investigating war crimes over other types?"
+    ],
+    "14": [
+        "What are effective pain management strategies in ICUs",
+        "Sedation scales for critical care patients comparison",
+        "Nurses' education impact on pain and sedation practices",
+        "Pain assessment tools used in intensive care settings",
+        "ICU sedation protocol review for medical professionals"
+    ],
+    "15": [
+        "What are the job prospects for solar energy engineers in Europe",
+        "Insurance industry impact on renewable energy investments",
+        "Benefits of solar panels for property insurance",
+        "Renewable energy policy changes 2022",
+        "Engineer salary range for solar power projects"
+    ],
+    "16": [
+        "AS-acceptance",
+        "acknowledge protocol",
+        "asynchronous system",
+        "acceptor states",
+        "async response time"
+    ],
+    "17": [
+        "What are some effective discipline techniques for toddlers?",
+        "Best parenting blogs for new mothers",
+        "Parenting styles and their impact on children's development",
+        "How to establish a consistent daily routine with kids",
+        "Tips for parents to improve communication with their preschoolers"
+    ],
+    "18": [
+        "Wars Rome",
+        "Carthage Battle",
+        "Hannibal Tactics",
+        "Punic Victories",
+        "Ancient Mediterranean"
+    ],
+    "19": [
+        "How can dynamic programming be used in machine learning",
+        "Beat a pure strategy in game theory examples",
+        "When is greedy algorithm better than dynamic programming",
+        "What are some applications of beat's strategy",
+        "Is beat's strategy always guaranteed to find an optimal solution"
+    ],
+    "20": [
+        "CAR NK cells",
+        "Natural Killer Cell functions",
+        "CAR T cell therapy",
+        "Immunotherapy treatment options",
+        "Gene editing techniques"
+    ],
+    "21": [
+        "How AspectJ improves code maintainability",
+        "Interprocedural static analysis for Java applications",
+        "Code smell detection using model checking approaches",
+        "Aspect-oriented programming with Model Checking Framework",
+        "Verify aspects in aspect-oriented software development"
+    ],
+    "22": [
+        "Decolonial Studies",
+        "Postcolonial Theory Applications",
+        "Globalization Subaltern Perspectives",
+        "Imperialism Resistance Strategies",
+        "Cultural Reappropriation Approaches"
+    ],
+    "23": [
+        "social commerce regulatory framework",
+        "compliance costs mitigation strategies adaptation",
+        "capacity building regulatory intervention effectiveness",
+        "regulatory adaptability social commerce evolution",
+        "social commerce regulation implementation challenges"
+    ],
+    "24": [
+        "can baking soda be used as a natural pest repellent",
+        "uses for sodium bicarbonate beyond fire extinguishing",
+        "how effective is baking soda in neutralizing acid reflux",
+        "benefits of using baking soda as a homemade cleaning agent",
+        "scientific explanation behind baking soda's antacid properties"
+    ],
+    "25": [
+        "Will AI replace teachers in classrooms",
+        "What are benefits of AI in education",
+        "How does AI improve student outcomes",
+        "Can AI enhance personalized learning",
+        "Is AI changing teacher roles slowly"
+    ],
+    "26": [
+        "What are accommodations for students with disabilities in PE classes?",
+        "PE lesson plans for students with physical disabilities",
+        "Inclusive sports activities for special needs students",
+        "Physical education adaptations for children with autism",
+        "Benefits of adaptive physical education for kids with special needs"
+    ],
+    "27": [
+        "Soviet Union military vehicle design",
+        "Armored personnel carrier upgrades",
+        "Ukraine defense industry news",
+        "Infantry mobility enhancement systems",
+        "Military tactical vehicles specifications"
+    ],
+    "28": [
+        "greenhouse gas",
+        "carbon footprint",
+        "natural gas emissions",
+        "methane levels today",
+        "co2 vs lpg"
+    ],
+    "29": [
+        "Are cafeteria menu plans effective in enhancing student morale",
+        "How does food variety influence academic performance for high school students",
+        "Can a diverse canteen menu positively impact student satisfaction rates",
+        "What are some innovative ways to design and implement varied cafeteria menus",
+        "Impact of mixed menu options on student eating habits"
+    ],
+    "30": [
+        "rrl lemon shoe",
+        "polish rrl lemon",
+        "rrl leather polish",
+        "lemon polish review",
+        "rrl shoe care"
+    ],
+    "31": [
+        "athlete mental preparation",
+        "psychological recovery strategies",
+        "sports concussion treatment",
+        "emotional resilience techniques",
+        "mental toughness exercises"
+    ],
+    "32": [
+        "Productivity improvement techniques",
+        "Time management strategies",
+        "Boosting work efficiency tips",
+        "Organizing tools for busy professionals",
+        "Managing tasks more effectively"
+    ],
+    "33": [
+        "cultural object detection algorithm",
+        "image recognition indian cultural objects",
+        "automatic object classification systems",
+        "machine learning for cultural heritage preservation",
+        "computer vision techniques for artifact analysis"
+    ],
+    "34": [
+        "design patterns",
+        "block structure",
+        "geometric shapes",
+        "shape coding",
+        "visual blocks"
+    ],
+    "35": [
+        "CT pattern recognition COVID-19 lung disease",
+        "Chest CT imaging artificial intelligence applications",
+        "Automated analysis COVID-19 radiology literature review",
+        "Quantification chest computed tomography pulmonary fibrosis",
+        "Radiological diagnosis COVID-19 deep learning approaches"
+    ],
+    "36": [
+        "Middleware optimization techniques for distributed systems",
+        "CORBA performance enhancements with quality of service constraints",
+        "QoS-aware software architecture patterns and design principles",
+        "High-performance ORB protocols for real-time CORBA applications",
+        "CORBA component model implementation best practices for scalability"
+    ],
+    "37": [
+        "Are RNA-based COVID-19 vaccines effective in stimulating B cell immunity?",
+        "How do B cells respond to mRNA-encoded Spike proteins from COVID-19 viruses?",
+        "What are the current challenges in inducing robust B cell responses with mRNA-based vaccines?",
+        "Can mRNA vaccine-induced B cells provide long-term immunity against SARS-CoV-2 variants?",
+        "Do B cell therapies require booster shots to maintain their effectiveness?"
+    ],
+    "38": [
+        "Efficacy of Educational Interventions in Improving Medication Adherence in Chronic Heart Failure Patients",
+        "Heart Failure Patient Education and Medication Compliance Studies",
+        "Sudanese Patient Adherence to Heart Failure Medications Research",
+        "Clinical Trials on Medication Regimen Persistence for Sudanese Heart Failure Patients",
+        "Pharmacist-Led Intervention Effects on Medication Adherence in Sudanese Populations"
+    ],
+    "39": [
+        "Is coding easier than programming",
+        "Why is transactional easier",
+        "Easiest programming languages to learn",
+        "What makes programming easier for beginners",
+        "Programming for non-coders easy"
+    ],
+    "40": [
+        "Multiwalled carbon nanotubes' role in pharmaceutical applications",
+        "Adsorption of Oxazepam on functionalized carbon nanotubes",
+        "Carbon nanotube-enhanced solar energy storage systems",
+        "Thermodynamic studies on drug-nanotube interactions",
+        "Nanofluid dynamics for improved thermal management"
+    ],
+    "41": [
+        "Heat transfer enhancement by surface vibration in pipe flow",
+        "Vibration effects on heat exchanger performance comparison",
+        "Tube array vibration optimization for efficient boiling",
+        "Boiling heat transfer coefficient impact of vibration frequency",
+        "Thermal-hydraulic modeling of vibrating tube arrays"
+    ],
+    "42": [
+        "What are the key bioactive compounds in Cordyceps Sinensis",
+        "How does Cordyceps Sinensis inhibit EMT in diabetic nephropathy",
+        "Can Cordyceps Sinensis extract be used to treat renal fibrosis",
+        "Is Cordyceps Sinensis effective against epithelial-mesenchymal transition",
+        "What is the mechanism of action for Cordyceps Sinensis anti-fibrotic activity"
+    ],
+    "43": [
+        "what is corcos in law",
+        "legal implications of magic realism",
+        "magical realism examples in law fiction",
+        "corcos magic in literature analysis",
+        "lawyer's guide to fantasy law"
+    ],
+    "44": [
+        "Cell Culture Techniques for Tissue Engineering",
+        "Flow Dynamics in Bioreactors for Stem Cells",
+        "Microcarrier-Based 3D Cell Culture Systems",
+        "Hydrodynamic Shear Stress on Cell Growth Rates",
+        "Effects of Stirring on Cell Adhesion and Proliferation"
+    ],
+    "45": [
+        "Aortic aneurysm inflammation PET CT studies",
+        "18F-FDG positron emission tomography abdominal aorta findings",
+        "Vascular imaging biomarkers acute symptoms treatment options",
+        "Abdominal aortic disease inflammatory markers diagnosis methods",
+        "Computed tomography angiography aneurysm rupture risk factors"
+    ],
+    "46": [
+        "How do animal health workers in Cambodia contribute to one health initiatives",
+        "Role of animal health workers in disease surveillance and control programs",
+        "Village-based animal health worker programs for zoonotic disease prevention",
+        "Animal health worker-led vaccination campaigns against foot-and-mouth disease",
+        "Factors influencing the effectiveness of community-based animal health programs"
+    ],
+    "47": [
+        "Thermodynamic modeling of cellular processes",
+        "Escherichia coli nutrient uptake mechanisms",
+        "Metabolic pathway regulation in E. coli",
+        "Cellular stress response gene expression",
+        "Protein-protein interaction networks in bacteria"
+    ],
+    "48": [
+        "undergraduate clinical educators' professional development",
+        "comparative effectiveness of different medical education models",
+        "best practices for assessing student competency in clinical settings",
+        "impact of simulation-based training on patient safety outcomes",
+        "designing effective mentoring programs for preceptors"
+    ],
+    "49": [
+        "How to ensure laboratory safety with underprivileged students.",
+        "Ethical guidelines for school lab experiments on a budget.",
+        "Limited resource classroom laboratory safety best practices.",
+        "Lab safety considerations in developing countries schools.",
+        "Affordable laboratory safety solutions for disadvantaged schools."
+    ],
+    "50": [
+        "Smoking Cessation Video Game Effects",
+        "Interactive Therapy Outcomes Analysis",
+        "Men's Smoking Cessation Strategies Study",
+        "Quit Rate Improvements from Interactive Drama",
+        "Behavioral Change Techniques for Smoking Cessation"
+    ],
+    "51": [
+        "What are the current clinical trials for CRISPR edited immune cells?",
+        "CRISPR Cas9 immunotherapy FDA approval timeline",
+        "Genome editing and T cell therapy for cancer treatment",
+        "CRISPR edited T cells for autoimmune diseases research",
+        "How does CRISPR gene editing impact human immune response?"
+    ],
+    "52": [
+        "How do faculty members contribute to co-construction in higher education?",
+        "Strategies for promoting student participation in course design",
+        "What role do instructors play in collaborative learning environments?",
+        "Best practices for bridging gaps between educators and students",
+        "Effective methods for fostering inclusive discussions in the classroom"
+    ],
+    "53": [
+        "wheat germ heat treatment",
+        "flour baking temperature control",
+        "cooking methods flour proteins",
+        "protein denaturation food processing",
+        "heat activation enzymes starch"
+    ],
+    "54": [
+        "Heart Failure Mortality Rates",
+        "Sleep Apnea Treatment Options",
+        "Cardiac Comorbidities Complications",
+        "Pulmonary Hypertension Diagnosis Criteria",
+        "Biventricular Dysfunction Pathophysiology"
+    ],
+    "55": [
+        "What are some eco-efficient buildings",
+        "How does green architecture reduce carbon footprint",
+        "Can sustainable design improve indoor air quality",
+        "Eco-friendly construction methods for residential buildings",
+        "Green building certification systems worldwide"
+    ],
+    "56": [
+        "Comparison of PCR-based methods for diagnosing pulmonary tuberculosis in Zambia",
+        "TB diagnosis accuracy and LAMP assay limitations in resource-limited settings",
+        "Pulmonary tuberculosis diagnostic challenges in Zambian primary care facilities",
+        "Advantages of molecular testing over microscopy for TB diagnosis in Africa",
+        "TB-LAMP assay sensitivity and specificity in a Zambian clinical trial setting"
+    ],
+    "57": [
+        "How does thickness influence magnetoresistance in Sr2FeMoO6",
+        "Effects of crystal structure on magneto-transport properties",
+        "What is the impact of grain boundaries on magnetic properties?",
+        "Comparison of Sr2FeMoO6 to other transition metal oxides",
+        "Does film thickness affect spin accumulation in Sr2FeMoO6"
+    ],
+    "58": [
+        "volume 14 issue 2 contents",
+        "elj volume 15 article topics",
+        "scholarly journal publishing formats",
+        "peer-reviewed journals in elj's field",
+        "academic publishing standards elj follows"
+    ],
+    "59": [
+        "What are the potential biomedical applications of core-shell nanoparticles?",
+        "How do Fe3O4@Ag nanoparticles interact with cancer cells?",
+        "Can magneto-optic properties be used for diagnostic imaging in medicine?",
+        "Are Ag nanoparticles toxic to human cells when coated with Fe3O4?",
+        "What is the role of surface plasmon resonance in magnetic hyperthermia?"
+    ],
+    "60": [
+        "How does AI integration in education impact teaching methods?",
+        "Effects of artificial intelligence on student motivation",
+        "Can AI improve individualized instruction for students?",
+        "What are some challenges and limitations of using AI in educational settings?",
+        "Do AI-powered adaptive learning systems enhance academic performance?"
+    ],
+    "61": [
+        "How do ApoE genotype and cognitive decline affect brain structure?",
+        "Older adults with ApoE 4 allele experiencing changes in what areas of cognition?",
+        "What is role of cholesterol in relation to ApoE mediated cognitive changes?",
+        "Investigate relationship between ApoE epsilon4 carriers and age-related cognitive impairment",
+        "Cognitive effects of ApoE genotype on executive functions in older adults"
+    ],
+    "62": [
+        "Mechanisms of inflammation after laser-induced thrombosis",
+        "Morphological changes in tissues with inflammatory responses",
+        "Inflammatory markers for thrombotic events analysis",
+        "Laser-induced injury and its effect on immune system",
+        "Cellular response to vascular injuries research"
+    ],
+    "63": [
+        "Can stress caused by environmental toxins contribute to neurological disorders?",
+        "How do pollutants affect neurotransmitter signaling pathways?",
+        "Environmental toxin-induced neuroinflammation and its effects on cognitive function",
+        "Impact of pesticides on brain development in children",
+        "Mechanisms underlying the link between air pollution and depression"
+    ],
+    "64": [
+        "How does chronic kidney disease affect blood pressure in pediatric patients?",
+        "Can ACE inhibitors improve cardiovascular outcomes for children with CKD?",
+        "What are the most common complications of hypertension in kids with renal failure?",
+        "Do beta blockers have a role in managing high blood pressure in pediatric nephrology cases?",
+        "Is left ventricular hypertrophy more prevalent in children with chronic kidney disease?"
+    ],
+    "65": [
+        "Can machine learning improve phase contrast microscopy",
+        "How to optimize microscope images with AI",
+        "Best algorithms for low-cost microscope enhancement",
+        "Cellphone microscopy using deep learning techniques",
+        "Machine-learning approaches for improving microscope resolution"
+    ],
+    "66": [
+        "What are the long-term effects of occult hepatitis B virus infection on liver fibrosis?",
+        "Can non-alcoholic steatohepatitis be prevented in obese individuals with occult hepatitis B?",
+        "Is occult hepatitis B virus infection a risk factor for NAFLD progression in Italy?",
+        "How does occult hepatitis B virus infection affect the gut-liver axis in obesity?",
+        "Do lifestyle interventions reduce the risk of liver disease in patients with occult hepatitis B?"
+    ],
+    "67": [
+        "Gut microbiota and mental health in children's developmental disorders",
+        "Childhood neurodevelopmental disorders' association with gut flora",
+        "How does gut dysbiosis affect childhood anxiety and depression?",
+        "Effects of prenatal gut microbiome on postnatal brain development",
+        "Relationship between gut bacteria and cognitive impairments in youth"
+    ],
+    "68": [
+        "mouse L cell DNA replication",
+        "DNA polymerase activity regulation",
+        "induction of DNA polymerase mechanism",
+        "mouse cells DNA repair systems",
+        "DNA polymerase L cell transcription"
+    ],
+    "69": [
+        "Food Coop Impact Evaluation Methodology",
+        "Rural Community Development Studies",
+        "Natural Experiment Design Examples",
+        "Health Outcomes in Food Deserts",
+        "Cooperative Business Models Research"
+    ],
+    "70": [
+        "What are the treatment options for advanced liver fibrosis due to HCV infection?",
+        "How does HCV impact the immune system during chronic infection?",
+        "Can antiviral therapy prevent liver cirrhosis in patients with HCV?",
+        "What is the role of direct-acting antivirals in treating HCV-related liver cancer?",
+        "Do current guidelines recommend screening for HCV in individuals with a history of substance abuse?"
+    ],
+    "71": [
+        "Neural Network Classification Applications in Brain-Computer Interface Systems",
+        "Synthetized Data Analysis Techniques for Brain-Computer Interfaces",
+        "Statistical vs Neural Network Comparison in Brain Computer Interface Paradigm",
+        "Stimulus Independent Brain Computer Interface Methodologies",
+        "Brain Computer Interface Paradigm Advantages and Limitations"
+    ],
+    "72": [
+        "What are the best practices for integrating open-source cloud computing with geospatial applications?",
+        "How does Amazon Web Services support earth sciences research?",
+        "Can I use Terraform to deploy a cloud-based environment for processing geological data?",
+        "Are there any open-source machine learning frameworks suitable for analyzing large-scale climate datasets?",
+        "What are some common pitfalls when implementing cloud computing for geoscientific workflows?"
+    ],
+    "73": [
+        "What are common causes of sleep apnea",
+        "Symptoms of obstructive sleep apnea similar",
+        "How does sleep position affect sleep apnea diagnosis",
+        "Is snoring a sign of sleep apnea risk",
+        "Can weight loss cure sleep apnea problems"
+    ],
+    "74": [
+        "Are machine learning algorithms effective in predicting protein stability?",
+        "How does mutagenesis enhance enzyme thermostability mechanisms?",
+        "Can combination of mutational strategies improve pectin lyase properties?",
+        "What are the current challenges and future directions in directed evolution techniques?",
+        "Do machine learning-based methods have a role in understanding protein folding dynamics?"
+    ],
+    "75": [
+        "Factors influencing teenagers' screen time habits",
+        "Effects of mobile phones on social skills in adolescents",
+        "Correlation between smartphone use and stress levels in high school students",
+        "Strategies to promote responsible phone usage among senior high school students",
+        "The role of technology in shaping modern teenage identity"
+    ],
+    "76": [
+        "What is additive manufacturing used for in prosthetics",
+        "Advantages of 3D printing in medical device design",
+        "Additive manufacturing applications in musculoskeletal disorders treatment",
+        "How does additive manufacturing improve orthopaedic implant integration",
+        "Benefits of using 3D printing in personalized joint reconstruction"
+    ],
+    "77": [
+        "Random forest algorithms in medical imaging applications",
+        "Multi-dictionary techniques for image processing improvements",
+        "High-resolution MRI image enhancement using machine learning",
+        "Dictionary-based methods for natural image super-resolution",
+        "Super-resolution techniques for improving medical image quality"
+    ],
+    "78": [
+        "Thermal Conductivity of Concentric Cylinders with Radial Temperature Gradient",
+        "Heat Transfer Coefficients for Arbitrarily Spaced Cylindrical Surfaces",
+        "Flow Stability Analysis with Convection and Radiation Effects",
+        "Buoyancy-Induced Flows Between Concentric Cylinders at Elevated Temperatures",
+        "Convective Heat Transfer in Rotating Cylindrical Systems"
+    ],
+    "79": [
+        "How does BaTiO3/CdS heterojunction impact photocatalytic activity under various thermal and solar energy conditions?",
+        "Can I enhance the efficiency of photoelectric catalysis in BaTiO3/CdS by optimizing thermal excitation levels?",
+        "What are the underlying mechanisms driving the degradation process in BaTiO3/CdS heterojunctions when combined with solar and thermal energies?",
+        "How do different CdS morphologies influence the photocatalytic performance of BaTiO3/CdS heterojunctions under thermal excitation?",
+        "Are there any recent breakthroughs or innovations in photocatalysis research that utilize BaTiO3/CdS heterojunctions for efficient degradation applications?"
+    ],
+    "80": [
+        "Leydig cell stem cell niche",
+        "Pericyte differentiation pathways",
+        "Neuroendocrine cancer treatment options",
+        "Stem cell-derived pericytes functionality",
+        "Leydig cell stem cell self-renewal mechanisms"
+    ],
+    "81": [
+        "What is HydroGNSS GNSS Reflectometry Mission's orbit",
+        "Can GNSS remote sensing detect soil moisture accurately",
+        "How does hydrological data from HydroGNSS contribute to climate modeling",
+        "Are there any open-source software tools for processing HydroGNSS data",
+        "How reliable are the atmospheric correction algorithms used in HydroGNSS"
+    ],
+    "82": [
+        "Insurance industry digital transformation challenges",
+        "Companies adopting artificial intelligence insurance",
+        "Digital transformation process in insurance sector",
+        "AI applications for insurance claims processing",
+        "How to improve customer experience with technology"
+    ],
+    "83": [
+        "canine parvovirus",
+        "symptoms parvo virus",
+        "treatment parvo in dogs",
+        "what causes parvo",
+        "dog parvovirus vaccine"
+    ],
+    "84": [
+        "Patients With Type 2 Diabetes Germany Complications",
+        "Prospective Study Cardiovascular Risk Factors",
+        "Burden Of Comorbidities In Diabetic Patients",
+        "Long-Term Morbidity And Mortality Rates Diabetics",
+        "Non-Interventional Study Outcomes Patient Cohorts"
+    ],
+    "85": [
+        "Novel Applications of Photonic Crystals",
+        "Crystal Optics for Gas Detection",
+        "Photorefractive Effects in Sensing Devices",
+        "Optical Fiber Sensors for Gas Monitoring",
+        "Nanostructured Photonic Crystals for Gas Analysis"
+    ],
+    "86": [
+        "Applications of alginate in biomedical engineering",
+        "Compressed matrices for controlled drug release mechanisms",
+        "Evaluation of polymeric delivery systems for prolonged therapy",
+        "Alginate-based biomaterials for tissue engineering applications",
+        "Effects of matrix composition on bioadhesive properties"
+    ],
+    "87": [
+        "Impact of COVID-19 Pandemic on Pediatric Emergency Department Workflow",
+        "Best Practices for Pediatricians Expanding Scope of Practice Amidst Pandemic",
+        "Improving Pediatric Patient Flow in Emergency Departments During Pandemic",
+        "Telemedicine Opportunities for Pediatric Emergency Physicians During Crisis",
+        "Pediatric Emergency Medicine Residency Program Adaptations for COVID-19 Era"
+    ],
+    "88": [
+        "breast cancer therapy outcomes",
+        "group therapy benefits patients",
+        "supportive expressive therapy studies",
+        "adjuvant therapy efficacy rates",
+        "cancer treatment support groups"
+    ],
+    "89": [
+        "Cancer stem cells aldehyde dehydrogenase biomarkers",
+        "Head and neck squamous cell carcinoma immunotherapy options",
+        "CD44 expression in head and neck cancer",
+        "Cancer stem cell markers for diagnosis treatment",
+        "Squamous cell carcinoma gene expression profiling"
+    ],
+    "90": [
+        "Adsorption capacity of cellulose modified with p-aminobenzoic groups vs unmodified",
+        "Characterization methods for metal ions adsorption on modified cellulose",
+        "Cellulose modification techniques for enhanced metal ions binding",
+        "Effects of p-aminobenzoic groups on metal ions sorption dynamics",
+        "Comparative study on metal ions adsorption capacity between native and modified cellulose"
+    ],
+    "91": [
+        "T cell differentiation pathways regulated by NFAT1",
+        "CD8+ T cells and Th cytokine production relationships",
+        "Th17 cell subset regulation by NFAT1 transcription factor",
+        "NFAT1 role in immune cell activation processes",
+        "Interferon-gamma production mechanisms in T cells"
+    ],
+    "92": [
+        "Effects of leptogenesis on baryon asymmetry",
+        "Leptogenesis models and dark matter connections",
+        "Recent progress in electroweak baryogenesis",
+        "Baryogenesis mechanisms for beyond Standard Model physics",
+        "Leptogenesis and cosmological implications for our universe"
+    ],
+    "93": [
+        "sanatorium history",
+        "Dr. Robert Koch tuberculosis",
+        "BCG vaccine effectiveness",
+        "tuberculin skin test accuracy",
+        "DOTS treatment outcome"
+    ],
+    "94": [
+        "Genetic algorithm vs simulated annealing",
+        "How neural networks optimize genetic algorithms",
+        "Comparison of neural network optimization techniques",
+        "Evolutionary strategies for deep learning models",
+        "Genetic programming applications in machine learning"
+    ],
+    "95": [
+        "Validation of IMPROVE bleeding risk score in critically ill patients",
+        "External validation of bleeding risk scores for acutely ill patients",
+        "Comparative analysis of IMPROVE and other bleeding risk scores",
+        "Factors influencing accuracy of IMPROVE bleeding risk score predictions",
+        "Improving the predictive power of IMPROVE bleeding risk score for medical patients"
+    ],
+    "96": [
+        "Endoscopic ultrasound-guided fine-needle aspiration small cell lung cancer staging",
+        "Duodenal metastasis prognosis with endoscopic ultrasound",
+        "Small cell lung cancer endoscopic ultrasound imaging techniques",
+        "EUS-FNA diagnosis accuracy in small cell lung cancer",
+        "Role of endoscopy in detecting asymptomatic duodenal metastases"
+    ],
+    "97": [
+        "Fourier transform spectrometer applications in environmental monitoring",
+        "SO2 absorption spectroscopy techniques comparison",
+        "UV light absorption coefficient measurement methods",
+        "Cross-sectional studies of atmospheric pollutants detection",
+        "Measurement uncertainty in Fourier transform spectroscopy analysis"
+    ],
+    "98": [
+        "What are the effects of hydrogen retention on plasma-facing material degradation",
+        "How does hydrogen impact plasma-material interactions at high temperatures",
+        "Can you explain the role of surface roughness in hydrogen absorption and retention",
+        "Are there any studies on hydrogen isotopes' influence on plasma-facing materials properties",
+        "What is the significance of hydrogen-induced embrittlement in plasma-facing material failure"
+    ],
+    "99": [
+        "Software product line variability management approaches",
+        "Secure Tropos framework limitations",
+        "Requirements engineering for software families",
+        "Product line architecture design considerations",
+        "Variability modeling in software product lines"
+    ],
+    "100": [
+        "Mobile sensor networks data processing algorithms",
+        "Receiver-oriented protocols for reliable communication",
+        "Data delivery optimization techniques wireless sensors",
+        "Sensor network reliability improvement methods mobile",
+        "Robust communication strategies receiver-oriented architecture"
+    ],
+    "101": [
+        "Opioid addiction treatment options",
+        "IV opioid use patterns in emergency medicine",
+        "Emergency department opioid overdose response",
+        "Opioid antagonist administration guidelines",
+        "Substance abuse protocols for healthcare providers"
+    ],
+    "102": [
+        "Isotopes properties",
+        "Nuclear stability factors",
+        "Radioactive decay modes",
+        "Atomic mass formulae",
+        "Proton neutron ratio significance"
+    ],
+    "103": [
+        "HCMV infection cardiovascular disease treatment",
+        "Weifang China population health risk factors",
+        "CD14 +CD16 + monocytes immune system function",
+        "Coronary heart disease diagnosis methods accuracy",
+        "Heart muscle virus and cardiovascular outcomes"
+    ],
+    "104": [
+        "Software engineering empirical studies best practices",
+        "Data analysis pitfalls in real-world projects",
+        "Empirical software development methodology limitations",
+        "Best data analysis techniques for complex systems",
+        "Effective data analysis strategies for engineers"
+    ],
+    "105": [
+        "Seizure risk factors",
+        "Etiology epilepsy cases",
+        "Antiepileptic medication effectiveness",
+        "Epilepsy comorbidities prevalence",
+        "Neuroplasticity in seizure control"
+    ],
+    "106": [
+        "What are the common risk factors for colorectal cancer?",
+        "Is there a link between gut microbiome and obesity?",
+        "Can physical activity reduce colon cancer risk?",
+        "How does diet quality impact colorectal cancer prevention?",
+        "Are lifestyle interventions effective in preventing colorectal cancer?"
+    ],
+    "107": [
+        "Effects of telomere shortening on immune response to SARS-Cov-2",
+        "Geroscience-based approaches for mitigating COVID-19 disease severity",
+        "Longevity-associated genes and their role in SARS-Cov-2 immunopathology",
+        "Investigating the interplay between senescence and immune system function during SARS-Cov-2 infection",
+        "Cellular senescence-mediated modulation of the host response to SARS-Cov-2"
+    ],
+    "108": [
+        "Wireless sensor network energy harvesting solutions",
+        "Multihop wireless network routing algorithms comparison",
+        "Sensor node energy efficiency optimization techniques",
+        "Energy efficient wireless communication protocols review",
+        "Node placement strategies for energy efficient WSNs"
+    ],
+    "109": [
+        "What is the role of sacubitril in Korean heart failure management guidelines?",
+        "How does Korean chronic heart failure diagnosis differ from international guidelines?",
+        "Can sacubitril improve cardiovascular outcomes in patients with Korean heart failure?",
+        "What are the common comorbidities in Korean patients with chronic heart failure?",
+        "Are there any differences in pharmacological treatment of heart failure between Korea and Western countries?"
+    ],
+    "110": [
+        "Can peer pressure impact academic performance in Asian universities between 2020 and 2025?",
+        "Effects of social media on self-esteem among teenagers in Asia from 2020 to 2025",
+        "How does cultural pressure affect student mental health in Japan and South Korea during 2020-2025?",
+        "What are the main causes of stress in Asian students transitioning from high school to college from 2020 to 2025?",
+        "International studies on the role of parental expectations in shaping Asian students' academic experiences from 2020 to 2025"
+    ],
+    "111": [
+        "How does stellar evolution impact dark matter distribution",
+        "Can gravitational waves reveal hidden dark matter masses",
+        "Dark matter effects on supernovae nucleosynthesis processes",
+        "Do supermassive black holes affect dark matter halo growth",
+        "What dark matter scenarios could explain galaxy rotation curves"
+    ],
+    "112": [
+        "Water contamination Radium-226",
+        "Environmental impact radium exposure",
+        "Cancer risk radium contaminated water",
+        "Radon groundwater contamination methods",
+        "Radioactive contaminants aquifer remediation"
+    ],
+    "113": [
+        "What are common risk factors for ischemic stroke",
+        "Stroke prevention strategies and treatment options",
+        "How does hypertension contribute to acute ischemic stroke",
+        "Cerebral perfusion pressure management in stroke patients",
+        "Behavioral modifications to reduce ischemic stroke risk"
+    ],
+    "114": [
+        "Detection of neurotransmitters using nanomaterials",
+        "Electrochemical sensors for biomarker analysis",
+        "Carbon nanotubes in biomedical applications",
+        "Helical structures for biochemical detection",
+        "Modified electrodes for analytical chemistry"
+    ],
+    "115": [
+        "Land restoration techniques comparison",
+        "Degraded land rehabilitation methods review",
+        "Soil erosion prevention strategies",
+        "Natural habitat regeneration practices",
+        "Ecological restoration project examples"
+    ],
+    "116": [
+        "How does MS diagnosis affect long-term career choices?",
+        "Impact of Multiple Sclerosis on personal financial planning",
+        "Effects of Multiple Sclerosis on earning potential and employment",
+        "What are the financial implications of being diagnosed with MS?",
+        "Can people with MS still achieve their retirement goals?"
+    ],
+    "117": [
+        "How does direct detection of dark matter relate to particle physics experiments?",
+        "What is the current status of WIMP searches in LUX-ZEPLIN and XENON1T?",
+        "Can the effective theory approach be applied to indirect detection of dark matter?",
+        "Are there any upcoming or recent events on dark matter direct detection methods?",
+        "How do cosmological implications of dark matter affect its detectability by direct means?"
+    ],
+    "118": [
+        "How does NMO impact daily activities in Alzheimer patients?",
+        "Is there a link between neuromyelitis optica and cognitive decline?",
+        "What are the most effective treatments for early-onset Alzheimer disease comorbid with NMO?",
+        "Can MRI imaging differentiate between neurodegenerative disorders like Alzheimer's and NMO?",
+        "Do genetic factors contribute to the development of Alzheimer's in patients with NMO?"
+    ],
+    "119": [
+        "How does climate change affect savanna ecosystem",
+        "GIS applications in land use planning",
+        "Future scenarios for African wildlife",
+        "Savanna conservation strategies under climate change",
+        "Land cover classification methods using GIS"
+    ],
+    "120": [
+        "Diabetic complication risk factors data analysis",
+        "Type 2 diabetes clustering methods comparison",
+        "Complications of uncontrolled blood sugar studies",
+        "Diabetes complications prediction models review",
+        "Data-driven cluster approach diabetic outcomes research"
+    ],
+    "121": [
+        "MQTT protocol limitations for wireless sensor networks",
+        "Designing efficient wireless sensor network protocols",
+        "Comparison of MQTT and CoAP protocols in IoT applications",
+        "Low-power design considerations for wireless sensor nodes",
+        "Advantages of using MQTT protocol in industrial automation"
+    ],
+    "122": [
+        "Ai medical applications",
+        "Medicine predictive models",
+        "Healthcare data analytics",
+        "Artificial intelligence diagnosis tools",
+        "Clinical decision support systems"
+    ],
+    "123": [
+        "Videoconferencing compression techniques",
+        "DCT-based motion estimation algorithms",
+        "TB-SVQ video coding performance comparison",
+        "SVQ compression for video streaming applications",
+        "Motion-compensated image compression strategies"
+    ],
+    "124": [
+        "vr art",
+        "flocking behaviors",
+        "collective motion algorithms",
+        "virtual reality simulations",
+        "autonomous agent systems"
+    ],
+    "125": [
+        "Tennyson's In Memoriam A.H.H literary analysis",
+        "Tennyson's use of metaphor in poetry",
+        "Literary devices used by Alfred Lord Tennyson",
+        "Victorian era poetry techniques Tennyson employed",
+        "Poetry structures employed by Alfred Lord Tennyson"
+    ],
+    "126": [
+        "how to apply portraiture in social research",
+        "portraiture methods for qualitative studies",
+        "what is portraiture as a research methodology",
+        "using portraiture in grounded theory",
+        "applying portraiture in thematic analysis"
+    ],
+    "127": [
+        "Aerosystems suppliers",
+        "Safran aircraft parts",
+        "Avionics industry news",
+        "Aerospace manufacturing companies",
+        "Defense technology updates"
+    ],
+    "128": [
+        "Best practices for software engineering",
+        "Agile development methodologies compared",
+        "Software testing methodologies and tools",
+        "Code review best practices in agile teams",
+        "Effective communication strategies for software developers"
+    ],
+    "129": [
+        "What are probabilistic-based similarity measures used in software development",
+        "How do analysts estimate software costs using analogy-based approaches",
+        "Can probabilistic-based similarity measures improve software cost estimation accuracy",
+        "Is there a framework for combining probabilistic-based similarity measures and analogy-based software cost estimation",
+        "Do probabilistic-based similarity measures enhance the efficiency of software cost estimation"
+    ],
+    "130": [
+        "Software engineering metrics vs agile methodology",
+        "Best practices for expert opinion surveys",
+        "Engineering measure ranking correlations",
+        "How to prioritize software features",
+        "What are some common software defects"
+    ],
+    "131": [
+        "Typed Graph Transformation System Complexity Metrics",
+        "Graph-Based Modeling of Software Systems Evolution",
+        "Complex Networks and Graph-Theoretic Techniques in Computing",
+        "Dynamic Graph Analysis for Software Engineering Applications",
+        "Graph Transformation Systems in Automated Program Repair"
+    ],
+    "132": [
+        "Voice over IP performance optimization models",
+        "Network protocol optimization framework for wireless networks",
+        "Wireless network modeling and simulation tools comparison",
+        "Cross-layer analysis of VoIP quality metrics",
+        "ESB node performance evaluation methods"
+    ],
+    "133": [
+        "customer data segmentation",
+        "logistics analytics tools",
+        "supply chain visualization",
+        "predictive shipping insights",
+        "data-driven logistics strategy"
+    ],
+    "134": [
+        "worth therapy",
+        "psychoanalytic theory",
+        "eric fromm quotes",
+        "self actualization",
+        "maslow hierarchy"
+    ],
+    "135": [
+        "role of civil society in good governance",
+        "impact of corruption on public services Bangladesh",
+        "effectiveness of decentralized management Bangladesh",
+        "importance of transparency accountability government Bangladesh",
+        "governance challenges developing countries like Bangladesh"
+    ],
+    "136": [
+        "detox tea",
+        "toothpaste ingredients",
+        "skin benefits",
+        "kidney stone remedy",
+        "oral health tips"
+    ],
+    "137": [
+        "What are benefits of natural building techniques",
+        "Can rammed earth be used for interior design",
+        "Sustainable architecture in ancient cultures",
+        "How does earthen construction impact local ecosystems",
+        "Are there examples of successful eco-friendly homes"
+    ],
+    "138": [
+        "fastest human ever",
+        "world record reaction times athletes",
+        "mental training athletes performance",
+        "top 5 athletes speed",
+        "athlete reaction time improvement"
+    ],
+    "139": [
+        "quantum computer",
+        "component failure rate",
+        "electronic circuitry design",
+        "qubit application",
+        "superconducting materials"
+    ],
+    "140": [
+        "How do office layout designs affect employee productivity?",
+        "What are some best practices for workplace ergonomics training?",
+        "Can poor posture impact long-term musculoskeletal disorders?",
+        "Are there any industry standards for ergonomic workstation setup?",
+        "What are common mistakes in applying ergonomic principles at work?"
+    ],
+    "141": [
+        "uk gaming cafes",
+        "cafe gaming near me",
+        "esports uk locations",
+        "best gaming cafe uk",
+        "gaming centres uk"
+    ],
+    "142": [
+        "quantum error correction algorithms",
+        "semiconductor industry entanglement applications",
+        "secure communication protocols quantum",
+        "quantum computing cryptography threats",
+        "quantum key distribution limitations"
+    ],
+    "143": [
+        "what is literature review process in academia",
+        "how do libraries assess community needs",
+        "library services for underserved populations",
+        "local government initiatives on literacy programs",
+        "best practices for outreach librarianship"
+    ],
+    "144": [
+        "implications of ai in society",
+        "effects on employment with ai development",
+        "ethical considerations for ai implementation",
+        "human social impact from ai advancements",
+        "role of government in regulating ai"
+    ],
+    "145": [
+        "Diffusion Mechanism",
+        "Asymmetric Mixing",
+        "Unidirectional Flow",
+        "Vortex Dynamics Study",
+        "Turbulent Fluid Simulation"
+    ],
+    "146": [
+        "visual brand guidelines",
+        "design system framework",
+        "color palette psychology",
+        "typography hierarchy rules",
+        "visual language principles"
+    ],
+    "147": [
+        "How do restaurants reduce food waste?",
+        "Effects of composting on carbon footprint",
+        "Sustainable practices for restaurant supply chain",
+        "Best methods to minimize restaurant waste disposal",
+        "Strategies for reducing organic waste in dining establishments"
+    ],
+    "148": [
+        "Bioplastic uses from Vigna radiata",
+        "Munggo bioplastics benefits",
+        "Simple Casting Method limitations",
+        "Alternative bioplastic production methods",
+        "Sustainable plastic alternatives research"
+    ],
+    "149": [
+        "cricketing contemporaries of imran khan",
+        "politics in pakistan after 2000",
+        "successful politicians from sports background",
+        "famous converts to islam like imran khan",
+        "athletes turned political leaders in asia"
+    ],
+    "150": [
+        "Nuclear Power Engineer salary",
+        "Chinese nuclear energy policy 2025",
+        "Future of nuclear power engineering jobs",
+        "Nuclear reactor design innovations",
+        "Next generation nuclear power plants"
+    ],
+    "151": [
+        "Human-robot collaboration strategies for enhanced situational awareness",
+        "Robot navigation algorithms for obstacle avoidance in human-centered environments",
+        "Multi-robot system control techniques for efficient task execution",
+        "Cybernetic approaches to human-robot interaction and coordination",
+        "Autonomous decision-making frameworks for multi-agent systems"
+    ],
+    "152": [
+        "What are the implications of epiphenomenalism",
+        "Cartesian dualism arguments",
+        "Qualia consciousness theory",
+        "Neural correlates of self-awareness",
+        "Functionalism in cognitive science"
+    ],
+    "153": [
+        "multilanguage software development best practices",
+        "open source development environment comparison",
+        "IDE features for multiple programming languages",
+        "code editor for multilingual coding projects",
+        "language agnostic coding frameworks examples"
+    ],
+    "154": [
+        "Cellular automata applications in epidemiology",
+        "Modeling disease spread using Markov chains",
+        "Cellular automaton simulations of social network diffusion",
+        "Infectious disease modeling with cellular automata rules",
+        "Automata-based models for understanding disease propagation"
+    ],
+    "155": [
+        "What specific interventions can governments implement to amplify early childhood education's triple dividend effects?",
+        "How do quality early childhood programs impact long-term economic growth and job market stability?",
+        "Can we link teacher training in child development to enhanced job creation outcomes in economically disadvantaged areas?",
+        "What role does access to affordable childcare play in reducing poverty rates among working parents?",
+        "Are there empirical studies demonstrating a positive correlation between childhood education investments and GDP growth?"
+    ],
+    "156": [
+        "Durability properties of interlocking concrete block paving under different environmental conditions",
+        "Wastes effect on mechanical properties of ICBP in various applications",
+        "Environmental impact assessment for waste management in ICBP construction",
+        "Comparative analysis of waste types and their influence on ICBP durability",
+        "Investigation into the role of additives in enhancing ICBP's resistance to degradation"
+    ],
+    "157": [
+        "What are the connections between Constraint Logic Programs and Automated Reasoning",
+        "How to apply Contextual Specialization in Program Transformation for better efficiency",
+        "Can I use Monadic Second Order Logics to optimize logic program execution time",
+        "Do any constraint satisfaction problems benefit from Eliminating Existential Variables",
+        "What is the role of existential variables in logic programming and its limitations"
+    ],
+    "158": [
+        "What is a service based language",
+        "Logic programming cloud platforms",
+        "AI powered logic solutions",
+        "Best languages for service orientated systems",
+        "Service oriented logic applications"
+    ],
+    "159": [
+        "What are some real-world applications of Answer Set Programming",
+        "Papers on Reasoning About Knowledge in ASPOCP 2012 proceedings",
+        "Similar international workshops on Logic and Artificial Intelligence",
+        "List of authors who contributed to ASPOCP 2012 workshop",
+        "Proceedings of International Conference on Logic Programming (ICLP) 2011"
+    ],
+    "160": [
+        "classical systems",
+        "quantum mechanics principles",
+        "from qm to cl",
+        "what is classical physics",
+        "quantum vs classical explanation"
+    ],
+    "161": [
+        "Quantum encryption methods",
+        "Internet connectivity protocols",
+        "Teleportation technology news",
+        "Quantum computer applications",
+        "Secure communication networks"
+    ],
+    "162": [
+        "ecological spirituality",
+        "sufism nature connection",
+        "ecophilosophy schools of thought",
+        "deep ecology movement timeline",
+        "earth-based spirituality practices"
+    ],
+    "163": [
+        "visual rhetoric",
+        "semiotic theory and art",
+        "cultural symbolism in design",
+        "meaning making in images",
+        "chromatic psychology"
+    ],
+    "164": [
+        "Recent breakthroughs in scientific computing applications",
+        "Engineering optimization techniques and their limitations",
+        "Mathematical modeling of complex systems overview",
+        "Advanced computational methods for solving nonlinear equations",
+        "Research on interdisciplinary approaches in science engineering"
+    ],
+    "165": [
+        "biomaterials for bone grafting",
+        "role of nanomaterials in tissue engineering",
+        "biodegradable scaffolds for tissue regeneration",
+        "applications of stem cells in biomaterials",
+        "3D printing of customized implants"
+    ],
+    "166": [
+        "Are community road damage reporting systems effective",
+        "How does road damage affect urban planning",
+        "What are common methods for monitoring infrastructure damage",
+        "Can road damage be mitigated through smart city initiatives",
+        "Is there a correlation between road damage and economic growth"
+    ],
+    "167": [
+        "how students manage expenses abroad",
+        "allowance for international high school students",
+        "foreign student budget planning tips",
+        "managing daily expenses as an international student",
+        "student financial management abroad strategies"
+    ],
+    "168": [
+        "greenhouse gas emissions biofuels",
+        "environmental effects ethanol production",
+        "carbon footprint biodiesel energy",
+        "sustainable transportation fuels impact",
+        "renewable energy alternatives air pollution"
+    ],
+    "169": [
+        "overlap concentration physics",
+        "critical micelle concentration definition",
+        "polymer chain collapse mechanisms",
+        "reptation model applications chemistry",
+        "macromolecular dynamics simulations"
+    ],
+    "170": [
+        "amelie french film",
+        "roman numeral films",
+        "patrice leconte director",
+        "european new wave cinema",
+        "bertrand Tavernier filmography"
+    ],
+    "171": [
+        "marine life plastic impact",
+        "plastic pollution causes effects",
+        "wildlife conservation plastic waste",
+        "animals affected plastic debris",
+        "eco-system damage plastic bags"
+    ],
+    "172": [
+        "life's creation theory",
+        "how origin began",
+        "origin of species",
+        "first life forms",
+        "emergence of life"
+    ],
+    "173": [
+        "What factors influence social media",
+        "Why influencers are popular online",
+        "Effects of social media on mental health",
+        "How to become a successful influencer",
+        "Importance of authenticity in influencer marketing"
+    ],
+    "174": [
+        "Check-Sum Variation Patterns in LDPC Codes",
+        "Early Stopping Criterion for LDPC Decoding",
+        "Check-Sum Patterns Binary Coding Theory",
+        "LDPC Code Optimization Techniques",
+        "Pattern-Based Early Stopping for Error-Correcting Codes"
+    ],
+    "175": [
+        "What are health effects of Heavy Metals",
+        "Effects of heavy metals on environment",
+        "How do humans absorb heavy metals",
+        "Can you detox from heavy metals naturally",
+        "Is exposure to heavy metals reversible"
+    ],
+    "176": [
+        "rescue helicopters",
+        "emergency response teams",
+        "disaster relief aid",
+        "natural disaster statistics",
+        "search and rescue techniques"
+    ],
+    "177": [
+        "Taoist philosophy",
+        "Chinese poetry analysis",
+        "Confucianism ethics",
+        "Literary devices in Li Bai",
+        "Symbolism in Journey to the West"
+    ],
+    "178": [
+        "Remove grass stain from clothes",
+        "Best way to get rid of carpet stain",
+        "How to remove ink stain from fabric",
+        "What's a good stain remover for upholstery",
+        "Stain removal products at Walmart"
+    ],
+    "179": [
+        "watering timer",
+        "smart irrigation",
+        "automatic gardening systems",
+        "DIY sprinkler system",
+        "garden automation"
+    ],
+    "180": [
+        "neural networks applications",
+        "convolutional layers comparison",
+        "object detection techniques",
+        "image segmentation algorithms",
+        "machine learning frameworks comparison"
+    ],
+    "181": [
+        "Heat hardening process",
+        "Steel alloying methods",
+        "Annealing temperatures steel",
+        "Metal strengthening techniques",
+        "Thermal treatment applications"
+    ]
+}

@@ -1,0 +1,1267 @@
+{
+    "meta": {
+        "team_name": "Promptly",
+        "description": "Persona + Chain of Thought +Self-Refinement (self-critique) predicting top 5 candidates.",
+        "run_name": "nlp-persona-cot-refinement"
+    },
+    "0": [
+        "Who is Recep Tayyip Erdo\u011fan in Turkish oil industry?",
+        "How involved is Recep Tayyip Erdo\u011fan in Turkey's energy sector?",
+        "What does Recep Tayyip Erdo\u011fan do for Turkish oil exploration?",
+        "Is Recep Tayyip Erdo\u011fan important to Turkey's oil development?",
+        "How does Recep Tayyip Erdo\u011fan affect Turkish oil market?"
+    ],
+    "1": [
+        "Oil rich areas Istanbul",
+        "Sonatrach Turkey deals",
+        "Turkish energy sector news",
+        "Natural gas export Istanbul",
+        "Middle East oil production"
+    ],
+    "2": [
+        "discipline strategies effective",
+        "classroom behavior plans",
+        "teacher support techniques",
+        "student motivation methods",
+        "education improvement ideas"
+    ],
+    "3": [
+        "What is the impact of gender inequality",
+        "How does gender affect workplace dynamics",
+        "Is there a difference between male and female leadership styles",
+        "Can you explain gender stereotyping",
+        "Why do women face more challenges in the workforce"
+    ],
+    "4": [
+        "social media is a total waste in education",
+        "why can't we use social media for real learning",
+        "what's so wrong with using social media in schools",
+        "does social media even help students learn anything",
+        "social media is just not cutting it for student success"
+    ],
+    "5": [
+        "Stock market forecasting techniques",
+        "Improving accuracy in financial predictions",
+        "Time series modeling for intraday trading",
+        "Common mistakes in stock price prediction",
+        "Predictive analytics in finance"
+    ],
+    "6": [
+        "Do most studies disagree with mobile games' influence on teenagers?",
+        "Why does mobile gaming negatively affect teenegers' academic performance?",
+        "Can teenegers excel in academics without playing mobile games?",
+        "Should parents limit their children's mobile game time?",
+        "Are findings on mobile games and academic performance unreliable?"
+    ],
+    "7": [
+        "Will AI-facilitated adaptive learning lead to higher student achievement?",
+        "Do AI-powered educational software tools enhance teacher collaboration?",
+        "Can AI-driven assessments reduce bias and improve student feedback?",
+        "Are there any notable academic journals exploring AI's impact on education?",
+        "How does AI influence the development of personalized learning pathways?"
+    ],
+    "8": [
+        "Vernacular architecture in gymnasiums globally",
+        "Design elements of modern vernacular gymnasiums",
+        "Cultural influence on vernacular gymnasium designs",
+        "Key differences between traditional and modern vernacular architectural approaches",
+        "Notable architects in vernacular gymnasium design"
+    ],
+    "9": [
+        "What is Abu Dhabi's oil policy?",
+        "UAE energy sector",
+        "Mohamed bin Zayed Al Nahyan projects",
+        "Oil exploration in UAE",
+        "Abu Dhabi crude oil production"
+    ],
+    "10": [
+        "What affects academic performance?",
+        "Is literacy important for grades?",
+        "How can teachers help students learn better?",
+        "Do teacher training programs work?",
+        "Can tests measure comprehension accurately?"
+    ],
+    "11": [
+        "uk police discretion during traffic stops",
+        "complaints about traffic policing uk",
+        "distrust of uk police traffic enforcement",
+        "body cameras uk police officers traffic stops",
+        "improve public trust uk police traffic procedures"
+    ],
+    "12": [
+        "viscosity",
+        "fluid thickness",
+        "molecule size",
+        "liquid density",
+        "oil measurement"
+    ],
+    "13": [
+        "Peas and soil conservation techniques",
+        "Effects of climate change on pea production",
+        "Comparative analysis of legume cultivation methods",
+        "Disease resistance in Pisum sativum cultivars",
+        "Impact of organic farming on pea yields"
+    ],
+    "14": [
+        "air quality problems",
+        "workplace health risks",
+        "office air pollution solutions",
+        "employee well-being challenges",
+        "indoor environmental factors"
+    ],
+    "15": [
+        "What's the deal with no recycling bins on side roads?",
+        "How do I get rid of litter on my street?",
+        "What can I do about trash on neighborhood streets?",
+        "Is dumping trash on side roads allowed?",
+        "Help me find ways to keep my side road clean"
+    ],
+    "16": [
+        "how do teachers influence school culture",
+        "what are common curriculum challenges in education leadership",
+        "how can principals address teacher morale issues",
+        "what are key indicators of student motivation and engagement",
+        "what strategies can improve education reform outcomes"
+    ],
+    "17": [
+        "what was trump's stance on indus valley trade under his foreign policy",
+        "how did trump's foreign policy influence india's economic growth",
+        "what were the key similarities and differences between us-india relations during trump era",
+        "impact of donald trump's foreign policy on indian trade and commerce",
+        "effects of trump's foreign policy on regional power dynamics in south asia"
+    ],
+    "18": [
+        "food allergies symptoms",
+        "dietary restrictions",
+        "intolerance foods list",
+        "sensitivity diet plans",
+        "allergy recipes"
+    ],
+    "19": [
+        "failing language revitalization projects",
+        "linguistic anthropology for indigenous language documentation",
+        "computational models for predicting language shift",
+        "community-based language education strategies",
+        "overcoming obstacles in indigenous language revitalization"
+    ],
+    "20": [
+        "Unilateral Trump decisions: successes and failures",
+        "How does Trump's approach compare to previous presidents?",
+        "Examples of Trump's unilateral actions in international relations",
+        "Trump's leadership style: strengths and weaknesses",
+        "Impact of Trump's unilaterality on US foreign policy"
+    ],
+    "21": [
+        "Students commute stress",
+        "Why students struggle schoolwork commutes",
+        "Help students daily commuting",
+        "Student transportation problems",
+        "Make student commuting easier"
+    ],
+    "22": [
+        "economic crash signs",
+        "financial crisis warning signs",
+        "instability indicators",
+        "fragility factors",
+        "collapse risks"
+    ],
+    "23": [
+        "How does ai help students learn?",
+        "Ai in classrooms student grades",
+        "Does ai make school easier for students?",
+        "Can ai help me understand how to use technology better for teaching?",
+        "Is ai good or bad for students education?"
+    ],
+    "24": [
+        "What are cash flow management tips for small businesses with debt?",
+        "How can small businesses manage cash flow when in debt?",
+        "Small business cash flow management debt reduction strategies",
+        "Cash flow management for small businesses with debt issues",
+        "Debt reduction cash flow management tips for small business owners"
+    ],
+    "25": [
+        "Is it true that social class shapes language use in everyday conversations?",
+        "Can you give examples of regional dialects influencing language learning outcomes?",
+        "Do women's language styles vary across cultures due to societal expectations?",
+        "How do linguistic variations impact communication in multicultural teams?",
+        "Are there any studies on the relationship between education level and linguistic creativity?"
+    ],
+    "26": [
+        "ERIC education research",
+        "Teacher professional development resources",
+        "Local education initiatives",
+        "Education data analysis ERIC",
+        "Effective teaching methods"
+    ],
+    "27": [
+        "What makes a good hotel service?",
+        "Can you tell me about employee satisfaction surveys in hospitality?",
+        "How do hotels improve customer experience?",
+        "What role does staff training play in service climate improvement?",
+        "Do happy employees lead to satisfied customers in hotels?"
+    ],
+    "28": [
+        "What causes pollution?",
+        "How do people throw trash away wrong?",
+        "Waste problems",
+        "Why is littering bad?",
+        "Fixing waste"
+    ],
+    "29": [
+        "why can't i stop scrolling on social media",
+        "how do schools help students with social media addiction",
+        "is social media really that addictive",
+        "what are the long term effects of social media addiction",
+        "how to overcome my social media obsession"
+    ],
+    "30": [
+        "Good garden soil types",
+        "Clay soil solution",
+        "Organic matter in soil",
+        "How does pH affect soil quality",
+        "Improve soil structure tips"
+    ],
+    "31": [
+        "What can improve student grades?",
+        "Why do students have trouble in school?",
+        "Student success strategies",
+        "How to help students perform well?",
+        "What are some common student struggles?"
+    ],
+    "32": [
+        "AI algorithmic fairness metrics",
+        "Generative model moral hazard examples",
+        "Machine learning bias mitigation strategies",
+        "Automatic decision-making accountability laws",
+        "Consequences of biased AI system implementations"
+    ],
+    "33": [
+        "how do breeders increase hatch rates",
+        "why don't breeder eggs always hatch",
+        "what affects commercial broiler breeder egg hatchability",
+        "how does egg weight impact hatchability in chickens",
+        "why is hatchability so low in some breeder flocks"
+    ],
+    "34": [
+        "What are the long-term effects of excessive social media use on students' mental health?",
+        "How do differences in academic discipline influence the relationship between social media usage and student achievement?",
+        "Are there any studies that suggest a correlation between social media addiction and decreased academic performance?",
+        "Can social media platforms really improve educational outcomes, or is it just a marketing gimmick?",
+        "Do students who regularly use social media perform worse or better on standardized tests compared to their non-social-media-using peers?"
+    ],
+    "35": [
+        "Space mission planning",
+        "Scheduling Earth remote sensing missions",
+        "Role of AI in spacecraft operations",
+        "Optimizing spacecraft trajectories",
+        "Challenges faced by space mission control teams"
+    ],
+    "36": [
+        "political alliances",
+        "power struggles politics",
+        "groupthink politics",
+        "confirmation bias politicians",
+        "building coalitions government"
+    ],
+    "37": [
+        "Can behavioral changes influence household food waste reduction?",
+        "What role does supply chain management play in minimizing food waste generation?",
+        "Are strategies for food waste reduction effective in low-income households?",
+        "How do urban planning initiatives contribute to reducing household food waste?",
+        "Which policy frameworks effectively address the issue of food waste?"
+    ],
+    "38": [
+        "Behavior management strategies for Philippine schools",
+        "Improving student behavior outcomes in Filipino schools",
+        "Effective classroom interventions for Philippine elementary students",
+        "Teacher training programs for improving school behavior",
+        "Best practices for school policy implementation in the Philippines"
+    ],
+    "39": [
+        "what programming languages are used in robotics projects",
+        "how does computer science apply to robotics engineering",
+        "can machine learning be applied to control robotic arms",
+        "what are some common applications of natural language processing",
+        "how do computer vision algorithms work in autonomous systems"
+    ],
+    "40": [
+        "Are people generally okay with having automated showers?",
+        "Do studies show that users like automatic showers?",
+        "How do people react when they first use an automated shower?",
+        "Is using an automated shower really that big of a deal?",
+        "Can anyone tell me about their experience with an automated shower?"
+    ],
+    "41": [
+        "WATER PUMPING SYSTEMS",
+        "SOLAR WELL PUMPS",
+        "EFFICIENT WATERS SUPPLY SOLUTIONS",
+        "RENEWABLE ENERGY FOR WATER EXTRACTION",
+        "GREEN TECHNOLOGY FOR IRRIGATION"
+    ],
+    "42": [
+        "fluid flow problems",
+        "pipe flow analysis software",
+        "fluid dynamics simulation tools",
+        "reverse flow pipe design",
+        "flow turbulence modeling"
+    ],
+    "43": [
+        "why do college students struggle with myers-briggs",
+        "how does personality influence academic performance",
+        "effective ways to apply myers-briggs in education",
+        "what are common challenges faced by estj students",
+        "understanding individual differences in learning styles"
+    ],
+    "44": [
+        "What's the most pressing environmental concern with banana peel paper production?",
+        "How does banana peel paper impact the overall eco-friendliness of products that use it?",
+        "Can you tell me more about the companies pioneering sustainable paper production from banana peels?",
+        "Are there any emerging trends or innovations in banana peel paper technology?",
+        "What are some potential applications for banana peel paper beyond traditional printing and writing?"
+    ],
+    "45": [
+        "Malaysian Chinese diaspora",
+        "British colonial impact on Malaysian Chinese",
+        "Malaysian Chinese cultural traditions",
+        "World War II effects on Malaysian Chinese community",
+        "Malaysian Chinese historical fiction books"
+    ],
+    "46": [
+        "What's going on with language representation in movies?",
+        "Code-switching in film: successes and failures",
+        "Can films effectively portray multilingualism?",
+        "How do filmmakers tackle code-switching for believable storytelling?",
+        "Language learners' take on cinematic linguistic diversity"
+    ],
+    "47": [
+        "what are some best practices for customs clearance",
+        "how do different customs brokers handle international shipping",
+        "what features do top customs clearance platforms offer",
+        "how to ensure compliance with customs regulations",
+        "strategies for efficient customs clearance operations"
+    ],
+    "48": [
+        "Gamification in education",
+        "STEM learning outcomes Roblox",
+        "Education technology trends 2023",
+        "Roblox instructional design",
+        "Play-based learning impact"
+    ],
+    "49": [
+        "What natural adhesives exist",
+        "Can cassava peels be used for crafts",
+        "Are there studies on plant-based binding agents",
+        "Do people use plant peel adhesives traditionally",
+        "Strongest plant-based adhesive"
+    ],
+    "50": [
+        "Is there a link between working remotely and feeling unfulfilled?",
+        "Can you explain why some people think remote workers are less productive?",
+        "How does the way others perceive me affect my job satisfaction as a remote worker?",
+        "Do remote workers tend to be more or less stressed than traditional office workers?",
+        "Is there a correlation between working remotely and having lower self-esteem?"
+    ],
+    "51": [
+        "What's not working with inclusive education for students with disabilities?",
+        "How can we improve inclusive education for students with disabilities?",
+        "Why do some inclusive education programs fail to meet student needs?",
+        "Can you share your worst experience with inclusive education and how it was resolved?",
+        "What's the most critical step in creating an inclusive education environment?"
+    ],
+    "52": [
+        "plastic pollution philippines solutions",
+        "southeast asia oceanic microplastic removal",
+        "marine conservation efforts 2022",
+        "personal care products plastic pollution",
+        "microplastics environmental policy changes"
+    ],
+    "53": [
+        "Why do online sellers struggle with communication?",
+        "How to overcome cultural barriers in e-commerce",
+        "Common misunderstandings in online transactions",
+        "Strategies for improving buyer-seller interactions",
+        "Language differences affecting e-commerce success"
+    ],
+    "54": [
+        "Teaching kids about natural disasters",
+        "How to prepare students for emergency situations",
+        "Natural disaster education strategies",
+        "Disaster awareness in schools",
+        "Emergency response planning"
+    ],
+    "55": [
+        "bamboo health risks",
+        "how safe are bamboo plants",
+        "cyanide in bamboo roots",
+        "bambusa vulgaris toxic effects",
+        "bamboo plant safety guidelines"
+    ],
+    "56": [
+        "AI mixed methods research applications",
+        "AI influence methodology mixed-methods studies",
+        "AI data analysis mixed-methods studies",
+        "AI algorithm mixed-methods research",
+        "AI tools data visualization mixed-methods studies"
+    ],
+    "57": [
+        "allergy symptoms",
+        "skin reaction treatment",
+        "airborne allergens",
+        "immune system reactions",
+        "medical articles"
+    ],
+    "58": [
+        "What is stratigraphy",
+        "Genetic sequence search engine",
+        "Simple stratigraphic analysis",
+        "Meaning of genetic sequences",
+        "What is genetic sequence"
+    ],
+    "59": [
+        "small business growth strategies",
+        "economic downturns impact small businesses",
+        "entrepreneur budgeting tips",
+        "successful small business financial planning examples",
+        "small business financial management advice"
+    ],
+    "60": [
+        "What happens when cost-push inflation hits interest rates?",
+        "Raw materials prices going up due to cost push inflation, what's next?",
+        "Why are wages stuck in a cost-push inflation economy?",
+        "Can cost-push inflation cause deflation?",
+        "Is cost-push inflation bad for long-term economic health?"
+    ],
+    "61": [
+        "Can AI help improve IoT cybersecurity?",
+        "How does blockchain enhance IoT security?",
+        "Is AI useful in securing IoT devices?",
+        "Can you explain how AI and blockchain work together for cybersecurity?",
+        "Do AI-powered solutions improve IoT network monitoring?"
+    ],
+    "62": [
+        "AI learning outcomes",
+        "AI educational settings",
+        "Machine learning STEM performance",
+        "AI personalized learning studies",
+        "AI administrative tasks"
+    ],
+    "63": [
+        "Technology based training for social workers",
+        "Online courses in social work technology",
+        "AI applications in social work education",
+        "Social work education technology trends",
+        "Online certification programs for social work professionals"
+    ],
+    "64": [
+        "Can schools really fix the damage from technology?",
+        "How can parents stop their kids from getting distracted by mobiles?",
+        "Do educational programs that ban gadgets work better?",
+        "Is there a link between screen time and grades for high school students?",
+        "What can teachers do to minimize phone use in class?"
+    ],
+    "65": [
+        "What causes academic pressure to negatively impact students' well-being?",
+        "How do parental expectations affect student mental health?",
+        "What happens when schools prioritize academics over extracurricular activities?",
+        "Can excessive homework lead to long-term negative effects on students' motivation?",
+        "Why do high-achieving students often struggle with burnout?"
+    ],
+    "66": [
+        "Dimensional tolerance management techniques",
+        "Construction dimensional tolerance errors",
+        "Best dimensional tolerance strategies",
+        "Reducing dimensional tolerance mistakes",
+        "Effective dimensionality management"
+    ],
+    "67": [
+        "Middleware optimization for hybrid processors in real-time operating systems",
+        "Debugging strategies for complex embedded system architectures",
+        "Efficiently integrating multiple processor types using software frameworks",
+        "Comparative analysis of integrated development environments for middleware development",
+        "Advanced debugging techniques for hybrid processor-based embedded systems"
+    ],
+    "68": [
+        "What happens when you're addicted to social media long-term?",
+        "Why do we crave dopamine from social media?",
+        "How does brain chemistry influence our social media habits?",
+        "What triggers emotions on social media and why?",
+        "Are there cognitive biases that contribute to social media addiction?"
+    ],
+    "69": [
+        "cleantech clusters",
+        "green portfolio optimization",
+        "sustainable energy network",
+        "renewable energy strategies",
+        "clean technology partnerships"
+    ],
+    "70": [
+        "How do SMEs optimize their internal accounting systems for inventory management?",
+        "What are some common pain points when implementing an internal accounting system for inventory tracking in SMEs?",
+        "Can you provide case studies on SMEs that successfully implemented internal accounting systems for complex inventory needs?",
+        "Why is accurate inventory tracking crucial for the financial health of small businesses with internal accounting systems?",
+        "How can I integrate my internal accounting system to track inventory levels and optimize supply chain management?"
+    ],
+    "71": [
+        "what are the drawbacks of zero hour employment",
+        "how do labor laws impact contract workers",
+        "why is flexible work becoming a trend",
+        "what implications does zero hour have on traditional employment",
+        "can alternative labor arrangements replace traditional jobs"
+    ],
+    "72": [
+        "genetic cattle research papers",
+        "cattle breeding genetic discoveries",
+        "genetics in cattle farming",
+        "cattle genetics breakthroughs found",
+        "breed genetic analysis tools"
+    ],
+    "73": [
+        "how to improve rural areas",
+        "best strategies for rural development",
+        "planning projects for rural communities",
+        "community engagement in rural development",
+        "rural socio-economic challenges"
+    ],
+    "74": [
+        "What does EPWP do?",
+        "How does Ethekwini benefit?",
+        "Why is EPWP important?",
+        "What kind of projects does EPWP support?",
+        "Can I get summary?"
+    ],
+    "75": [
+        "nanogel delivery systems gadolinium",
+        "imaging agents gadolinium based",
+        "MRI contrast agent limitations gadolinium",
+        "rare earth elements biomedical applications",
+        "gadolinium loaded nanoparticles development"
+    ],
+    "76": [
+        "worst college hostels mistakes",
+        "top college dorms amenities",
+        "student housing horror stories",
+        "best college accommodations pros cons",
+        "college hostel experiences nightmares"
+    ],
+    "77": [
+        "Poverty reduction strategies China",
+        "Social welfare system poverty China",
+        "Chinese government poverty alleviation programs",
+        "Foreign aid rural poverty China",
+        "Market-based poverty reduction China"
+    ],
+    "78": [
+        "Drilling machine limitations",
+        "Common drilling machine applications",
+        "Modern drilling machine advancements",
+        "Drilling machine performance issues",
+        "Effective drilling machine techniques"
+    ],
+    "79": [
+        "financial planning tools",
+        "financial investing basics",
+        "online financial advice",
+        "financial management strategies",
+        "setting financial goals"
+    ],
+    "80": [
+        "RBI limitations and pitfalls in industrial settings driving frustration",
+        "Can predictive maintenance overcome RBI's shortcomings?",
+        "How do industries balance RBI costs with benefits",
+        "RBI effectiveness in mitigating risks for industrial equipment: what works, what doesn't?",
+        "Overcoming RBI implementation challenges"
+    ],
+    "81": [
+        "what is green innovation",
+        "sustainable development leaders",
+        "renewable energy policy",
+        "environmental think tanks",
+        "successful sustainability initiatives"
+    ],
+    "82": [
+        "sustainability metrics",
+        "csr standards",
+        "social impact reports",
+        "green supply chain",
+        "eco friendly business practices"
+    ],
+    "83": [
+        "Oil field project management best practices",
+        "Successful energy industry project management strategies",
+        "Common oil and gas project challenges",
+        "Agile methodologies in oil and gas companies",
+        "Managing complex projects in the energy sector"
+    ],
+    "84": [
+        "health wellbeing statistics",
+        "community education programs",
+        "public health issues examples",
+        "healthy habits research studies",
+        "health education effectiveness metrics"
+    ],
+    "85": [
+        "what can i do about climate crisis now that nothing's working",
+        "top 10 ways to reduce carbon footprint fast",
+        "effective strategies for climate change mitigation immediately",
+        "best practices for sustainability leadership after all this time",
+        "how to make my daily life more eco-friendly without any progress"
+    ],
+    "86": [
+        "Morality without religion",
+        "Religious fundamentalism effects",
+        "Society without institutions",
+        "Religiosity trust correlation",
+        "Social norms beliefs"
+    ],
+    "87": [
+        "what's wrong with philippines lgbtq schools",
+        "lgbtq school experiences philippines stories",
+        "helping lgbtq students philippines",
+        "philippines anti-lgbtq violence in schools",
+        "why is philippines lgbtq schooling so hard"
+    ],
+    "88": [
+        "How do teachers approach teaching geometry in modern classrooms?",
+        "What resources are available online to help students learn geometry effectively?",
+        "Can you share some tips on how to overcome common challenges when learning geometry?",
+        "Are there any notable educational institutions that have seen success with their geometry curricula?",
+        "What role does technology play in enhancing student understanding of geometric concepts?"
+    ],
+    "89": [
+        "bone cancer symptoms",
+        "bone cancer treatments",
+        "causes of bone cancer",
+        "bone cancer pain relief",
+        "bone cancer prognosis"
+    ],
+    "90": [
+        "Why is FSG involved in so many military operations?",
+        "How does Hong Kong-based Frontier Services Group's military presence affect global politics?",
+        "What drives FSG to provide humanitarian support with its armed forces?",
+        "Can you explain the benefits of having a Hong Kong-based company like FSG involved in international military operations?",
+        "Is there any connection between FSG's commitment to the armed forces and its business practices?"
+    ],
+    "91": [
+        "Fiber length affects strength",
+        "Types of natural fibers used",
+        "Successful projects examples",
+        "Mixing techniques impact properties",
+        "Water-to-cement ratio correlation"
+    ],
+    "92": [
+        "tunnel problems",
+        "construction failures",
+        "boring machines efficiency",
+        "underground issues",
+        "tunnel costs"
+    ],
+    "93": [
+        "hypofractionation benefits",
+        "prostate cancer treatment outcomes",
+        "hypofractionation side effects",
+        "clinical trials prostate cancer hypofractionation",
+        "hypofractionation in other cancers"
+    ],
+    "94": [
+        "What are the implications of AI's increasing role in academia?",
+        "How does AI impact the academic publishing process?",
+        "Can AI really augment or replace human expertise in research and writing?",
+        "Are there any ethical considerations surrounding AI-assisted academic writing?",
+        "Does the use of AI in academic writing compromise academic integrity?"
+    ],
+    "95": [
+        "What are some of the most effective ways AI can detect leaf diseases?",
+        "How does deep learning improve plant disease diagnosis in recent research?",
+        "Can you recommend recent papers on using AI in plant disease detection?",
+        "What's the latest research on using machine learning for plant disease diagnosis?",
+        "How do experts use AI to identify and diagnose plant leaf diseases?"
+    ],
+    "96": [
+        "rapeseed biofuel yields",
+        "alternatives to rapeseed oil",
+        "biodiesel from rape seed production",
+        "rape seed cultivation problems",
+        "biofuel research breakthroughs 2020"
+    ],
+    "97": [
+        "What happens when students don't get enough sleep?",
+        "How does social media affect college students' academic performance?",
+        "Can poor sleep quality hurt your grades?",
+        "Does lack of sleep cause kids to do worse in school?",
+        "Is it true that not sleeping well can ruin your learning?"
+    ],
+    "98": [
+        "What is pharmacogenetics used for in antiplatelet therapy?",
+        "How do genetic variations affect clopidogrel treatment in Malaysia?",
+        "Is there a link between CYP2C19 and platelet function?",
+        "Can you give examples of successful pharmacogenetic implementation?",
+        "What are the challenges in integrating pharmacogenetics into clinical practice?"
+    ],
+    "99": [
+        "What makes some teacher training programs more effective?",
+        "Can you show me examples of successful teacher training outcomes?",
+        "How do teachers learn from their own experiences?",
+        "Is there a way to measure if teacher training actually helps students?",
+        "What are some common mistakes when designing teacher training programs?"
+    ],
+    "100": [
+        "rapeseed pros",
+        "rapeseed oil to diesel conversion",
+        "rapeseed in sustainable energy",
+        "rapeseed vs soybean fuel efficiency",
+        "rapeseed alternative fuels research"
+    ],
+    "101": [
+        "ASSAM army staff",
+        "ASSAM chief head",
+        "ASSAM military leaders",
+        "ASSAM command structure",
+        "ASSAM chief role"
+    ],
+    "102": [
+        "What are the most critical factors affecting mental health in higher education?",
+        "How do online learning platforms address the needs of non-traditional students?",
+        "What are some successful strategies for supporting adult learners in higher education?",
+        "Can you provide statistics on the impact of student debt on mental well-being?",
+        "Which higher education institutions have implemented innovative programs to support student well-being?"
+    ],
+    "103": [
+        "Why is machine learning not widely applied to chronic disease prevention despite its potential?",
+        "What are the most significant challenges in developing accurate forest fire prediction models using ML?",
+        "How can machine learning be used to identify high-risk medical device failure patterns?",
+        "Are there any environmental factors that can be used as early warning signs for chronic diseases?",
+        "Can predictive analytics and machine learning improve public health policy decision-making?"
+    ],
+    "104": [
+        "What good about sweet potato doughnuts",
+        "How are sweet potato doughnuts different",
+        "Are sweet potato doughnuts healthier",
+        "Can I use carrots in doughnut recipes",
+        "What flavor combos for sweet potato doughnuts"
+    ],
+    "105": [
+        "Speciosa diabetes treatment",
+        "Lagerstroemia antidiabetic compounds",
+        "Herbal remedies for type 2 diabetes",
+        "Antioxidant properties of speciosa leaves",
+        "Medicinal uses of Lagerstroemia speciosa in diabetes"
+    ],
+    "106": [
+        "APSIM problems",
+        "APSIM limitations",
+        "APSIM data issues",
+        "APSIM usage examples",
+        "APSIM errors"
+    ],
+    "107": [
+        "What helps senior high school students cope with stress?",
+        "How does academic pressure affect block blast game-playing habits?",
+        "Do educational games like block blast boost math confidence in anxious seniors?",
+        "Can playing video games reduce anxiety among senior high school students?",
+        "Are there any studies on the impact of stress and gaming habits on senior high school performance?"
+    ],
+    "108": [
+        "english movies",
+        "american films",
+        "black cinema",
+        "movie scripts",
+        "film dialogues"
+    ],
+    "109": [
+        "What's it like being a stem teacher with high value of time?",
+        "How do stem teachers manage their workload despite valuing their time highly?",
+        "Can you share some common challenges faced by stem teachers regarding time management?",
+        "Are there any specific personality traits that help stem teachers prioritize their time effectively?",
+        "What unique stressors do stem teachers face due to high value of time, and how do they cope?"
+    ],
+    "110": [
+        "Convolutional neural networks in practice how do they work",
+        "Neural network architectures explained in simple terms",
+        "Beginner's guide to convolutional neural network implementation",
+        "Applying convolutional neural networks to image processing algorithms",
+        "Simple explanations of convolutional neural network concepts"
+    ],
+    "111": [
+        "Why does mobile gaming affect students' grades?",
+        "How do parents know if kids have gaming addiction?",
+        "Can too much gaming ruin students' motivation?",
+        "What happens when kids get addicted to games?",
+        "Does gaming addiction harm student mental health?"
+    ],
+    "112": [
+        "Criminology graduate employability worldwide",
+        "Countries with high demand for criminology majors",
+        "Industries hiring BS Criminology graduates abroad",
+        "Regional variation in criminology graduate employment rates",
+        "Job market for criminology majors internationally"
+    ],
+    "113": [
+        "Autoimmune disease treatment options",
+        "Chronic inflammation research updates",
+        "Gut health connection to mental clarity",
+        "Vegan diet and chronic fatigue syndrome",
+        "Plant-based eating and longevity"
+    ],
+    "114": [
+        "atlantic currents effects",
+        "climate change impact ocean",
+        "global warming sea level rise",
+        "oceanic responses changes",
+        "circulation patterns effects"
+    ],
+    "115": [
+        "Cell types",
+        "Gene expression",
+        "Single cell analysis",
+        "Cellular differences",
+        "RNA sequencing data"
+    ],
+    "116": [
+        "online threat types",
+        "cyber attack techniques",
+        "google threat detection methods",
+        "understanding threat analysis",
+        "detecting online threats"
+    ],
+    "117": [
+        "How do elderly people participate online",
+        "What is digital exclusion in seniors healthcare",
+        "Aging population access internet statistics",
+        "Seniors' digital literacy program effectiveness",
+        "Can telehealth benefit seniors with disabilities"
+    ],
+    "118": [
+        "Why do logistics and supply chain problems cause project delays?",
+        "Can you explain how companies reduce inefficiencies in their supply chains?",
+        "What are some common mistakes that lead to costly overruns in metro projects?",
+        "How can I improve my understanding of global logistics and supply chain management?",
+        "What steps can businesses take to mitigate risks in their supply chain operations?"
+    ],
+    "119": [
+        "How does self-efficacy affect student motivation?",
+        "What role do mental models play in planned behavior?",
+        "Can mindfulness reduce academic stress?",
+        "Does procrastination affect motivation differently?",
+        "How can we boost self-efficacy for better grades?"
+    ],
+    "120": [
+        "Non-linear economic dynamics",
+        "Quantitative financial modeling tools",
+        "Market inefficiency detection methods",
+        "Adaptive trading systems research",
+        "Complex system analysis in finance"
+    ],
+    "121": [
+        "What strategies can I use to teach math and science effectively using Filipino language?",
+        "How do educators in the Philippines approach teaching STEM subjects in Filipino?",
+        "Can you provide resources for teaching math and science with Filipino as a medium of instruction?",
+        "What are some benefits of incorporating Filipino culture into my math and science lessons?",
+        "Are there any online courses or tutorials that offer bilingual education in math and science?"
+    ],
+    "122": [
+        "What are the consequences of having an absent parent?",
+        "How does parental absence affect students' mental health?",
+        "Are there any correlations between parental absenteeism and academic achievement?",
+        "Does being away from a parent impact a child's sense of identity?",
+        "What are some common issues faced by children with absent parents?"
+    ],
+    "123": [
+        "HANDLOOM CLOTH MARKETING STRATEGIES IN INDIA",
+        "EFFECTIVENESS OF DIGITAL MARKETING FOR HANDLOOM CLOTHS IN INDIA",
+        "CASE STUDIES ON SUCCESSFUL HANDLOOM CLOTH MARKETING CAMPAIGNS IN INDIA",
+        "HOW TO INCREASE AWARENESS ABOUT HANDLOOM CLOTHS AMONG YOUNGER AUDIENCES IN INDIA",
+        "HANDLOOM CLOTH MARKETING TRENDS AND FORECASTS FOR THE NEXT 3 YEARS"
+    ],
+    "124": [
+        "weed control methods lantana",
+        "invasive plant management reports 2019",
+        "botanical classification lantana camara species",
+        "environmental impact studies lantana 2019",
+        "research papers on controlling lantana"
+    ],
+    "125": [
+        "what is altai culture like",
+        "ancient people of altai mountains",
+        "altai ethnic groups overview",
+        "history of altai language development",
+        "significance of altai civilization"
+    ],
+    "126": [
+        "virginia land records",
+        "buckingham county history books",
+        "cumberland county maps online",
+        "virginia colonial settlements",
+        "historical va counties maps"
+    ],
+    "127": [
+        "Tourism carrying capacity in West Kalimantan",
+        "Sustainable tourism studies Indonesian national parks",
+        "Ecotourism impact local communities Gunung Halimun Salak National Park",
+        "Tourist behavior ecological carrying capacity Bengkayang district",
+        "Managing tourist flows Sepancong Hill"
+    ],
+    "128": [
+        "High-turnover industries burnout strategies",
+        "Leadership styles work-life balance",
+        "Employee engagement turnover mitigation",
+        "Company culture well-being promotion",
+        "Mentorship job satisfaction impact"
+    ],
+    "129": [
+        "Journalism tips",
+        "Get help journalism",
+        "Journalist basics",
+        "How journalism works",
+        "Simple journalism"
+    ],
+    "130": [
+        "What makes pandemic-related shutdowns so devastating for car plants?",
+        "Can you show me some real-world examples of how COVID-19 hit automotive industries hard?",
+        "Why do pandemics have such a significant impact on global car production numbers?",
+        "How does the automotive industry usually recover from pandemic-induced supply chain disruptions?",
+        "What are some long-term effects we can expect from COVID-19's influence on car manufacturing?"
+    ],
+    "131": [
+        "Public cloud",
+        "Cloud options",
+        "Hybrid cloud",
+        "What public cloud",
+        "Best clouds"
+    ],
+    "132": [
+        "brine discharge info",
+        "col discharge search",
+        "lounge discharge meaning",
+        "what is brine discharge",
+        "surface discharge meaning"
+    ],
+    "133": [
+        "corporate tax rules",
+        "business competitiveness factors",
+        "optimal company performance",
+        "corporate governance best practices",
+        "taxation competitiveness research"
+    ],
+    "134": [
+        "what is deep vein thrombosis",
+        "why dvt diagnosis wrong",
+        "how compression ultrasound works",
+        "common dvt complications",
+        "dvt vs pulmonary embolism"
+    ],
+    "135": [
+        "africa refugees",
+        "refugee camps",
+        "burundi crisis",
+        "somali aid",
+        "humanitarian help"
+    ],
+    "136": [
+        "What affects student grades",
+        "How does family income affect education",
+        "Can budgeting help students succeed",
+        "Do parents' financial status impact education",
+        "Why do low-income students struggle"
+    ],
+    "137": [
+        "How do infrastructure companies prioritize and mitigate risks in project development",
+        "What are some common risk management frameworks used by infrastructure firms",
+        "Can you provide examples of successful risk mitigation strategies used by infrastructure companies to manage uncertainty",
+        "Are there any best practices for identifying and prioritizing potential risks in infrastructure projects",
+        "How do business leaders assess and mitigate risks in infrastructure development to ensure project success"
+    ],
+    "138": [
+        "crude distillation optimization techniques",
+        "designing crude distillation processes",
+        "optimizing crude distillation operations",
+        "crude distillation process control methods",
+        "improving crude distillation efficiency"
+    ],
+    "139": [
+        "What do students look for in online learning resources?",
+        "How do academic libraries address information literacy in their instruction programs?",
+        "Can you explain the relationship between library anxiety and student motivation?",
+        "Are there any studies on the impact of digital literacy skills on college students' success?",
+        "What are some effective strategies for teaching critical thinking in higher education courses?"
+    ],
+    "140": [
+        "How does Nigeria's government respond to high inflation rates?",
+        "What are the long-term effects of inflation on government spending in Africa?",
+        "Inflation's impact on public finances: what do experts say about developing economies?",
+        "Effects of high inflation on fiscal policy implementation in low-income countries",
+        "What are the economic consequences of high inflation for government expenditure in Nigeria?"
+    ],
+    "141": [
+        "car problems website",
+        "cheapest car fixes",
+        "my car won't start",
+        "online car help",
+        "fix my broken car"
+    ],
+    "142": [
+        "What's the big deal about total asset ratios in banking?",
+        "Loan and advances ratio not doing it - what else should I look at?",
+        "How do bank financials tie into profitability metrics like this ratio?",
+        "Why is loan to assets ratio not giving me a clear picture of bank success?",
+        "Is there more to loan-to-asset ratio than just looking at numbers?"
+    ],
+    "143": [
+        "What's the best therapy for fixing spastic diplegia gait issues?",
+        "How do physical therapists treat cerebral palsy spasticity in kids with bad walking habits?",
+        "Are there any new treatments for cerebral palsy spasticity affecting leg movement?",
+        "What's the difference between regular and constraint-induced physiotherapy for spastic diplegia?",
+        "Can you explain neuroplasticity in cerebral palsy physiotherapy?"
+    ],
+    "144": [
+        "why flow batteries always fail",
+        "iron chromium battery not working",
+        "energy storage solutions that work",
+        "alternative battery types please",
+        "what's wrong with liquid flow batteries"
+    ],
+    "145": [
+        "bilingual kids language development",
+        "cognitive benefits bilingual children",
+        "bilingual education effectiveness",
+        "bilingual language acquisition parents",
+        "bilingual speech therapy"
+    ],
+    "146": [
+        "Airport energy efficiency measures failing to address climate change",
+        "Effective strategies for integrating renewable energy sources into airport operations",
+        "Balancing energy consumption with sustainability goals in airports",
+        "Airport-based initiatives prioritizing energy efficiency and climate adaptation",
+        "Smart grids optimizing airport energy usage"
+    ],
+    "147": [
+        "hiv pediatric therapy limitations",
+        "child hiv resistance issues",
+        "new antiretroviral therapy for kids",
+        "pediatric hiv treatment challenges",
+        "hiv treatment failure in children's management"
+    ],
+    "148": [
+        "disability maritime jobs",
+        "accessibility offshore workers",
+        "mobility impairment ship crew",
+        "inclusive hiring oil gas sector",
+        "support services seafarers disabled"
+    ],
+    "149": [
+        "PMC involvement in proxy wars",
+        "Private military company CEOs",
+        "Concord-M operations globally",
+        "Prigozhin's company role in global politics",
+        "Russian private military companies like Prigozhin's"
+    ],
+    "150": [
+        "Soil nutrient deficiencies",
+        "Organic gardening methods",
+        "Fertilizer options",
+        "Composting benefits",
+        "Plant care tips"
+    ],
+    "151": [
+        "poe's influence on modern literature",
+        "death imagery in romantic poetry",
+        "symbolism of ravens in mythology",
+        "poetic devices used by american writers",
+        "gothic fiction authors"
+    ],
+    "152": [
+        "Why do multitask neural networks perform better in simulated wastewater treatment plant sensor forecasting?",
+        "How can I improve the accuracy of early warning systems for wastewater treatment plants using LSTM models?",
+        "What are limitations of LSTM-based early warning systems in wastewater treatment plants?",
+        "Can you provide case studies on successful implementation of LSTM-based early warning systems?",
+        "How architecture and hyperparameters impact performance of LSTM models in predicting sensor data?"
+    ],
+    "153": [
+        "How do drones get used in attacks",
+        "What are the best ways to defend against drone strikes",
+        "Can unmanned aerial vehicles be used for good or bad purposes",
+        "Is it possible to use drones for one-way attacks only",
+        "Are there any drone attack strategies that can cause significant damage"
+    ],
+    "154": [
+        "What's the point of CatVap if it's not being used?",
+        "How does CatVap work in real-world applications?",
+        "Is CatVap worth exploring further or is it just hype?",
+        "Can you explain how CatVap changes the game for solar power?",
+        "Why isn't CatVap as widely adopted as other technologies?"
+    ],
+    "155": [
+        "What's the emotional toll on caregivers when raising multiple siblings with autism?",
+        "How do sibling relationships with autism affect overall family dynamics?",
+        "Can therapy help improve social skills for kids with autism in family settings?",
+        "Do parents' mental health concerns impact their ability to support children with autism?",
+        "How can early intervention strategies positively influence families of children with autism?"
+    ],
+    "156": [
+        "What makes people successful in monetizing their passions?",
+        "Can turning my passion into a business really make me wealthy?",
+        "How do I know if my passion is worth pursuing financially?",
+        "Are there any success stories of people who turned their hobbies into full-time careers?",
+        "Is it possible to turn my passion into a profitable side hustle?"
+    ],
+    "157": [
+        "How do health concerns change as people age?",
+        "Can exercise really prevent dementia in elderly people?",
+        "What's the best way to improve mobility for seniors at risk of falling?",
+        "Are there any senior-friendly exercises that target overall well-being?",
+        "How can I help my aging parents stay healthy and happy?"
+    ],
+    "158": [
+        "weather records by country",
+        "climate data by nation",
+        "extreme weather events worldwide",
+        "international weather monitoring systems",
+        "country-specific weather forecasts"
+    ],
+    "159": [
+        "police interview tips",
+        "effective analysis methods",
+        "law enforcement communication strategies",
+        "conversation topics for research",
+        "simple discourse analysis"
+    ],
+    "160": [
+        "colonialism harm",
+        "why colonialism failed",
+        "impact of colonialism on culture",
+        "colonialism in africa effects",
+        "was colonialism necessary"
+    ],
+    "161": [
+        "Can't I just find an easy way to test Android GUI without so much complexity?",
+        "Why do automated testing tools struggle with Android app GUIs?",
+        "How do developers make sure their Android apps pass all the tests?",
+        "What's the best approach to GUI testing for Android games?",
+        "Is there a simple solution for testing Android GUI elements effectively?"
+    ],
+    "162": [
+        "what are the benefits of mppt in solar power",
+        "how does maximum power point tracking improve solar panel performance",
+        "advantages of using mppt controller in renewable energy systems",
+        "comparison of mppt algorithms for solar energy applications",
+        "importance of mppt in increasing solar panel efficiency"
+    ],
+    "163": [
+        "ugh I always say things without thinking how do i stop",
+        "can you give me examples of famous quotes about not jumping to conclusions",
+        "how do i improve my self-reflection skills like socrates",
+        "is it possible to train yourself to think before speaking",
+        "why do I always regret saying something without thinking"
+    ],
+    "164": [
+        "Imagery devices in poetry metaphors",
+        "Literary symbolism examples used",
+        "Poetry figurative language techniques",
+        "Metaphor analysis tools symbolism",
+        "Poetic imagery types of metaphor"
+    ],
+    "165": [
+        "how to handle office gossip on social media",
+        "can social media improve team collaboration at work",
+        "what are some benefits of using company-approved social media platforms",
+        "do employers monitor employee social media usage during working hours",
+        "can social media be used for professional development in the workplace"
+    ],
+    "166": [
+        "Arts students in Asia wasting too much time! Help!",
+        "What time management strategies can Asian arts students use?",
+        "Best time management models for arts students in Asia",
+        "Effective time management tips for Asian arts students",
+        "Asian arts students need better time management"
+    ],
+    "167": [
+        "Is excessive social media use linked to poor communication skills in students?",
+        "What are the effects of online addiction on youth's meaningful conversations?",
+        "Can overreliance on technology hinder teenagers' verbal and nonverbal communication?",
+        "Does excessive tech usage impact young people's interpersonal relationships?",
+        "Are there correlations between social media dependency and students' poor communication skills?"
+    ],
+    "168": [
+        "How do automated energy management systems improve power grid resilience",
+        "What are common challenges in implementing load balancing AEMS",
+        "Can predictive analytics benefit AEMS",
+        "Does real-time data collection enhance AEMS decision-making",
+        "Successful AEMS implementation case studies"
+    ],
+    "169": [
+        "how do caregivers handle stress",
+        "are there support groups for alzheimer's caregivers",
+        "what are common caregiver problems",
+        "can you suggest resources for alzheimer's caregiving stress",
+        "help with alzheimer's caregiver burnout"
+    ],
+    "170": [
+        "subpar canteen fare experiences",
+        "military food quality issues discussed",
+        "worst aspects canteen meals reviewed",
+        "poor ratings army rations analyzed",
+        "negative feedback military cuisine examined"
+    ],
+    "171": [
+        "what's the latest research on laptop use in education 2019",
+        "how do teachers effectively incorporate laptops into their curriculum",
+        "laptop implementation strategies for teachers in 2019",
+        "why some schools still struggle to integrate laptops properly",
+        "effective teaching methods with laptops"
+    ],
+    "172": [
+        "Why do small business marketing strategies often fail?",
+        "How can small businesses effectively segment their market?",
+        "What are common pitfalls in applying market positioning for small businesses?",
+        "Which marketing theories are most useful for small business success?",
+        "Can you explain the practical application of Porter's Five Forces in marketing?"
+    ],
+    "173": [
+        "customer loyalty in fast food",
+        "why people prefer certain fast food chains",
+        "fast food industry trends",
+        "effective marketing strategies for qsr",
+        "target audience for fast food"
+    ],
+    "174": [
+        "can lack of sleep really screw up my long-term memory",
+        "what's the best way to deal with insomnia when you're studying all night",
+        "do certain study techniques make me stay up too late",
+        "will meditation apps help me fall asleep faster during finals",
+        "are there any special services for students who can't sleep"
+    ],
+    "175": [
+        "Human behavior in national studies",
+        "Communication strategies examples national studies",
+        "Social influencers national study findings",
+        "National study human behavior social media",
+        "Communication patterns different cultures"
+    ],
+    "176": [
+        "Facebook bad for kids",
+        "Mental health teenagers phone use",
+        "Social media self-esteem teenagers",
+        "Phone addiction teenagers effects",
+        "Technology harm students mental"
+    ],
+    "177": [
+        "What are the common pitfalls in biodiversity conservation efforts?",
+        "Meycauyan bulacan environmental challenges impact analysis",
+        "Why do biodiversity conservation projects fail to achieve their goals?",
+        "Biodiversity conservation best practices for Philippine ecosystem protection",
+        "Conservation challenges faced by Meycauyan bulacan wildlife"
+    ],
+    "178": [
+        "How does bullying affect LGBTQ teens' mental health?",
+        "What can help bullied LGBTQ students feel less anxious?",
+        "Do teachers play a role in preventing bullying at school?",
+        "Can social media help stop online bullying against LGBTQ people?",
+        "What are some common emotional problems for bullied LGBTQ students?"
+    ],
+    "179": [
+        "Entrepreneurial mindsets influence strategic decision-making",
+        "Key takeaways from entrepreneurial impact on business strategy",
+        "Successful entrepreneurial ventures disrupting industries",
+        "Current research on entrepreneurial impact on business practices",
+        "Small businesses leveraging entrepreneurial thinking"
+    ]
+}
