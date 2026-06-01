@@ -1,0 +1,840 @@
+{
+  "meta": {
+    "team_name": "Split n' Simulate",
+    "run_name": "Split-n-Simulate-run2",
+    "description": "Persona  based user simulation using llama3.2. Each session is classified into one of 8 personas via a single session LLM classifier. The LLM then simulates the persona to predict the next query, using clicked results as primary context (clicks first approach). 5 candidate queries are generated per session and ranked by cosine similarity."
+  },
+  "0": [
+    "rice yield",
+    "rice yield optimization",
+    "rice agricultural practices",
+    "rice yield climate change",
+    "climate change impact rice crop"
+  ],
+  "1": [
+    "straubing vorm obern tor works",
+    "werner endres straubing publications",
+    "Werner endres straubing additional context",
+    "straubing works",
+    "straubing research paper"
+  ],
+  "2": [
+    "quality control products",
+    "supply chain management",
+    "working capital works",
+    "key performance indicator",
+    "cost reduction strategies"
+  ],
+  "3": [
+    "flexible talipes neonate symptoms",
+    "flexible talipes treatment options",
+    "neonatal talipes intervention methods",
+    "neonatal talipes flexibility studies",
+    "talonus equinovarus causes"
+  ],
+  "4": [
+    "warehouse management systems",
+    "warehouse process workflow",
+    "warehouse management software",
+    "warehouse operation efficiency solutions",
+    "warehouse operations optimization techniques"
+  ],
+  "5": [
+    "agriculture technology",
+    "agriculture productivity optimization",
+    "productivity improvement techniques",
+    "agricultural applications of ai",
+    "agricultural precision farming ai"
+  ],
+  "6": [
+    "concrete carbon sequestration materials",
+    "concrete alternatives for carbon sequestration",
+    "carbon sequestration materials",
+    "exposed aggregate carbon sequestration techniques",
+    "concrete materials with high cary"
+  ],
+  "7": [
+    "patient centered care outcomes",
+    "patient care models implementations",
+    "collaborative patient care interventions",
+    "collaborative patient care models",
+    "collaborative patient outcome research"
+  ],
+  "8": [
+    "autonomous reflection ai",
+    "ai ethics foundation",
+    "ai ethics framework",
+    "ai ethics officer role",
+    "ai ethics officer development"
+  ],
+  "9": [
+    "ad hoc position based routing",
+    "ad hoc routing protocol author works",
+    "position based routing with self signed locations",
+    "manet adhoc routing protocols",
+    "manet protocol implementation security analysis"
+  ],
+  "10": [
+    "speech recognition interference",
+    "speech recognition datasets",
+    "audio signals error correction",
+    "speechrecognition datasets",
+    "asr noise reduction techniques"
+  ],
+  "11": [
+    "induction motor speed controller design",
+    "induction motor predictive control code",
+    "induction motor short chopper control",
+    "motor control algorithm",
+    "sensorless motor controller design techniques"
+  ],
+  "12": [
+    "maintenance planning strategy optimization",
+    "maintenance planning",
+    "maintenance optimization algorithms",
+    "optimization techniques",
+    "data processing optimization"
+  ],
+  "13": [
+    "hindrance of fine art renaissance",
+    "art renaissance history",
+    "renaissance art revival hindrances",
+    "renaissance hindrance factor",
+    "art hindrance 15th century"
+  ],
+  "14": [
+    "formula student front wing material",
+    "formula student front wing designs",
+    "formula student wing design",
+    "formula student aerodynamics",
+    "fwi aerodynamics materials"
+  ],
+  "15": [
+    "peer tutoring outcomes",
+    "peer tutoring effectiveness",
+    "peer tutoring effectiveness studies",
+    "online tutoring models",
+    "peer instructional efficacy"
+  ],
+  "16": [
+    "strategy department food retail cost",
+    "retail product mix strategy",
+    "strategy retail merchandiser role job description",
+    "supplychainmanagement",
+    "supply chain management"
+  ],
+  "17": [
+    "information systems authors",
+    "category theory foundations",
+    "category theory isms",
+    "category theory is",
+    "information systems researchers"
+  ],
+  "18": [
+    "bn-600 design",
+    "bn-600 short form",
+    "BN-600 reactor model",
+    "bn600 environmental impacts",
+    "nuclear reactor designs"
+  ],
+  "19": [
+    "generalized quasilinearization fractional ode",
+    "differential transformation numerical methods adaptive nonlinear equations",
+    "adaptive multi-step differential transformation method",
+    "numerial method optimization nonlinear diff eq",
+    "newton nonlineardifferential eqs soln"
+  ],
+  "20": [
+    "liquid sodium cooled fast neutron reactor",
+    "fast neutron reactor designs",
+    "liquid sodium reactors applications",
+    "chinese nuclear reactor designs",
+    "advanced nuclear reactor designs"
+  ],
+  "21": [
+    "flexible flow shop game theoretic",
+    "flexible assembly optimization algorithms",
+    "discrete manufacturing optimization",
+    "assembly design optimization algorithms",
+    "game_theoretic_scheduling_fms"
+  ],
+  "22": [
+    "collaborative software development tool",
+    "collaborative software development strategies",
+    "collaborative dev tool platforms",
+    "collaborative platform attention",
+    "collaboration workflow enhancement"
+  ],
+  "23": [
+    "prostate cancer gwasis gene expression",
+    "prostate cancer gene expression datasets",
+    "prostate cancer pathway genes",
+    "prostate cancer pathway database",
+    "RGED gene expression kidney disease"
+  ],
+  "24": [
+    "machine architectures design",
+    "machine architectures for language design",
+    "seam tracking ai computer vision",
+    "seam tracking machines",
+    "robotic welding seam tracking related works"
+  ],
+  "25": [
+    "competitive genetic algo open shop",
+    "genetic open-shop comparison",
+    "job shop scheduling author publications",
+    "genetic algorithm implementation",
+    "genetic algorithm optimization techniques"
+  ],
+  "26": [
+    "IRGC kurds",
+    "IRGC ethnolinguistic groups",
+    "IRGC ethnic groups",
+    "irgc ethnicity in usa",
+    "IRGC ethnic group policy issues"
+  ],
+  "27": [
+    "iran ethnologist authors",
+    "syria kurdist ethnicity policies",
+    "iran ethno cultural studies",
+    "iran ethnology researcher",
+    "iranian ethnic groups"
+  ],
+  "28": [
+    "social media types",
+    "social media addiction symptoms",
+    "social media privacy effects",
+    "social media privacy features",
+    "social media privacy and misinformation"
+  ],
+  "29": [
+    "functional programming styles in c++",
+    "functional programming examples c++",
+    "functional programming languages",
+    "functional programming c++ implementation examples",
+    "c++ personalized media recommendation"
+  ],
+  "30": [
+    "knowledge based system document generation",
+    "knowledge based systems authors",
+    "document generation software development",
+    "knowledge_based_systems_document_generation",
+    "author identification tool"
+  ],
+  "31": [
+    "machine learning email marketing",
+    "machine learning attribution modeling",
+    "machine learning multitouch attribution",
+    "machine learning ad optimization",
+    "machine learning models for ad targeting"
+  ],
+  "32": [
+    "convex hull optimizations",
+    "convex hull algorithm implementations",
+    "convex hull polyhedron star shape",
+    "convex hull 3d construction methods",
+    "star shaped polyhedron delaunay"
+  ],
+  "33": [
+    "εconstraint optimization in design software",
+    "evolutionary constraint optimization with preferences",
+    "constrained optimization algorithms",
+    "evolutionary optimization constraints",
+    "optimization techniques"
+  ],
+  "34": [
+    "decentralized waste collection system problems",
+    "decentralized waste collection anambra nigeria",
+    "decentralized waste systems anambra",
+    "waste management strategies Anambra state",
+    "waste management technologies"
+  ],
+  "35": [
+    "data loss prevention for OSINT tools",
+    "osint data control solutions",
+    "osint free",
+    "data security measures",
+    "osint tool vendors"
+  ],
+  "36": [
+    "ppi network integration methods",
+    "PPI network analysis software",
+    "functional module classification",
+    "ppi network node enrichment",
+    "protein complex datasets"
+  ],
+  "37": [
+    "charles handy organisation",
+    "charles handy organizational culture",
+    "charles handy publication",
+    "charles handy management theory",
+    "charles handy leadership style"
+  ],
+  "38": [
+    "code-switching examples",
+    "code-switching techniques",
+    "code switching implementation",
+    "code switching examples",
+    "code-switching implementation languages"
+  ],
+  "39": [
+    "outdoor education research",
+    "outdoor education research studies",
+    "outdoor reverence practices in education",
+    "outdoor ed psychology",
+    "outdoor ed research papers"
+  ],
+  "40": [
+    "quantitative research methodology in technology studies",
+    "technology innovations gap research",
+    "quantitative tech research methods",
+    "tech type quantitative research papers",
+    "quantitative computer science analysis"
+  ],
+  "41": [
+    "cold war vietnam",
+    "vietnam cold war",
+    "Soviet Union Cold War",
+    "nixon policy",
+    "nixon vietnam"
+  ],
+  "42": [
+    "charcoal properties",
+    "charcoal environmental impact",
+    "sustainable charcoal alternatives",
+    "sustainable charcoal production",
+    "sustainable biofuels options"
+  ],
+  "43": [
+    "correlation tools",
+    "correlation coefficient datasets",
+    "correlation coefficients dataset",
+    "correlation studies examples",
+    "correlation coefficient regression examples"
+  ],
+  "44": [
+    "physicochemical compounds gac vinegar",
+    "gac fruit vinegar recipe success",
+    "gac fruit vinegar efficiency optimization techniques",
+    "gac fruit fermentation",
+    "fermentation processes"
+  ],
+  "45": [
+    "1,3,4-thiadiazole pharmacology",
+    "1,3,4-thiadiazole chemistry",
+    "synthesis methods 1,3,4-thiadiazole",
+    "shortened version of 'semicarbazone moieties in 1,3,4-thiadiazoles'",
+    "synthesis optimisation 134thiadiazole"
+  ],
+  "46": [
+    "algae based systems carbon sequestration",
+    "algae for biofuel conversion",
+    "algae biochemistry",
+    "sustainable biotechnology applications",
+    "microalgae cultivation methods"
+  ],
+  "47": [
+    "music type exercise endurance",
+    "music exercise impact",
+    "music duration exercise",
+    "music and exercise performance",
+    "music duration effect"
+  ],
+  "48": [
+    "microglia biology and physiology",
+    "microglia physiology reproductive processes",
+    "reproductive physiology",
+    "microglia function in neurodegenerative diseases",
+    "reproductive biology mechanisms"
+  ],
+  "49": [
+    "brain creativity functions",
+    "brain creative neuroscience",
+    "neural networks art creativity",
+    "creative problem solving techniques",
+    "cognitive psychology"
+  ],
+  "50": [
+    "certification readiness models",
+    "nc3 readiness assessments",
+    "education certifications training programs",
+    "nc3 certification programs",
+    "undergraduate certification training programs"
+  ],
+  "51": [
+    "zinc bromine applications",
+    "renewable flow battery technology",
+    "zinc bromide chemistry",
+    "zinc bromide properties",
+    "zincbromideproperties"
+  ],
+  "52": [
+    "parenting styles self identity development students",
+    "parenting styles self identity",
+    "parenting styles influence on student identity",
+    "parenting styles self identity development ligao community college",
+    "parenting styles self identity education research"
+  ],
+  "53": [
+    "grammar teaching strategies",
+    "teaching strategies grammar implementation",
+    "teaching effectiveness grammar",
+    "teaching grammar methods",
+    "effective grammar teaching methods"
+  ],
+  "54": [
+    "contract law regulations",
+    "contract law terms",
+    "contract law definitions",
+    "contract law policy development",
+    "contract governance"
+  ],
+  "55": [
+    "quantum computer europe military",
+    "quantum defence europe",
+    "quantum computing europe military applications",
+    "quantum computer military global power",
+    "quantum computing organizations worldwide"
+  ],
+  "56": [
+    "social media marketing strategies cafe businesses",
+    "social media optimization cafe",
+    "social media advertising strategies for cafes",
+    "social media effect analysis",
+    "monthly cafe sales trends report"
+  ],
+  "57": [
+    "tiktok streaming commerce",
+    "tiktok live streaming examples",
+    "tiktok live streaming business strategies",
+    "tiktok live streaming ecommerce platform features",
+    "tiktok livestreaming commerce implementation"
+  ],
+  "58": [
+    "fake news spread propagation",
+    "fake news spread in asia",
+    "fake news politics",
+    "fake news countermeasures",
+    "entities spreading fake news"
+  ],
+  "59": [
+    "Mozi satellite system architecture",
+    "mozi satellite manufacturing processes",
+    "satellite manufacturing examples",
+    "satellite engineering design software",
+    "space engineering manufacturing techniques"
+  ],
+  "60": [
+    "quantum computing architecture",
+    "quantum 6g integration platforms",
+    "6G quantum processor architecture designs",
+    "quantum processor components",
+    "quantum tech applications"
+  ],
+  "61": [
+    "quantum computer funding networks",
+    "quantum computer distribution network protocols",
+    "quantum distribution optimization",
+    "quantum computing policy analysis",
+    "quantumcomputerfunding"
+  ],
+  "62": [
+    "takatori lipid domain simulation",
+    "Takatori lipid domain acceleration methods",
+    "Takatori membrane lipid growth dynamics",
+    "membrane domain dynamics Takatori",
+    "Takatori phase field lipid membrane works"
+  ],
+  "63": [
+    "langen laser cooling 2024",
+    "laser cooling molecules Langen",
+    "laser cooling methods",
+    "laser cooling experiments",
+    "laser cooling applications"
+  ],
+  "64": [
+    "seismic retrofitting rc building design",
+    "ai seism retrofitting techniques",
+    "seismic retrofitting ai model implementation details",
+    "pedicitive modeling techniques",
+    "ai seismic modeling"
+  ],
+  "65": [
+    "robotics development platforms",
+    "robotics learning platforms",
+    "robotics development tools",
+    "software development for robotics",
+    "educational tech robotics"
+  ],
+  "66": [
+    "quantum experiments in space",
+    "quantum satellite technology",
+    "quantum computing applications",
+    "quantum error correction techniques",
+    "qess experiments satellite"
+  ],
+  "67": [
+    "academic preparedness testmanship skills",
+    "testmanship skills",
+    "testmanship academic performance relationship",
+    "testmanship skills keywords",
+    "testmanship skill theoretical frameworks"
+  ],
+  "68": [
+    "sex education studies",
+    "sex in home cooking",
+    "home economics feminist perspective",
+    "home economics nutrition",
+    "home economics relationships"
+  ],
+  "69": [
+    "online games addiction effects on humss students",
+    "online games humss students philippines",
+    "online gaming addiction impact on students",
+    "online game addiction effects on humss students",
+    "online gaming impact on student behavior"
+  ],
+  "70": [
+    "child attention span studies",
+    "attention span teaching strategies",
+    "child attention span by book size",
+    "learning strategies for children",
+    "big books reading comprehension"
+  ],
+  "71": [
+    "food safety awareness topics",
+    "food safety practices",
+    "food safety guidelines",
+    "food safety nutrition",
+    "food safety consumer behavior"
+  ],
+  "72": [
+    "author west africa works",
+    "French neo-colonisation of West african economic systems",
+    "colonial legacy africa",
+    "West african resistance",
+    "West african history theories"
+  ],
+  "73": [
+    "zeolite banana fiber properties",
+    "zeolite banana fiber products",
+    "banana fiber chemical properties",
+    "zeolite applications",
+    "sustainable composite materials"
+  ],
+  "74": [
+    "anxiety genetics",
+    "anxiety gene therapy",
+    "anxiety genetic markers",
+    "anxiety gene transfer mechanism",
+    "anxiety genetic transfer clinical trials"
+  ],
+  "75": [
+    "memory consolidation models european math society",
+    "memory consolidation mathematical models",
+    "european mathematical society models",
+    "memory consolidation models",
+    "memory research computational approaches"
+  ],
+  "76": [
+    "mnemonic device types",
+    "mnemonic modeling research",
+    "mnemonic device abm",
+    "mnemonic device examples",
+    "Agent Based Modeling Mnemonic Devices"
+  ],
+  "77": [
+    "mental health senior high student issues",
+    "self esteem and mental health",
+    "mental health effects self esteem",
+    "self esteem impact academic performance",
+    "literature review self esteem academic achievement"
+  ],
+  "78": [
+    "pineapple peel stain removal effectiveness",
+    "pineapple peel bleach alternatives",
+    "pineapple peel cleaning solutions",
+    "how much does pineapple peel natural bleach cost",
+    "natural synthetic bleach alternatives"
+  ],
+  "79": [
+    "ocean acidification dataset types",
+    "ocean acidification technologies",
+    "ocean acidification mitigation strategies",
+    "ocean acidification impacts mitigation strategies",
+    "ocean acidification effects on marine life"
+  ],
+  "80": [
+    "mesoporous GaN DBR fabrication techniques",
+    "fabrication techniques GaN nanostructures",
+    "GaN DBR fabrication techniques",
+    "giant GaN nanocolumns fabrication techniques",
+    "nanoporous GaN DBRs techniques"
+  ],
+  "81": [
+    "quantum technology applications",
+    "quantum detection instruments",
+    "quantum physics applications examples",
+    "quantum physics application maps",
+    "quantum light detection systems"
+  ],
+  "82": [
+    "indian agriculture policy indian public",
+    "indian agriculture initiatives",
+    "indian politician",
+    "indian agricultural policies",
+    "Narendra Modi energy policy"
+  ],
+  "83": [
+    "twin ectopic pregnancy treatment outcomes",
+    "ectopic pregnancy causes",
+    "ectopic pregnancy diagnosis criteria",
+    "ectopic pregnancy treatment protocols",
+    "pregnancy outcomes statistics"
+  ],
+  "84": [
+    "study habits academic performance 2020-2025",
+    "study habits academic performance papers",
+    "study habits outcomes",
+    "study habits impact factors",
+    "study efficiency strategies"
+  ],
+  "85": [
+    "mimo antenna materials",
+    "mimo antenna freq lasers",
+    "laser treated antennas high ghz",
+    "dual polarization antenna",
+    "antenna beamforming algorithms"
+  ],
+  "86": [
+    "sound effects ethics in film",
+    "foley sound techniques",
+    "foley techniques in film education",
+    "foley art applications",
+    "foley techniques for creating realistic sounds"
+  ],
+  "87": [
+    "food pricing carinderia tanauan city",
+    "consumer perception of local food",
+    "consumer behavior studies carinderia food",
+    "carinderia types tanauan city consumers",
+    "carinderia survey methods for qualitative analysis"
+  ],
+  "88": [
+    "medical imaging animals evora",
+    "evora radiography animal images",
+    "animal radiography ai",
+    "renewable energy sources",
+    "sustainable conservation practices climate change birds"
+  ],
+  "89": [
+    "chalcone properties",
+    "chalcone applications",
+    "chalcone pharmacology",
+    "natural compounds with medicinal properties",
+    "renewable energy technologies"
+  ],
+  "90": [
+    "climate institute policy",
+    "renewable energy climate change",
+    "climate change mitigation strategies",
+    "renewable energy policy frameworks",
+    "renewable energy options"
+  ],
+  "91": [
+    "benzoic acid azo reaction mechanism",
+    "benzoic acid azo compound characteristics",
+    "azo compounds",
+    "azo compound synthesis",
+    "azo dye properties applications"
+  ],
+  "92": [
+    "tight gas reservoirs vs condensate",
+    "gas reservoir engineering",
+    "tight gas reservoir formation",
+    "drilling optimization techniques",
+    "piston ring design"
+  ],
+  "93": [
+    "marketing ideas for small businesses",
+    "effective marketing strategies small business",
+    "marketing techniques",
+    "marketing statistics",
+    "effective marketing strategies"
+  ],
+  "94": [
+    "tolstoy dostoevsky comparative realism",
+    "tolstoy tolstoy brothers karamazov",
+    "dostoevsky themes",
+    "dostoevsky brothers karamazov analysis",
+    "tolstoy_dostoevsky_realism"
+  ],
+  "95": [
+    "vortex detection machine learning BEC",
+    "bose einstein condensate vortex detection methods",
+    "broadening search to more machine learning techniques",
+    "BoseEinsteinMachineLearning",
+    "boson wavefunction measurements"
+  ],
+  "96": [
+    "swat network architecture",
+    "SWAT implementatons in streamflow",
+    "BiLSTM SWAT",
+    "SWAT BiLSTM RNN optimization techniques",
+    "lstm models for hydrology"
+  ],
+  "97": [
+    "zinc studies diarrhea prevention",
+    "zinc based treatment diarrhea prevention",
+    "zinc analogs diarrhea",
+    "antimicrobial compounds diarrhea prevention",
+    "dietary fiber"
+  ],
+  "98": [
+    "recovalent two-state reactivity",
+    "two-state reactivity mechanisms",
+    "two-state reactivity definition",
+    "two state reactivity theory",
+    "two state reactivity mechanism"
+  ],
+  "99": [
+    "malaysia badminton market competitors",
+    "malaysian badminton market trends",
+    "malaysian badminton brands",
+    "malaysian badminton industry overview",
+    "malaysian sports equipment brands"
+  ],
+  "100": [
+    "ardruino iot control scripts",
+    "ardruino temperature control circuits",
+    "Arduino control systems examples",
+    "arduino iot sensor integration",
+    "arduino project ideas"
+  ],
+  "101": [
+    "other variables of student expenses",
+    "student expenses variables",
+    "student expense categories",
+    "student expense costs",
+    "student costs"
+  ],
+  "102": [
+    "evora veterinary radiography exotic animals author",
+    "evora 2018 radiography birds",
+    "evora radiography birds techniques",
+    "evora bird radiography protocol",
+    "psittacine radiographic findings"
+  ],
+  "103": [
+    "radiography techniques in psittacines",
+    "bird radiography studies",
+    "radiography bird lung disease",
+    "renewable energy systems",
+    "psittacine x ray imaging"
+  ],
+  "104": [
+    "custos radiografia evora 2017",
+    "Custos radiografia aves vet",
+    "evora veterinary medicine custos authors",
+    "bird radiography custos",
+    "evora veterinary psittacines radiography"
+  ],
+  "105": [
+    "psittacines evora 2018",
+    "evora psittacines authors",
+    "psittacines evora researchers",
+    "psittacines thesis Portugal",
+    "psittacines evora discipline"
+  ],
+  "106": [
+    "evora radiography 2018",
+    "evora late radiography",
+    "evora keyword radiography",
+    "evora radiography works",
+    "evora 2018 radiology results"
+  ],
+  "107": [
+    "extraction method rosemary",
+    "rosemary extracts CO2 Morocco",
+    "rosemary extraction technique morocco",
+    "rosemary extraction methods in morocco",
+    "sustainable rosemary extraction methods morocco"
+  ],
+  "108": [
+    "oppolzer longifolene synthesis",
+    "longifolene synthesis",
+    "longifolene synthesis yield",
+    "longifolene properties",
+    "longifolene bioactive compounds"
+  ],
+  "109": [
+    "api design patterns and antipatterns",
+    "semantic analysis restful apis linguistic patterns",
+    "restful api linguistic analysis",
+    "linguistic pattern detection api designs",
+    "linguistic features api design"
+  ],
+  "110": [
+    "mixed-integer bilevel programming techniques",
+    "mixed integer bilevel linear programming",
+    "mixed integer set covering optimization",
+    "multi param bilevel programming",
+    "optimization algorithms for quadratic programming"
+  ],
+  "111": [
+    "prolog control flow rules",
+    "prolog control flow testing",
+    "prolog control rule optimization",
+    "prolog control flow implementation",
+    "prolog testing tools"
+  ],
+  "112": [
+    "types of pine trees",
+    "pine tree benefits",
+    "pine tree biology",
+    "pine tree nutrition",
+    "trees health benefits"
+  ],
+  "113": [
+    "higher education class size 2020",
+    "class size higher education research papers",
+    "class size trends 2021",
+    "class size effects",
+    "class size effects on student learning outcomes"
+  ],
+  "114": [
+    "case studies on microsoft mathematics in schools",
+    "microsoft mathematics calculus teaching resources",
+    "calculus software evaluation for teachers students",
+    "calculus education software reviews",
+    "educational software alternatives"
+  ],
+  "115": [
+    "adolescent identity development",
+    "parental identity adolescent development",
+    "parental influence adolescent development",
+    "parenting styles in adolescence",
+    "adolescent development parenting styles"
+  ],
+  "116": [
+    "brazed joint strength in practice",
+    "brazed joint materials",
+    "brazed joint applications",
+    "brazed joint application areas",
+    "brazed joint material properties"
+  ],
+  "117": [
+    "daily life applications of artificial intelligence robots",
+    "ai robots pros cons",
+    "ai robotics impact on society",
+    "ai robot datasets",
+    "ai robot types"
+  ],
+  "118": [
+    "international business statistics calculations",
+    "business ratio calculations",
+    "global trade statistics",
+    "business market index",
+    "international trade economics statistics"
+  ]
+}

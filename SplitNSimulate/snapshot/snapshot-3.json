@@ -1,0 +1,1281 @@
+{
+  "meta": {
+    "team_name": "Split n' Simulate",
+    "run_name": "Split-n-Simulate-run3",
+    "description": "Persona  based user simulation using llama3.2. Each session is classified into one of 8 personas via a single session LLM classifier. The LLM then simulates the persona to predict the next query, using clicked results as primary context (clicks first approach). 5 candidate queries are generated per session and ranked by cosine similarity."
+  },
+  "0": [
+    "fuzzy logic applications",
+    "fuzzy function approximators",
+    "fuzzy systems function approximation",
+    "function approximators in fuzzy logic",
+    "fuzzy systems types and architectures"
+  ],
+  "1": [
+    "types of optical filters",
+    "optical filter materials",
+    "optical amplifier design",
+    "semiconductor materials",
+    "signal attenuation reduction techniques"
+  ],
+  "2": [
+    "narrative sustainability design",
+    "narrative architecture design concepts",
+    "researcher chemical space",
+    "sustainable landscape design",
+    "chemical compounds"
+  ],
+  "3": [
+    "approximation algorithms combinatorial optimization",
+    "approximation algorithms techniques",
+    "linear programming approximation algorithms",
+    "approximation algorithms randomized primal dual",
+    "randomized algorithm techniques"
+  ],
+  "4": [
+    "stress personality traits",
+    "stress and personality disorders",
+    "stress coping personality types",
+    "personality traits stress management",
+    "extraversion stress resilience research"
+  ],
+  "5": [
+    "jasminum sambac benefits",
+    "jasminum sambac essential oils",
+    "jasminum sambac cognitive benefits",
+    "jasminum sambac scent effects on cognition",
+    "jasmine cognition benefits"
+  ],
+  "6": [
+    "contactless checkin systems for small hotels",
+    "contactless hotel systems",
+    "contactless hotel technology",
+    "contactless checkin best practices",
+    "contactless hotel checkin example"
+  ],
+  "7": [
+    "Phlebitis Prevention",
+    "phlebitis prevention interventions",
+    "phlebitis prevention guidelines",
+    "phlebitis treatment guidelines",
+    "phlebitis rcts PIVC care prevention"
+  ],
+  "8": [
+    "tallinn manual definitions",
+    "tallinn manual cyber warfare principles",
+    "tallinn cyberwar principles",
+    "cyber warfare scenario analysis",
+    "cyber warfare law terminology"
+  ],
+  "9": [
+    "nigerian political economy",
+    "nigeria economic policy",
+    "nigeria gdp growth rate",
+    "nigerian government economic policy",
+    "nigerian energy policies"
+  ],
+  "10": [
+    "rose petal flower extract dyeing",
+    "flower extract dye",
+    "natural plant dyes list",
+    "plant based natural dye recipes",
+    "natural dyes options"
+  ],
+  "11": [
+    "chitosan based food packaging applications",
+    "biodegradable packaging materials",
+    "chitosan packaging applications",
+    "chitosan biodegradable barriers",
+    "bioplastic sensor technology"
+  ],
+  "12": [
+    "parallel algorithms ACM",
+    "parallel algorithms techniques",
+    "parallel processing data structures",
+    "parallel processing techniques for homogeneous cores",
+    "parallel graph data structures"
+  ],
+  "13": [
+    "icc jurisdiction state party nationals",
+    "icc prosecution methodology papers",
+    "icc jurisdiction by nationality",
+    "icc prosecutions by state nationality",
+    "icc state party prosecution"
+  ],
+  "14": [
+    "pain assessment tools ICU",
+    "pain management icu protocols",
+    "ICU protocol updates pain management",
+    "pain sedation ICU scale studies",
+    "pain sedation scales intensive care unit populations"
+  ],
+  "15": [
+    "insurance sector climate change mitigation strategies",
+    "solar energy integration climate change",
+    "insurance sector renewable energy integration",
+    "insurance sector solar energy systems",
+    "climate resilient solar engineering"
+  ],
+  "16": [
+    "fc-ack vs as-ack",
+    "tcp ack",
+    "network protocol examples",
+    "acknowledgement protocol interactions",
+    "linux kernel development tools"
+  ],
+  "17": [
+    "parenting styles on academic performance by age range",
+    "types of parenting and academic outcomes",
+    "parenting styles by age group",
+    "parenting style effects young children academically",
+    "parenting interventions for preschoolers"
+  ],
+  "18": [
+    "punic wars angela anne coco",
+    "punic history wars",
+    "Causes Punic Wars",
+    "punic wars roman history",
+    "punic wars scholarly resources"
+  ],
+  "19": [
+    "dynamic programming algorithms",
+    "policy search keyword",
+    "policy optimization algorithms",
+    "greedy policy optimization algorithms",
+    "dp algorithms in politics"
+  ],
+  "20": [
+    "car nk vs car t",
+    "car t nk outcomes",
+    "car nk treatment outcomes",
+    "CAR NK cell therapy",
+    "CAR T cancer treatment success"
+  ],
+  "21": [
+    "model checking p2p applications",
+    "aspectj qos p2p services",
+    "p2p software engineering qos",
+    "model checking with aspectJ p2p",
+    "aspectj qos management"
+  ],
+  "22": [
+    "postcolonial jeremy punt articles",
+    "postcolonial decolonial education",
+    "postcolonial theory",
+    "postcolonial theory keywords",
+    "decolonial examples in education"
+  ],
+  "23": [
+    "compliance costs adaptation",
+    "short term work policies",
+    "social commerce cost optimization",
+    "social commerce compliance cost management strategies",
+    "regulatory compliance guidelines"
+  ],
+  "24": [
+    "baking soda fire extinguisher products",
+    "baking soda chemical fire suppression",
+    "household fire extinguisher agents",
+    "household items for fire",
+    "chemical fire foam alternatives"
+  ],
+  "25": [
+    "ai education impact",
+    "ai educational tools",
+    "ai integration classroom strategies",
+    "ai education impact studies",
+    "ai impact on student performance metrics"
+  ],
+  "26": [
+    "effective short term interventions for students with disabilities in PE and PA",
+    "disability support in sports",
+    "disability sport participation",
+    "physicalactivityinschools",
+    "adaptive physical education"
+  ],
+  "27": [
+    "combat vehicle armor materials",
+    "btr 80 infantry vehicle specs",
+    "btr_80a_performance",
+    "btr tracked wheel",
+    "btr engine specs"
+  ],
+  "28": [
+    "methane vs carbon dioxide alternatives",
+    "methane vs carbon dioxide validation",
+    "carbon dioxide effects",
+    "carbon dioxide emissions",
+    "climate change impact methane"
+  ],
+  "29": [
+    "consumer satisfaction grade 12 students",
+    "consumer satisfaction factors",
+    "canteen menu options",
+    "canteen menus student satisfaction studies",
+    "student satisfaction survey methods"
+  ],
+  "30": [
+    "author studies lemon shoe",
+    "lemon shoe polish authors",
+    "lemon shoe polish effectiveness study",
+    "education studies by author",
+    "scholarly LSP research"
+  ],
+  "31": [
+    "psychological strategies for injured athletes",
+    "injured athlete positive self talk",
+    "youth athlete injury prevention",
+    "injury recovery psychological interventions",
+    "psychological coping mechanisms"
+  ],
+  "32": [
+    "efficiency optimization techniques",
+    "business process optimization strategies",
+    "business process automation",
+    "business process improvement",
+    "business process automation software"
+  ],
+  "33": [
+    "object detection image processing",
+    "object detection techniques",
+    "indian object detection",
+    "image detection tools indus",
+    "detection methods"
+  ],
+  "34": [
+    "inorganic block copolymer lithography results",
+    "block copolymer synthesis",
+    "block copolymer materials",
+    "short form search optimization",
+    "polymer property testing"
+  ],
+  "35": [
+    "CT patterns antimicrobial resistance",
+    "COVID-19 hospital acquired infections",
+    "CT pulmonary imaging covid-19",
+    "covid ct segmentation techniques",
+    "ct pattern quantification methods covid"
+  ],
+  "36": [
+    "qos enabled vpn application examples",
+    "optimization techniques qos vpn",
+    "qos corba networking protocols",
+    "qos optimization techniques low latency",
+    "CORBA middleware alternatives"
+  ],
+  "37": [
+    "covid 19 vaccine adjuvants",
+    "COVID vaccine development strategies",
+    "coronavirus vaccination treatment materials",
+    "B cell subsets and mRNA vaccines",
+    "mRNA vaccine development strategies"
+  ],
+  "38": [
+    "adherence interventions heart failure patients",
+    "heart failure biomarkers",
+    "heart failure treatment compounds sudan",
+    "pharmacologic interventions for heart failure",
+    "non invasive hemodynamics imaging techniques"
+  ],
+  "39": [
+    "linear programming applications",
+    "linear programming tutorials",
+    "linear programming performance",
+    "linear prog solvers",
+    "programming paradigms transactional vs procedural"
+  ],
+  "40": [
+    "carbon nanotube surface chemistry",
+    "carbon nanotube solar efficiency",
+    "renewable energy carbon nanotube applications",
+    "carbon nanotube oxazepam adsorption kinetics",
+    "carbon nanotube applications in energy"
+  ],
+  "41": [
+    "polysulfone based composite membrane properties",
+    "polysulfone cnt nanostructuring",
+    "CNT synthesis techniques",
+    "composite membrane optimization",
+    "pool boiling CNT membranes"
+  ],
+  "42": [
+    "cordyceps sinensis extracts",
+    "EMT_inhibitors_cordyceps_sinensis",
+    "naturally occurring anti fibrosis agents",
+    "cordyceps sinensis nucleosides nephropathy",
+    "emt inhibiting compounds"
+  ],
+  "43": [
+    "law and magic theory",
+    "law and magic corcos author works",
+    "law magic keywords",
+    "works by corcos",
+    "legal fiction books"
+  ],
+  "44": [
+    "fluid dynamics modeling software",
+    "fluid dynamics modeling 3d bioreactors",
+    "Recent high order cfd papers",
+    "bioreactor aerodynamics cfd geometries",
+    "CFD cellular microenvironment"
+  ],
+  "45": [
+    "abdominal aortic aneurysm inflammation recent studies",
+    "treatment trial outcomes aortas",
+    "inflammation molecular markers AAA",
+    "aa inflammaration causes",
+    "AAA stent placement outcomes"
+  ],
+  "46": [
+    "animal health pandemic preparedness",
+    "h1n1 vaccine safety",
+    "Cambodia foot-and-mouth disease vaccines",
+    "zoonotic disease control veterinary practice",
+    "disease transmission in cambodian livestock"
+  ],
+  "47": [
+    "e. coli thermodynamic parameters dnaJ",
+    "DNAj null mutant survival mechanisms",
+    "protein-protein interaction network escherichia coli",
+    "e coli metabolic pathways",
+    "E coli dna metabolic pathways"
+  ],
+  "48": [
+    "shortage effectiveness intervention",
+    "undergraduate clinical education program authors",
+    "clinical education authors",
+    "author expertise",
+    "effective clinical education curriculum"
+  ],
+  "49": [
+    "laboratory safety guidelines",
+    "laboratory safety regulations",
+    "laboratory safety protocols",
+    "school laboratory safety with limited resources",
+    "lab safety protocols example"
+  ],
+  "50": [
+    "smoking cessation author credibility",
+    "men smoking cessation interactive video",
+    "nicotine replacement therapies",
+    "video creators",
+    "electric cigarette companies"
+  ],
+  "51": [
+    "CRISPR/Cas9 editing efficiency optimization",
+    "CRISPR Cas9 optimization techniques",
+    "Cas9 gene editing outcome pathway",
+    "CRISPR Cas9 gene expression outcomes",
+    "successful applications CRISPR EBV transformed cells"
+  ],
+  "52": [
+    "co-construction higher education instructional strategies",
+    "higher ed instructional design authors",
+    "scholar search authors highereducation",
+    "instructional methodologies for co-construction",
+    "researcher studies on co construction"
+  ],
+  "53": [
+    "heat treatment flour industry",
+    "heat treatment flour data 2014",
+    "heat treatment flour by region",
+    "heat treatment applications",
+    "heat treated grains"
+  ],
+  "54": [
+    "aminoglycosides treatment protocol heart failure haemopericardium",
+    "heart failure treatment options",
+    "biological pathways in heart failure",
+    "heart bleeds management",
+    "heart condition complications treatment"
+  ],
+  "55": [
+    "energy efficiency synergies",
+    "energy efficiency policy frameworks",
+    "renewable energy policy",
+    "carbon footprint building methods",
+    "carbon footprint reduction strategies"
+  ],
+  "56": [
+    "Tracheobronchopathia osteochondroplastica pulmonary tuberculosis",
+    "diagnosis methods tuberculosis",
+    "osteochondroplasia and pulmonary tb diagnosis",
+    "TB diagnosis alternative Zambia",
+    "TB Lamp assay effectiveness study zambia"
+  ],
+  "57": [
+    "carbon nanowire synthesis methods",
+    "Sr2FeMoO6 thickness range",
+    "superconductor nanowire interactions",
+    "Sr2MnMoO6 compounds",
+    "MoOx electronic conductivity studies"
+  ],
+  "58": [
+    "elj volume academic overview",
+    "journal topic keywords",
+    "educational performance studies",
+    "academic journal publications",
+    "educational journal topics"
+  ],
+  "59": [
+    "surface plasmon interactions",
+    "surface plasmon polariton applications",
+    "surface plasmon resonance properties",
+    "core shell nanoparticles surface plasmon",
+    "core shell Fe3O4 plasmon resonance"
+  ],
+  "60": [
+    "learning outcomes in AI",
+    "alternative education settings for students",
+    "ai impact learning outcomes schools",
+    "ai education outcomes",
+    "author name ai educational tools"
+  ],
+  "61": [
+    "ApoE genotype effects cognitive decline",
+    "ApoE cognition polymorphism",
+    "apoE cognitive decline effects study",
+    "apoE4 related gene expression",
+    "apoecognitive selfreliance"
+  ],
+  "62": [
+    "lips characterization of polyolefins",
+    "lips degradability plastics",
+    "laser induced surface topography",
+    "plastics composition analysis lips",
+    "lipsc characterization techniques"
+  ],
+  "63": [
+    "Effects of pesticides on cognitive function",
+    "cns pharmacology analgesics",
+    "environmental toxins and neuroscience",
+    "neurotoxic effects environmental pollutants",
+    "environmental toxins short term CNS effects"
+  ],
+  "64": [
+    "epidemiology pediatric kidney disease sweden",
+    "chronic kidney disease childhood survival rates",
+    "pediatric cardiovascular complications",
+    "kidney health statistics",
+    "kidney function biomarkers"
+  ],
+  "65": [
+    "phase contrast sequence optimization techniques",
+    "phase contrast optimization techniques",
+    "phase contrast algorithm optimization",
+    "cellphone microscope phase contrast methods",
+    "mri sequence optimization algorithms"
+  ],
+  "66": [
+    "hepatitis c prevention in injecting drug users",
+    "liver disease hepatitis studies",
+    "viral replication mechanisms",
+    "nash treatment compounds",
+    "nash treatment options"
+  ],
+  "67": [
+    "probiotics immunodeficient mice model",
+    "gut microbiota normalization studies",
+    "probiotics childhood mental health",
+    "probiotic therapy in animal models",
+    "microbiome research tools childhood mental health"
+  ],
+  "68": [
+    "aspergillus dna sequences amplification",
+    "dna polymerase l cells amplification",
+    "DNA polymerase assembly protocols",
+    "molecular markers for heat shock response",
+    "fungal gene regulation pathways"
+  ],
+  "69": [
+    "food waste reduction strategies",
+    "sustainable food systems",
+    "rural food system sustainability",
+    "food cooperative community health impact",
+    "food coop impact local economy"
+  ],
+  "70": [
+    "hepatitis C virus genotypes",
+    "hepatitis c virus clinical management",
+    "hcv pcr optimization",
+    "hcv genotype variability",
+    "hcv treatment options"
+  ],
+  "71": [
+    "local structure analysis brain-computer interface",
+    "stimulus independent bci neural network",
+    "neural networks vs statistical classification bci",
+    "bci stimulation frequencies",
+    "success rate neural networks BCI"
+  ],
+  "72": [
+    "cloud computing geosciences implementations",
+    "geoscience cloud computing alternatives",
+    "cloud computing frameworks for geoscience applications",
+    "cloud geoscience tools",
+    "cloud geo computational resources"
+  ],
+  "73": [
+    "treatment options for obstructive sleep apnea neuro",
+    "obstructive sleep apnea complications",
+    "obstructive sleep apnea treatment outcomes",
+    "obstructive sleep apnea neuroophthalmology complications",
+    "obstructive sleep apnea eye problems treatment"
+  ],
+  "74": [
+    "machine learning protein design",
+    "protein engineering techniques",
+    "protein engineering methodologies",
+    "thermostable enzyme engineering",
+    "protein modification methods for lyases"
+  ],
+  "75": [
+    "abm senior high school academic performance impact",
+    "mobile phone use on student learning outcomes",
+    "mobile phones in education research",
+    "teaching strategies by student subgroup",
+    "Mobile phone impact on learning outcomes"
+  ],
+  "76": [
+    "additive manufacturing software",
+    "additive manufacturing orthopedic devices applications",
+    "am success stories orthopedic",
+    "metal 3D printing process",
+    "orthopaedic implants"
+  ],
+  "77": [
+    "deep learning super resolution techniques",
+    "medical image super-resolution dictionary improvement",
+    "medical image reconstruction",
+    "deeplearning medicalimaging",
+    "deep learning methods medim image sr"
+  ],
+  "78": [
+    "cylinder flow temperature gradient",
+    "fluid dynamics with temperature gradient",
+    "brain temp during exercise",
+    "cylindrical surface roughness effects on flow",
+    "cylindrical surface roughness effect"
+  ],
+  "79": [
+    "BaTiO3 CdS photocatalysis properties",
+    "photo electric catalysis degradation efficiency",
+    "CdS nanocrystal synthesis",
+    "BaTiO3CdS hybrids",
+    "BaTiO3/CdS photocatalyst"
+  ],
+  "80": [
+    "stem cell differentiation mechanisms",
+    "hematopoietic stem cell signaling pathways",
+    "pericyte leydig cell interaction studies",
+    "pericyte function in cellular",
+    "pericyte development in male fertility"
+  ],
+  "81": [
+    "GNSS InSAR atmospheric modeling",
+    "GNSS InSAR fusion techniques",
+    "InSAR fusion techniques",
+    "short keyword works",
+    "existing works hydrognss"
+  ],
+  "82": [
+    "insurance industry response to national health",
+    "insurance innovation policy",
+    "healthcare policy usa",
+    "forward looking energy policy enactments",
+    "healthcare digitization"
+  ],
+  "83": [
+    "parvo virus disease",
+    "parvo virus treatment clinical trials",
+    "parvovirus b19 treatment",
+    "short keyword",
+    "parvovirus types"
+  ],
+  "84": [
+    "type 2 diabetes nephropathy compounds",
+    "type 2 diabetes pill burden management",
+    "provial nephropathy subtype",
+    "diabetes medication mechanism of action",
+    "kidney damage treatment options"
+  ],
+  "85": [
+    "photonic crystal materials glycosuria",
+    "photonic crystal glycosuria sensing techniques",
+    "photonic crystal biosensor design optimization",
+    "biochip glycosuria gas sensing",
+    "photonic crystals for gas sensing applications"
+  ],
+  "86": [
+    "porous particle materials for pulmonary drug delivery",
+    "porous particle materials for pulmonary delivery",
+    "pulmonary drug delivery mechanisms",
+    "pulmonary particulates alginate matrix",
+    "high surface area materials"
+  ],
+  "87": [
+    "narrow nano treatment options COVID-19",
+    "COVID 19 treatment options",
+    "pediatric covid treatment protocols",
+    "pediatric vaccine administration protocols",
+    "nanoparticle covid19 delivery systems"
+  ],
+  "88": [
+    "breast cancer survivors and smoking risks",
+    "adjuvant therapies breast cancer",
+    "breast cancer treatment outcomes",
+    "breast cancer support outcomes",
+    "breast cancer patient outcomes and health"
+  ],
+  "89": [
+    "photon vs proton irradiation effects on head and neck squamous cell carcinoma",
+    "effectiveness aldehydes on proton vs photon irradiation",
+    "radiation therapy modulation mechanisms",
+    "radiation response mechanisms cellular signaling",
+    "hnscc molecular targets radiation"
+  ],
+  "90": [
+    "carbon nanotube dispersion agents",
+    "carbon based materials adsorption mechanisms",
+    "mwcnt dispersion improvement strategies",
+    "functional groups p-aminobenzoic cellulose",
+    "cellulose adsorbent materials"
+  ],
+  "91": [
+    "AHR ligand effects on phagocytic IFN- production",
+    "influenza ahr signaling pathway",
+    "AHR CD8+ T cells Th differentiation",
+    "transcription factor roles in cd4+ t cells",
+    "AHR interactions with TLR4"
+  ],
+  "92": [
+    "leptogenesis experiments",
+    "testable leptogenesis models",
+    "leptogenesis validated studies",
+    "leptogenesis framework",
+    "leptogenesis models"
+  ],
+  "93": [
+    "spinal tuberculosis treatment options",
+    "modern treatments spinal tuberculosis",
+    "tuberculosis progression studies",
+    "spinal tb treatment",
+    "tuberculosis bone infection therapy"
+  ],
+  "94": [
+    "genetic algorithm neural networks optimization",
+    "genetic optimization models",
+    "genetic alg hyperparam tuning",
+    "genetic algorithms neural networks bp",
+    "bp neural network optimization techniques"
+  ],
+  "95": [
+    "percutaneous coronary bleeds",
+    "anticoagulant bleeding risk score",
+    "improve bleeding risk score validation studies",
+    "validation studies for bleeding risk scores",
+    "bivalirudin mortality outcome PCI"
+  ],
+  "96": [
+    "imunotherapy small cell lung cancer",
+    "lung cancer rare mutations non small",
+    "FRK ROS1 mutation in NSCLC cell lines",
+    "crizotinib efficacy by tumor biology",
+    "CRISPR therapy for NSCLC"
+  ],
+  "97": [
+    "texture analysis algorithms",
+    "data processing pipelines",
+    "FTIR spectroscopy methods",
+    "image processing techniques",
+    "FTIR spectroscopy imaging"
+  ],
+  "98": [
+    "High speed steel properties after thermal treatment",
+    "high speed steel grinding optimization techniques",
+    "material properties analysis",
+    "hydrogen storage materials",
+    "plasma facing material hydrogen retention"
+  ],
+  "99": [
+    "tropos framework security",
+    ", tropos works security",
+    "tropos security framework implementation",
+    "tropos framework",
+    "secure tropos framework implementations"
+  ],
+  "100": [
+    "energy harvesting wireless sensor networks",
+    "wireless sensor network energy efficiency",
+    "implementation challenges wireless sensor networks",
+    "energy harvesting wireless sensors",
+    "mobile sensor network protocols"
+  ],
+  "101": [
+    "pain management protocols emergency department",
+    "effective pain management tools emergency departments",
+    "pain management interventions",
+    "pain management tools",
+    "pain management medication reviews"
+  ],
+  "102": [
+    "effective field theory nuclear physics calculations",
+    "effective field theory nuclear structure",
+    "effective field theory nuclear matrix elements",
+    "Effective Field Theory models",
+    "nuclear shell model calculations"
+  ],
+  "103": [
+    "coronary heart disease studies",
+    "coronary heart valve disease hcmv",
+    "HCMV Infection Pathway",
+    "hcmv cd14 cd16 monocyte",
+    "causes cardiovascular HCMV infection"
+  ],
+  "104": [
+    "property based software engineering measurement techniques",
+    "property based software metrics",
+    "software engineering anti patterns",
+    "property based testing methodologies",
+    "pbeso measurement techniques"
+  ],
+  "105": [
+    "epilepsy occupational epidemiology properties",
+    "epilepsy epidemiology studies",
+    "epilepsy occupational health outcomes",
+    "epilepsy compound drug treatment",
+    "epilepsy occupation risk factor analysis"
+  ],
+  "106": [
+    "obesity colorectal cancer",
+    "colorectal cancer treatment protocols",
+    "obesity colorectal cancer drug targets",
+    "obesity treatment options",
+    "obesity biology compounds"
+  ],
+  "107": [
+    "SARS CoV 2 neutralizing antibodies",
+    "sars cov 2 long term immune",
+    "geriatric physical activity SARS-CoV2",
+    "exercise protocols for COVID-19 recovery",
+    "longtermexerciseprotocols"
+  ],
+  "108": [
+    "energy efficient wireless sensor network protocols",
+    "energy efficient routing protocols for multihop wireless",
+    "energy efficient wireless mesh protocol",
+    "wireless sensor node localization methods",
+    "multihop wireless mac protocol design"
+  ],
+  "109": [
+    "ethnicity heart failure prognosis",
+    "heart failure ethnicity studies",
+    "ethnicity heart failure treatment outcome",
+    "genetic factors heart failure ethnicity",
+    "korean heart failure diagnosis criteria"
+  ],
+  "110": [
+    "peer pressure effects in asian high school students",
+    "academic peer pressure asian countries",
+    "peer pressure asian students outcomes",
+    "peer pressure definition asian students education",
+    "academic peer pressure effects asian countries"
+  ],
+  "111": [
+    "dark matter annihilation AMS-02",
+    "dark matter neutrino interactions",
+    "dark matter antimatter annihilation",
+    "dark matter model antiproton production",
+    "dark matter interactions with stellar cores"
+  ],
+  "112": [
+    "water quality remediation techniques",
+    "Sundarban radium water",
+    "radium 226 water quality",
+    "water radon levels coastal mangroves",
+    "radium 226 water quality statistics"
+  ],
+  "113": [
+    "risk factors acute ischemic stroke",
+    "successful treatment options for post ischemic stroke",
+    "inflammation markers stroke",
+    "biological mechanisms stroke immunology",
+    "early intervention stroke prevention compounds"
+  ],
+  "114": [
+    "carbon nanotube modelling techniques",
+    "carbon nanotube sensing",
+    "carbon nanotube applications",
+    "carbon nanotube synthesis methods",
+    "CNT biosensor synthesis"
+  ],
+  "115": [
+    "land remediation techniques",
+    "ecological restoration models",
+    "land restoration techniques",
+    "rehabilitation methods for degraded land",
+    "land restoration methods"
+  ],
+  "116": [
+    "polyunsaturated fatty acid effects on multiple sclerosis prognosis",
+    "polyunsaturated fatty acids ms treatment",
+    "polyunsaturated fatty acids treatment options",
+    "fatty acid supplementation ms",
+    "fatty acid supplements ms"
+  ],
+  "117": [
+    "dark matter detection experiments",
+    "dark matter astrophysics reviews",
+    "dark matter detection efficiency improvements",
+    "effective theory dark matter detectors",
+    "effective theory dark matter detection papers"
+  ],
+  "118": [
+    "Alzheimer disease treatments",
+    "Alzheimer disease treatment options",
+    "Alzheimer disease neuromyelitis optica spectrum",
+    "amyloid beta inhibitors",
+    "demyelinating diseases overlap"
+  ],
+  "119": [
+    "munessa shashemene land use change",
+    "GIS munessa shashemene land cover change",
+    "gis land cover change classification",
+    "savanna ecosystem munessa shashemene object-based classification",
+    "object based class"
+  ],
+  "120": [
+    "type 2 diabetes drug candidates",
+    "genetic markers for gestational diabetes",
+    "diabetes genetics pathway",
+    "diabetic complication risk factor",
+    "gene/protein name related to diabetic complications"
+  ],
+  "121": [
+    "wireless sensor network lsec integration",
+    "wireless sensor network security protocols",
+    "lightweight security protocols wireless sensor networks",
+    "mqtt security protocols",
+    "iot microcontrollers with mqtt lsec integration"
+  ],
+  "122": [
+    "ai medicine gene compound",
+    "ai compound therapy",
+    "ai in drug discovery",
+    "ai in health research",
+    "compound name"
+  ],
+  "123": [
+    "motion compensated video segmentation schemes",
+    "motion compensated dct coefficients",
+    "dct motion compensation schemes",
+    "TB SVQ optimization techniques",
+    "tb-svq implementation examples"
+  ],
+  "124": [
+    "vr boids optimization",
+    "vr boid optimization algorithms",
+    "vr flock simulation software",
+    "boids flocking behavior virtual reality",
+    "boid simulation software"
+  ],
+  "125": [
+    "tennyson literary technique analysis",
+    "tennyson works",
+    "tennyson poetry collection",
+    "tennyson poetry analysis",
+    "tennyson victorian literature themes"
+  ],
+  "126": [
+    "portraiture research design education displacement",
+    "portraiture research design displacement studies",
+    "portraiture methods education displacement",
+    "portraiture education efficacy",
+    "portrait education displacement"
+  ],
+  "127": [
+    "safran group aerospace",
+    "safran revenue over time",
+    "Safran industry supply chain",
+    "aerospace company performance",
+    "aerospace defense company profitability"
+  ],
+  "128": [
+    "software engineering authors",
+    "author name software engineering",
+    "mega software engineering principles",
+    "software development authors",
+    "leadership frameworks"
+  ],
+  "129": [
+    "software engineering methodologies",
+    "software engineering authors",
+    "probabilistic software analogy measures",
+    "probabilistic software estimation methods",
+    "probabilistic similarity measures for analogy based estimation"
+  ],
+  "130": [
+    "cultural models software engineering practice",
+    "software engineering author study",
+    "author citations cultural models",
+    "software engineering measures author research",
+    "globalization impacts on SE practices"
+  ],
+  "131": [
+    "conditional graph transformation rules",
+    "graph transformation web services",
+    "specification matching graph transformation systems",
+    "typed graph transformation systems rules",
+    "graph transformation systems author publications"
+  ],
+  "132": [
+    "cross layer optimization algorithms",
+    "cross layer protocol design",
+    "video streaming wifi optimization",
+    "voip cross layer wifi performance",
+    "researcher profile author name"
+  ],
+  "133": [
+    "logistics distribution channels",
+    "logistics optimization solutions",
+    "logistics optimization software",
+    "logistics optimization strategies",
+    "logistics process optimization strategies"
+  ],
+  "134": [
+    "self worth concepts",
+    "self worth at work",
+    "worth assessment tool",
+    "short worth perceptions",
+    "motivation factors"
+  ],
+  "135": [
+    "local government in bangladesh",
+    "Bangladesh governance corruption",
+    "academic sources government",
+    "examples implementation",
+    "public administration performance"
+  ],
+  "136": [
+    "activated charcoal no2 interactions",
+    "activated charcoal impurities",
+    "Activated charcoal in wound healing",
+    "research on activated charcoal safety",
+    "substances that work in conjunction"
+  ],
+  "137": [
+    "rammed earth sustainable building techniques",
+    "rammed earth thermal mass properties",
+    "rammed earth insulation for cold climates",
+    "rammed earth construction techniques for cold climates",
+    "eco friendly building materials"
+  ],
+  "138": [
+    "reaction time training exercises",
+    "reaction time measurement methods",
+    "reactive systems examples",
+    "athletes training methods",
+    "athletic training methods"
+  ],
+  "139": [
+    "quantum semiconductor tech",
+    "quantum electronics component",
+    "quantum dot material",
+    "electronic component demos",
+    "electronic component name search"
+  ],
+  "140": [
+    "organizational ergonomics research papers",
+    "ergonomics implementation strategies workplace",
+    "ergonomic workplace solutions",
+    "ergonomic design tools",
+    "ergonomic works"
+  ],
+  "141": [
+    "esports cafe business model",
+    "esports cafe operations",
+    "esports cafe startup costs",
+    "esports cafe operations problems",
+    "gaming cafe businesses"
+  ],
+  "142": [
+    "quantum entanglement semiconductor",
+    "semiconductor industry quantum entanglement",
+    "semiconductor quantum computing materials",
+    "quantum computing semiconductors",
+    "quantum dot materials"
+  ],
+  "143": [
+    "library services keywords",
+    "library services impact",
+    "library usage analysis",
+    "library usage in local schools",
+    "library usage in rural areas"
+  ],
+  "144": [
+    "AI applications art",
+    "AI creativity",
+    "ai applications in education",
+    "AI impact on human creativity",
+    "ai society impact author research"
+  ],
+  "145": [
+    "asymmetric diffuser 3d",
+    "asymmetric diffuser designs",
+    "asymmetric diffuser components",
+    "asymmetric diffuser optimization keywords",
+    "short diffuser designs"
+  ],
+  "146": [
+    "visual design principles",
+    "visual design concepts",
+    "visual identity design brief",
+    "design principles",
+    "visual identity brand guidelines"
+  ],
+  "147": [
+    "sustainable waste management cases",
+    "sustainable waste management best practices",
+    "zero waste kitchen designs",
+    "zero waste cooking methods",
+    "sustainable materials for building construction"
+  ],
+  "148": [
+    "Munggo bean bioplastic production methods",
+    "sustainable bioplastic recipes",
+    "sustainable bioplastic technologies",
+    "efficient bioplastic production methods",
+    "bioplastic production techniques"
+  ],
+  "149": [
+    "imran khan politics",
+    "imran khan pakistan",
+    "imran khan political record",
+    "imran khan pakistani politics",
+    "pakistan cricket team news"
+  ],
+  "150": [
+    "nuclear engineer resume",
+    "nuclear engineering courses online",
+    "nuclear power finance trends",
+    "nuclear power finance instruments",
+    "nuclear power engineering current projects"
+  ],
+  "151": [
+    "robot programming languages",
+    "multi robot kinematics",
+    "robotic programming keywords",
+    "collision avoidance robot implementation",
+    "multi robot collision avoidance algorithms"
+  ],
+  "152": [
+    "philosophy of action",
+    "one dogma philosophy",
+    "dogmatic approaches to action",
+    "mind-artificial intelligence intersection",
+    "short-term memory"
+  ],
+  "153": [
+    "component based software",
+    "software development frameworks",
+    "component based frameworks",
+    "software development environment tool",
+    "software integration tools"
+  ],
+  "154": [
+    "linear cellular automata applications",
+    "linear cellular automata mssg",
+    "mssg linear ca",
+    "linear ca properties",
+    "mssg markov chain transition probability"
+  ],
+  "155": [
+    "child development and job creation",
+    "child development theories",
+    "child development triple dividend",
+    "child development education policies",
+    "early childhood education job creation triple dividend"
+  ],
+  "156": [
+    "aggregate types in interlocking concrete block paving",
+    "asphalt pavement over icbp",
+    "waste type icbp durability",
+    "Effect of alternative soil conditions on ICBP",
+    "mechanical properties of ICBP with different types of waste"
+  ],
+  "157": [
+    "logic program transformation techniques",
+    "monadic second order unfold proofs",
+    "Constraint Logic Program Synthesis Techniques",
+    "logic program optimization techniques",
+    "contextual specialization cclp"
+  ],
+  "158": [
+    "logic programming web services",
+    "logic programming as a service author",
+    "author publications logic",
+    "author logic programming services",
+    "author works in logic programming"
+  ],
+  "159": [
+    "answer set programming solving methods",
+    "asp optimization algorithms",
+    "asp optimization techniques",
+    "asp constraint satisfaction approaches",
+    "optimization techniques asp pro"
+  ],
+  "160": [
+    "quantum to classical transition mechanisms",
+    "quantum computing classical limits",
+    "quantum decoherence",
+    "quantum decoherence models",
+    "quantum decoherence dynamics"
+  ],
+  "161": [
+    "quantum internet applications",
+    "short internet quantum",
+    "quantum internet company tech",
+    "quantum networking concepts",
+    "quantum key distribution"
+  ],
+  "162": [
+    "sufism conservation",
+    "sufism sustainability ecology",
+    "sufism environmental studies",
+    "sufism ecology crisis",
+    "sufi ecology"
+  ],
+  "163": [
+    "color theory",
+    "color symbolism theory",
+    "colour theory topics",
+    "colour theory",
+    "colour theory education"
+  ],
+  "164": [
+    "computational methods science engineering",
+    "computational biology",
+    "computational method algorithm",
+    "mathematical modeling applications",
+    "numerical analysis optimization"
+  ],
+  "165": [
+    "smart biomaterials properties",
+    "smart biomaterials durability test methods",
+    "smart biomaterials tissue regeneration applications",
+    "smart biomaterials for tissue regeneration graphene",
+    "biomaterials synthesis"
+  ],
+  "166": [
+    "community road damage reporting system features",
+    "barangay vs community road damage reporting",
+    "road damage reporting systems",
+    "road damage causes",
+    "road damage analysis systems"
+  ],
+  "167": [
+    "savings highschool student allowance",
+    "highschool savings studies",
+    "savings allowance examples high school",
+    "daily allowance programs success rates",
+    "high school student financial literacy"
+  ],
+  "168": [
+    "socioeconomic impacts biofuels transition",
+    "biofuel socioeconomic effects",
+    "biofuels sustainable energy author research",
+    "biofuels policy frameworks",
+    "sustainable alternative energy options"
+  ],
+  "169": [
+    "material science muscle models",
+    "polymer properties in muscle cells",
+    "polymerrproperties",
+    "muscle_fiber_types",
+    "polymer biopolymer interactions"
+  ],
+  "170": [
+    "disability cinema",
+    "disability representation movies",
+    "disability film studies",
+    "disability education strategies",
+    "disability representation in cinema"
+  ],
+  "171": [
+    "marine plastic waste reduction strategies",
+    "reduced plastic alternatives",
+    "sustainable alternatives plastic",
+    "ocean plastic cleanup solutions",
+    "bioremediation strategies"
+  ],
+  "172": [
+    "origin of life theory",
+    "origin life studies",
+    "life origins in earth",
+    "onset origin biology",
+    "biology evolution genetics"
+  ],
+  "173": [
+    "marketing influence on abm strand students",
+    "marketing strategies for career development",
+    "marketing strategy careers abm",
+    "marketing career development terms",
+    "student career choices marketing influences"
+  ],
+  "174": [
+    "reliability metrics ldpc coding",
+    "ldpc coding reliability metrics",
+    "short decoding algorithms",
+    "ldpc error correction metrics",
+    "check sum variation patterns ldpc"
+  ],
+  "175": [
+    "heavy metals philippines soil contamination",
+    "heavy metals pollution philippines",
+    "heavy metals pollution in asia",
+    "heavy metals Philippines environmental impact",
+    "heavy metal toxicity soil philippines"
+  ],
+  "176": [
+    "uav rescue technology implementation",
+    "uav design specs rescue",
+    "uav technology applications",
+    "drone tech rescue ops",
+    "drone navigation"
+  ],
+  "177": [
+    "chinese literature analysis",
+    "chinese literature studies comparative analysis",
+    "chinese authors works",
+    "chinese literary works",
+    "english literary works"
+  ],
+  "178": [
+    "color change for stain removal methods",
+    "color change stain processing",
+    "color grading software",
+    "color changing stain removers",
+    "stain removal methods"
+  ],
+  "179": [
+    "automated watering system designs",
+    "automated watering systems for small gardens",
+    "watering system designs",
+    "watering systems for small gardens",
+    "smart irrigation sensor reviews"
+  ],
+  "180": [
+    "computer vision distortion correction methods",
+    "measure smartphone distortion different lenses",
+    "computer vision distortion correction techniques",
+    "smartphone distortion measurement techniques",
+    "camera lens optimization"
+  ],
+  "181": [
+    "heat shock proteins",
+    "heat treatment techniques",
+    "effect of heat on metal properties",
+    "thermal engineering materials",
+    "thermal stress analysis"
+  ]
+}

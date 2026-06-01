@@ -1,0 +1,4 @@
+ollama                  # Run local AI models (llama3.2)
+pandas                  # Read and write CSV files
+scikit-learn            # Calculate cosine similarity between texts
+sentence-transformers   # Measure semantic similarity between queries
